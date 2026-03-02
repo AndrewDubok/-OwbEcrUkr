@@ -1,55 +1,42 @@
 ﻿l_english:
+RIV_council_name:0 "Рада Рівет-Сіті"
+ riv_cc_desc:0 "Рада Рівет-Сіті існує вже десятиліттями, представляючи три найважливіші групи суспільства міста: службу безпеки, вчених та цивільних."
 
-  RIV_council_name:0 "Rivet City Council"
-  riv_cc_desc:0 "The Rivet City Council has lasted for decades, representing the three groups most important to Rivet City society: the security, the scientists, and the civilians."
+ RIV_harkness_name:0 "Гаркнесс"
+ riv_harkness_desc:0 "Гаркнесс з'явився з пусток одного дня, стверджуючи, що він ветеран, який вийшов із коми та шукає притулку в Рівет-Сіті. Відтоді він приєднався до служби безпеки і швидко пройшов шлях до начальника охорони. Він став палким прихильником ізоляціонізму та захисту того, що має місто, і почувається тут як риба у воді. Проте дехто все ще задається питанням: ким він був до того, як потрапив у Рівет-Сіті..."
 
-  RIV_harkness_name:0 "Harkness"
-  riv_harkness_desc:0 "Harkness appeared out of the wastes one day, claiming to be a veteran coming out of a coma and looking for safety in Rivet City. Since then, he joined the security force and quickly rose through the ranks to become the security chief of Rivet City. He has become a firm believer in isolationism and protection of what they have in Rivet City and has taken to the city like a fish to water. However, some still wonder who he was before he arrived in Rivet City..."
+ RIV_danvers_name:0 "Лана Денверс"
+ riv_danvers_desc:0 "Після усунення Гаркнесса з посади начальника охорони, Лана Денверс була змушена взяти командування на себе. Колишня заступниця та найкраща подруга Гаркнесса, тепер Денверс бачить у силах безпеки Рівет-Сіті найкращий інструмент для побудови світлого майбутнього для всієї Пустки, а не лише для міста."
 
-  RIV_danvers_name:0 "Lana Danvers"
-  riv_danvers_desc:0 "Since Harkness' removal as chief of security in Rivet City, Lana Danvers has had to take over. Formerly Harkness' second in command and best friend, Danvers now sees the Rivet City Security Force as the best tool for a positive future for all of the wasteland, not just the city."
+ RIV_bannon_name:0 "Беннон"
+ riv_bannon_desc:0 "Беннон прибув до Рівет-Сіті у віці 18 років і відтоді став його найвідомішим, найбагатшим і найнещаднішим торговцем. Менш ніж через 10 років після прибуття він уже отримав місце в Раді. Ставши членом Ради, він відверто ігнорував чужі інтереси заради власних, і тепер, як лідер Рівет-Сіті, він не матиме нікого, хто міг би оскаржити його «геніальні» ідеї щодо особистого збагачення."
 
-  RIV_bannon_name:0 "Bannon"
-  riv_bannon_desc:0 "Bannon arrived in Rivet City at the age of 18 and has since become its most prominent, wealthy, and ruthless merchant. Less than 10 years after arriving in Rivet City, he found himself with a council seat. Once on the council, he blatantly disregarded anyone's interests but his own, and now, as leader of Rivet City, there'll be no one to contest him and shoot down his terrific ideas about making more money for himself."
+ RIV_seagrave_name:0 "Сігрейв Голмс"
+ riv_seagrave_desc:0 "Онук одного із засновників Рівет-Сіті, Сігрейв Голмс провів усе своє життя, щось майструючи та лагодячи. Ймовірно, саме завдяки йому місто все ще не розвалилося, він навіть зумів відновити роботів для служби безпеки. Тепер, як лідер, він сподівається принести позитивні зміни, піднімаючи рівень життя кожного в Рівет-Сіті, щоб створити місто, яке справді сяє — у всіх сенсах."
 
-  RIV_seagrave_name:0 "Seagrave Holmes"
-  riv_seagrave_desc:0 "Grandson of one of Rivet City's founders, Seagrave Holmes has spent his entire life tinkering and fixing. It's likely thanks to him that Rivet City is still held together at all, and he's even managed to restore robots for the Rivet City Security Force. Now, as leader, he hopes to bring about positive change, uplifting everyone in Rivet City to create a city that truly shines, in every sense."
+ RIV_madison_li_name:0 "Медісон Лі"
+ riv_li_desc:0 "Медісон Лі прибула до Рівет-Сіті у 2259 році, розчарована невдачею з Проєктом «Чистота». Вона зберегла інтерес до очищення води, але тепер воліла б зосередитися на розвитку потенціалу Рівет-Сіті та своїй справжній пристрасті — науці. Але оскільки гіганти в особі Анклаву та Братства загрожують знищити все, що вона створює, як довго вона тут залишатиметься?"
 
-  RIV_madison_li_name:0 "Madison Li"
-  riv_li_desc:0 "Madison Li arrived in Rivet City in 2259, having failed to make Project Purity work and becoming bitter on the idea. She has maintained an interest in water purification, but would now much rather focus on bringing Rivet City to its full potential and pursuing her true interest: science. But with the giants of the Enclave and Brotherhood threatening to overturn everything she creates, how long will she even stay?"
+ RIV_pinkerton_name:0 "Горацій Пінкертон"
+ riv_pinkerton_desc:0 "Горацій Пінкертон був одним із засновників Рівет-Сіті, коли йому було трохи за двадцять. Він присвятив життя тому, щоб зробити місто найкращим науковим інститутом Столичної Пустки. Поки його не витіснила Медісон Лі. Він пішов і жив самітником, але нарешті повернувся і обіцяє привести Рівет-Сіті до світлого роботизованого майбутнього."
 
-  RIV_pinkerton_name:0 "Horace Pinkerton"
-  riv_pinkerton_desc:0 "Horace Pinkerton was one of the original founders of Rivet City in his 20s, and dedicated his life to making Rivet City the finest city and scientific institute in the Capital Wasteland. Until he was ousted by Madison Li, that is. He left and lived a recluse, but has finally returned and promises to bring Rivet City into a bright, robotic future."
+ RIV_lillian_name:0 "Ліліан Грейнджер"
+ riv_lillian_desc:0 "Ліліан Грейнджер провела більшу частину свого життя як мандрівний лікар, блукаючи пустками та лікуючи тих, хто цього потребував. Зрештою вона вирішила осісти в Рівет-Сіті та стала важливим медичним дослідником, тісно співпрацюючи з доктором Престоном. Через низку подій вона опинилася на чолі міста — непідготовлена, але сповнена ентузіазму нести зміни."
 
-  RIV_lillian_name:0 "Lillian Granger"
-  riv_lillian_desc:0 "Lillian Granger has spent much of her life as a travelling doctor, roaming the wastes and treating people who needed it. Eventually, however, she decided to settle down in Rivet City and became an important medical researcher for the city, working closely with Dr. Preston. Through a series of events she has found herself in charge of Rivet City, unprepared but enthusiastic to bring change."
+ RIV_li_advisor_desc:0 "§RЗростання могутності Анклаву та Братства змушує Лі нервувати, вона може покинути місто§!"
 
-  RIV_li_advisor_desc:0 "§RThe developing powers of the Enclave and the Brotherhood are making Li antsy and she may leave§!"
+ RIV_abraham_washington_name:0 "Абрахам Вашингтон"
+ RIV_belle_bonny_name:0 "Белль Бонні"
+ RIV_cindy_cantelli_name:0 "Сінді Кантеллі"
+ RIV_father_clifford_name:0 "Отець Кліффорд"
+ RIV_flak_n_shrapnel_name:0 "«У Флека і Шрапнеля»"
 
-  RIV_abraham_washington_name:0 "Abraham Washington"
-
-  RIV_belle_bonny_name:0 "Belle Bonny"
-
-  RIV_cindy_cantelli_name:0 "Cindy Cantelli"
-
-  RIV_father_clifford_name:0 "Father Clifford"
-  
-  RIV_flak_n_shrapnel_name:0 "Flak 'N Shrapnel's"
-
-  riv_ruthless_merchant:0 "Ruthless Merchant"
-
-  riv_friendly_repairman:0 "Friendly Repairman"
-
-  riv_scientific_genius:0 "Scientific Genius"
-
-  riv_medical_prodigy:0 "Medical Science Prodigy"
-
-  riv_remember_the_old_world:0 "Remember the Old World"
-
-  riv_muddy_rudder:0 "The Muddy Rudder"
-
-  riv_quick_fix:0 "A Quick Fix"
-
-  riv_priest_of_saint_monica:0 "Priest of Saint Monica"
-
-  riv_best_god_damn_weapons_anywhere:0 "The Best God Damn Weapons Anywhere"
+ riv_ruthless_merchant:0 "Нещадний торговець"
+ riv_friendly_repairman:0 "Дружній ремонтник"
+ riv_scientific_genius:0 "Науковий геній"
+ riv_medical_prodigy:0 "Вундеркінд медичних наук"
+ riv_remember_the_old_world:0 "Пам'ять про Старий світ"
+ riv_muddy_rudder:0 "«Брудний штурвал»"
+ riv_quick_fix:0 "Швидке лагодження"
+ riv_priest_of_saint_monica:0 "Священник Святої Моніки"
+ riv_best_god_damn_weapons_anywhere:0 "Найкраща бісова зброя в околицях"

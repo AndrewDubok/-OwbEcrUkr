@@ -1,66 +1,66 @@
 ﻿l_english: 
-  ron_misunderstood_sport:0 "Misunderstood Sport"
-  ron_misunderstood_sport_desc:0 "The people of post-war Toronto have managed to preserve a key element of Canadian culture, through the American occupation and the decades since the Great War. The sport is practically worshipped now, as a symbol of Canadian resistance, but over the centuries the sport has become distorted, changed from its original form. Scavengers search for what they can find of the pre-war sport and the drive to unravel the truth drives the country, but with so much energy poured into ice hockey how much can they save for war?"
+  ron_misunderstood_sport:0 "Неправильно зрозумілий спорт"
+  ron_misunderstood_sport_desc:0 "Жителям післявоєнного Торонто вдалося зберегти ключовий елемент канадської культури крізь американську окупацію та десятиліття після Великої війни. Зараз цей спорт практично обожнюють як символ канадського опору, але за століття він спотворився і змінив свою первісну форму. Сміттярі шукають будь-які зачіпки про довоєнний вид спорту, і жага розгадати істину рухає країною. Але якщо стільки енергії витрачається на хокей із шайбою, скільки її залишиться для війни?"
 
-  ron_codified_sport:0 "Codified Sport"
-  ron_codified_sport_desc:0 "It turns out that the post-war hockey we played was not very much like pre-war hockey at all. While it's still plenty of fun, the way they used to do it probably resulted in less miscellaneous injuries. By formalising a proper set of rules, we can make things safer and stop players from making up new rules as they play."
+  ron_codified_sport:0 "Кодифікований спорт"
+  ron_codified_sport_desc:0 "Виявилося, що післявоєнний хокей, у який ми грали, зовсім не схожий на довоєнний. Хоча це все ще весело, старі методи гри, ймовірно, призводили до меншої кількості випадкових травм. Впровадивши належний звід правил, ми зможемо зробити гру безпечнішою і зупинити гравців від вигадування нових правил прямо під час матчу."
 
-  ron_wasteland_sport:0 "Wasteland Sport"
-  ron_wasteland_sport_desc:0 "Ice hockey was never about rules or goals. It was about the feel of the ice under your feet, the roar of the cheering crowd, and the sound of your opponent's face being smashed in by your power fist. This is the sport that makes Ronto great."
+  ron_wasteland_sport:0 "Спорт Пустки"
+  ron_wasteland_sport_desc:0 "Хокей на льоду ніколи не був про правила чи голи. Він був про відчуття льоду під ногами, ревіння натовпу та звук обличчя суперника, що розлітається від удару вашого силового кулака. Це той спорт, який робить Ронто величним."
 
-  ron_valiant_freedom:0 "Valiant Freedom"
-  ron_valiant_freedom_desc:0 "Like the American and Canadian heroes of old, we will fight for our land against oppressive foreign governments!"
+  ron_valiant_freedom:0 "Героїчна свобода"
+  ron_valiant_freedom_desc:0 "Подібно до американських та канадських героїв минулого, ми будемо битися за нашу землю проти гнітючих іноземних урядів!"
 
-  ron_valiant_freedom2:0 "Valiant Freedom"
-  ron_valiant_freedom2_desc:0 "Like the American and Canadian heroes of old, we will fight for our land against oppressive foreign governments!"
+  ron_valiant_freedom2:0 "Героїчна свобода"
+  ron_valiant_freedom2_desc:0 "Подібно до американських та канадських героїв минулого, ми будемо битися за нашу землю проти гнітючих іноземних урядів!"
 
-  ron_canadian_patriots:0 "Canadian Patriots"
+  ron_canadian_patriots:0 "Канадські патріоти"
   ron_canadian_patriots_desc:0 ""
 
-  RON_building_stadium:0 "Building a Stadium"
+  RON_building_stadium:0 "Будівництво стадіону"
   RON_building_stadium_desc:0 ""
 
-  RON_talent_scouting:0 "Talent Scouting"
+  RON_talent_scouting:0 "Пошук талантів"
   RON_talent_scouting_desc:0 ""
 
-  RON_training_referees:0 "Training Referees"
+  RON_training_referees:0 "Підготовка арбітрів"
   RON_training_referees_desc:0 ""
 
-  ron_best_and_brightest_idea:0 "The Best and Brightest"
-  ron_best_and_brightest_idea_desc:0 "Only the best should play ice hockey. It's far more entertaining to watch two small, highly skilled teams attempted to brain each other rather than a mob of confused and muddled idiots."
+  ron_best_and_brightest_idea:0 "Найкращі та найздібніші"
+  ron_best_and_brightest_idea_desc:0 "У хокей мають грати лише найкращі. Набагато цікавіше спостерігати за двома невеликими, висококваліфікованими командами, які намагаються вибити одна одній мізки, ніж за натовпом розгублених і безглуздих ідіотів."
 
-  ron_expanded_teams:0 "Expanded Teams"
-  ron_expanded_teams_desc:0 "When it comes to a bloodsport, the more people the more blood, and the more blood the better!"
+  ron_expanded_teams:0 "Розширені склади"
+  ron_expanded_teams_desc:0 "Коли справа доходить до кривавого спорту — чим більше людей, тим більше крові, а чим більше крові, тим краще!"
 
-  ron_refugee_influx:0 "Refugee Influx"
+  ron_refugee_influx:0 "Приплив біженців"
   ron_refugee_influx_desc:0 ""
 
-  ron_shining_city:0 "Ronto, the Shining City"
-  ron_shining_city_desc:0 "The beacon of Ontario, Ronto stands vigil against the cold of the north."
+  ron_shining_city:0 "Ронто, Сяюче місто"
+  ron_shining_city_desc:0 "Маяк Онтаріо, Ронто несе варту проти холоду півночі."
 
-  ron_ontarios_beating_heart:0 "Ontario's Beating Heart"
-  ron_ontarios_beating_heart_desc:0 "Ronto is the greatest city of Ontario, and represents the greatest that post-war Canada can offer. Our city is the mightiest in the wasteland."
+  ron_ontarios_beating_heart:0 "Серце Онтаріо, що б'ється"
+  ron_ontarios_beating_heart_desc:0 "Ронто — найвеличніше місто Онтаріо, що представляє все найкраще, що може запропонувати післявоєнна Канада. Наше місто — наймогутніше на всій пустці."
 
-  ron_ronto_breweries:0 "Ronto Breweries"
+  ron_ronto_breweries:0 "Пивоварні Ронто"
   ron_ronto_breweries_desc:0 ""
 
-  ron_booze_monopoly:0 "Booze Monopoly"
+  ron_booze_monopoly:0 "Монополія на випивку"
   ron_booze_monopoly_desc:0 ""
 
-  ron_lake_smugglers:0 "Lake Smugglers"
+  ron_lake_smugglers:0 "Озерні контрабандисти"
   ron_lake_smugglers_desc:0 ""
 
-  ron_lake_dominance:0 "Lake Dominance"
+  ron_lake_dominance:0 "Панування на озерах"
   ron_lake_dominance_desc:0 ""
 
-  RON_on_the_back_foot:0 "On the Back Foot"
-  RON_on_the_back_foot_desc:0 "Wait a minute! Weren't you DEAD?"
+  RON_on_the_back_foot:0 "У скрутному становищі"
+  RON_on_the_back_foot_desc:0 "Хвилинку! Хіба ти не був МЕРТВИЙ?"
 
-  ron_the_defense:0 "The Defence"
-  ron_the_defense_desc:0 "Not one step back. Ronto will not fall."
+  ron_the_defense:0 "Оборона"
+  ron_the_defense_desc:0 "Ні кроку назад. Ронто не впаде."
 
-  ron_the_offense:0 "The Offence"
-  ron_the_offense_desc:0 "Time to make sure the American occupation is dead and buried, forever."
+  ron_the_offense:0 "Наступ"
+  ron_the_offense_desc:0 "Час переконатися, що американська окупація мертва і похована назавжди."
 
-  ron_oh_canada:0 "Oh Canada" 
+  ron_oh_canada:0 "О, Канадо" 
   ron_oh_canada_desc:0 ""
