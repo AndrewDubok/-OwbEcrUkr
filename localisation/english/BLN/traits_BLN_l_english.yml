@@ -1,0 +1,20 @@
+﻿l_english:
+###Traits###
+  BLN_man_of_science:0 "§0Розум дослідника§!"
+  BLN_respected_negotiator:0 "§CШанований переговірник§!"
+  BLN_sober_cannibal:0 "§tАгресивний старійшина§!"
+  BLN_warrior_elder_trait:0 "Старійшина-воїн"
+  BLN_retired_warrior_trait:0 "Воїн у відставці"
+  BLN_hardline_elder_trait:0 "Безкомпромісний старійшина"
+###Advisors###
+  BLN_order_quill:0 "Проктор Ордену Пера"
+  BLN_head_research:0 "Головний писар"
+  BLN_lancer_captain_trait:0 "Пілот-капітан"
+  BLN_3dog_trait:0 "Єдиний і неповторний"
+  BLN_purity_administrator_trait:0 "Адміністратор проєкту «Чистота»"
+  BLN_brotherhood_quartermaster_trait:0 "Квартирмейстер Цитаделі"
+  BLN_brotherhood_propagandist_trait:0 "Пропагандист Братства"
+  BLN_trade_liason_trait:0 "Торговий представник"
+  BLN_aggressive_procurement_trait:0 "Агресивний спеціаліст із закупівель"
+  BLN_waste_not_trait:0 "Не марнуй"
+  BLN_voice_of_reason_trait:0 "Голос розуму"
