@@ -1,3 +1,4 @@
 ﻿# -OwbEcrUkr
 
-Україньска локалізація для сабмода East Coast Rebirth
+Українська локалізація для сабмода East Coast Rebirth
+
