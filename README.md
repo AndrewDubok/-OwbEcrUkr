@@ -4,11 +4,3 @@
 
 Посилання на переклад у  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3676515634"> майстерні Steam </a>
 
-
-
-<<<<<<< HEAD
-Посилання на переклад у майстерні Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3676515634
-
-
-=======
->>>>>>> d520e15cd1a6b67bfd8f99b1fd6e7e413afc525b
