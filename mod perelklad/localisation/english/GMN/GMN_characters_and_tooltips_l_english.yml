@@ -1,0 +1,51 @@
+﻿l_english:
+    ### TRAITS
+    BLN_face_of_watoga:0 "The Face of Anarchy"
+    
+    ### CHARACTERS
+    GMN_green_fallon_name:0 "Green Fallon"
+    green_fallon_desc:0 "Green Fallon has been fighting the good fight for more than even most ghouls can remember, and isn't going to stop now. Prior to the war, Fallon and the other Green Mountain boys were guerilla fighters, fighting the tyranny of the United States and travelling the length of the Eastern Seaboard. When the bombs fell, the Green Mountain Boys had grown into a veritable roving army, keeping to the backwoods of the United States and driving off or retreating from any efforts from the federal government to stop them. When the bombs fell, Fallon and the others found themselves unlucky enough to be dosed in radiation and became ghouls in the process. Since then, Fallon has found himself and his ghouls caring for the fledgling communities nearby. Now, he watches the ruins of DC, and waits to drive off any who approach. No one's killed him in the past 250 years, and he plans to live for another 250."
+   
+    ###Cosmetic Tags###
+    GMN_appalachian_authority_tag:0 "Appalachian Authority"
+    GMN_appalachian_authority_tag_ADJ:0 "Appalachian"
+    GMN_appalachian_authority_tag_DEF:0 "The Appalachian Authority"
+    GMN_appalachian_council_tag:0 "Appalachian Council"
+    GMN_appalachian_council_tag_ADJ:0 "Appalachian"
+    GMN_appalachian_council_tag_DEF:0 "The Appalachian Council"
+    
+    ### Tooltips
+    GMN_1_tt:0 "Unlock new Rockyist advisors and a general!"
+    GMN_2_tt:0 "We accept refugees from §GOnionburg§!"
+    GMN_3_tt:0 "We accept refugees from §8Monongahela§!"
+    GMN_4_tt:0 "We accept refugees from §2The Cult of Cobalt§!"
+    GMN_5_tt:0 "We accept refugees from §OLoretz Force§!"
+    GMN_6_tt:0 "§RAppalcachia erupts into another bloody war!§!"
+
+    ### Flags
+    GMN_accepted_hills_flag:0 "We integrated refugees from §8Monongahela§!"
+    GMN_accepted_cobalt_flag:0 "We integrated refugees from §2The Cult of Cobalt§!"
+    GMN_accepted_loretz_flag:0 "We integrated refugees from §OLoretz Force§!"
+    GMN_accepted_onion_flag:0 "We integrated refugees from §GOnionburg§!"    
+
+    ###Power Balance###
+    GMN_sectarian_conflict:0 "Sectarian Conflict"
+    GMN_sectarian_conflict_desc:0 "Appalachia is full of all kinds of freaks, weirdos, and folk just trying to live their lives. As we allow those fleeing The Church of Rocky into our neck of the woods, we must be careful we don't allow their differences to tear us apart."
+    GMN_conflict_crisis:0 "Sectarian Crisis"
+    GMN_conflict_crisis_desc:0 "Our hills are alive with the sounds of gunfire. Various cults are battling it out in our streets and settlements. The people we try to protect are now picking sides in fights that should not be theirs."
+    GMN_conflict_open_fighting:0 "Open Fighting"
+    GMN_conflict_open_fighting_desc:0 "Our hills are alive with the sounds of gunfire. Various cults are battling it out in our streets and settlements. The people we try to protect are now picking sides in fights that should not be theirs."
+    GMN_conflict_frequent_squabbles:0 "Frequent Squabbles"
+    GMN_conflict_frequent_squabbles_desc:0 "Disagreements between the various cultures in our territory have a tendency to erupt into violence. Street fights and the occasional shootout leave many not wanting to wander far from their home."
+    GMN_conflict_occsaional_problems:0 "Infrequent Problems"
+    GMN_conflict_occsaional_problems_desc:0 "The fighting between the various cultures in our territory unfortunately turns to violence at times. Usually these are limited to a handfull of individuals, but it has a risk of escalating."
+    GMN_conflict_harmony:0 "Harmonious People"
+    GMN_conflict_harmony_desc:0 "Appalachia may be full of freaks and weirdos, but our differences do not cause problems. After all, why fight when we already have one crazy cult trying to tear us apart?"
+    GMN_conflict_peaceful:0 "Peaceful Relations"
+    GMN_conflict_peaceful_desc:0 "Appalachia may be full of freaks and weirdos, but our differences do not cause problems. After all, why fight when we already have one crazy cult trying to tear us apart?"
+    GMN_conflict_rare_grumblings:0 "Rare Grumblings"
+    GMN_conflict_rare_grumblings_desc:0 "Overall our people know how to keep things civil. There may be some hushed whispers when a cultist conducts some ceremony in the main square, but it doesn't go beyond that."
+    GMN_conflict_occasional_debate:0 "Occasional Debate"
+    GMN_conflict_occasional_debate_desc:0 "Of course having this many different cultures and faiths in one place would lead to disagreement. But the debates remain fairly civil. Though, somebody did recently call a Cobalt Cultist a 'Radtard'."
+    GMN_conflict_moderate:0 "Moderate Conflict"
+    GMN_conflict_moderate_desc:0 "The fighting between the various cultures in our territory rarely go beyond harsh words. Still, the common hill folk are uneasy hearing fervent debate in the streets."

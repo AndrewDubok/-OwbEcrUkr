@@ -1,0 +1,52 @@
+﻿l_english:
+  # conscription laws
+  # conscription laws Enclave
+  EEN_pure_americans_law:0 "Pure-Blooded Americans"
+  EEN_pure_americans_law_desc:0 "Only true, genetically pure Americans are entrusted with the privilege of protecting our great democracy."
+  EEN_wastelander_americans_law:0 "Wastelander-American Service"
+  EEN_wastelander_americans_law_desc:0 "So-called Wastelander-Americans, who had the misfortune of not being shielded from atomic damage are still welcome to lay down their lives for the noble goal of rebuilding this great country."
+  EEN_wastelander_recruitment_law:0 "Wastelander Recruiting Centers"
+  EEN_wastelander_recruitment_law_desc:0 "If we are to realize our goals, we will need to amass an army the likes of which has not seen since The Great War. This mass mobilization will require slakened standards and increased costs, but it is necessary."
+  EEN_robot_armies_law:0 "Metal Wall"
+  EEN_robot_armies_law_desc:0 "Why waste precious American lives fighting the mutants? Death machines will gradually replace our military"
+  # officer laws
+  # officer laws Enclave
+  EEN_enclave_academy_law:0 "Autumn Academy Officers"
+  EEN_enclave_academy_law_desc:0 "All potential officers must pass rigorous training at the Autumn Officer Academy. After months of grueling study, testing and simulated exercises, these officers come through as some of the best America has seen since West Point was destroyed 200 years ago."
+  EEN_purged_command_law:0 "Command Purges"
+  EEN_purged_command_law_desc:0 "Scores of officers and veteran soldiers throughout the command structure of The Enclave were found to be involved in Autumn's failed coup. Until we can restructure and train a new generation of officers, our few loyal officers will be stretched painfully thin."
+  EEN_rebuilding_command_law:0 "Eden's Academy Officers"
+  EEN_rebuilding_command_law_desc:0 "Enclave officers pass through Eden's Officer Academy. Not as rigorous as the old Autumn Academy, the officer school focuses slightly more on indoctrination and loyalty. The officer purges after Autumn's coup can't happen again."
+  EEN_ai_command_law:0 "AI Officers"
+  EEN_ai_command_law_desc:0 "The generals of tomorrow are here today. Powerful computers fed with centuries of military history and up to the minute data from eyebot command units are commanding our soldiers from the smallest squads up to the grandest offensives. War never changes, but the way we fight them has."
+  # outsider laws
+  # outsider laws Enclave
+  EEN_loyal_outsiders_law:0 "Loyal Americans"
+  EEN_loyal_outsiders_law_desc:0 "Some wastelanders recognize their duty as Americans to defend our country. If they are willing to lay down their life for America, why shouldn't we put a rifle in their hand?"
+  # mutant recruitment laws
+  # mutant recruitment laws Enclave
+  EEN_no_muties_law:0 "No Mutants Allowed"
+  EEN_no_muties_law_desc:0 "From the hideously mutated super mutants to the frightnengly irradiated ghouls of Underworld, none but the most pure Americans are allowed into our military service."
+  EEN_limited_ghouls_law:0 "Ghoul Units"
+  EEN_limited_ghouls_law_desc:0 "To protect the lives of pure Americans, ghouls are being allowed into the military. Segregated into specialized units, these ghoul soldiers fight in areas our soldier can't go without risking extreme radiation exposure."
+  EEN_super_mutants_law:0 "Super Mutant Soldiers"
+  EEN_super_mutants_law_desc:0 "Wastelanders captured by The Enclave are pressed into service after being turned into Super Mutants. Thankfully the process leaves them with little memory of their previous life, and even the dumbest mutants can understand what a bomb collar can do after a demonstration."
+  # press laws
+  # press laws Enclave
+  EEN_eden_radio_programs_law:0 "Eden's Radio Addresses"
+  EEN_eden_radio_programs_law_desc:0 "Enclave radio is a combination of carefully curated patriotic music and periodic addresses from president John Henry Eden. Eden's calming voice and promises of a better future warm the hearts of even the most pessimistic Enclave citizen. Even some wastelanders that pick up our broadcasts hope for the future The Enclave promises with these messages on the airwaves."
+  EEN_militarist_radio_programs_law:0 "Autumn's Command Radio"
+  EEN_militarist_radio_programs_law_desc:0 "Enclave radio is a combination of carefully curated patriotic music and occasional addresses from Colonel Autumn. While not as charming as President Eden, Autumn's messages of the horrors of the wastes and The Enclave's mission to bring order reassures our soldiers in the justness of our cause."
+  EEN_wasteland_propaganda_radio_programs_law:0 "Enclave Propaganda Radio"
+  EEN_wasteland_propaganda_radio_programs_law_desc:0 "The Enclave has had an image problem ever since rumors of our attempts at wiping out all life in the wasteland started spreading. Enclave radio is rectifying this with a broad selection of programming. From patriotic anthems to carefully edited news stories, Enclave Radio is showing Wastelanders the good side of The Enclave, even if some of it is exaggerated."
+  EEN_operational_security_law:0 "Operational Security"
+  EEN_operational_security_law_desc:0 "For the time being, radio silence is enforced and information is only shared on a need-to-know basis. We have plans that we can not allow out right now, because the haters will sabotage us."
+  # trade laws
+  # trade laws Enclave
+  EEN_isolationist_trade_law:0 "Government Property"
+  EEN_isolationist_trade_law_desc:0 "In this state of emergency, this nation's national resources must be managed by the Government. Trade with the mutant menace is forbidden, and our citizens understand that they may have to do without certain luxuries for the benefit of the war effort."
+  EEN_govt_trade_law:0 "Nationalized Industries"
+  EEN_govt_trade_law_desc:0 "Certain resources and industries necessary to the reclimation of America are handled directly by The United States Government. Commerce still flows, small businesses thrive, but all powerplants and most weapon factories are property of the US Government. In addition, wastelanders coming across technology or resources relevant to the war effort are required to turn it over with compensation being rare, after all it isn't really theirs. They're just finding something we lost."
+  EEN_free_trade_law:0 "Free Trade"
+  EEN_free_trade_law_desc:0 "The economy is thriving with a more relaxed hand being taken. Essential parts of the military industry are still run directly by The Enclave, but parts that can be farmed out to enterprising wastelanders are. In addition, when a prospector comes across some pre-war technology or a vaulable resource, they are compensated for returning it to the Government it rightfully belongs to."
+

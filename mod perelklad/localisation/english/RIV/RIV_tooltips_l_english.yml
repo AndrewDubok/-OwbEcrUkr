@@ -1,0 +1,105 @@
+﻿l_english:
+ 
+ RIV_not_max_caravans_tt:0 "The number of §Ycaravans§! currently formed must be §Gless§! than the maximum number of caravans"
+
+ RIV_increase_caravan_maximum_tt:0 "The §Gmaximum number§! of §Ytrade caravans§! we can have will increase."
+
+ RIV_train_new_caravan_tt:0 "A §Gnew trading caravan§! will be formed!"
+
+ RIV_caravans_not_on_mission_tt:0 "We must have a §Ycaravan§! that isn't out on a §Otrading mission§!"
+
+ RIV_caravan_sent_out_tt:0 "One of our §Ycaravans§! will be sent on a §Gtrading mission§!"
+
+ RIV_caravan_success_chance_tt:0 "The §Ycaravan's§Y chances of §Gsuccess§! will be greatly dependent on the level of the §Ovarious threats§!"
+
+ RIV_lost_a_caravan_tt:0 "The §Ycaravan§! has been §Rlost§!, but at least some of the merchants survived"
+
+ RIV_caravan_returned_tt:0 "Whether or not the trading mission was successful, the §Ycaravan§! has returned"
+
+ RIV_making_trade_safer_tt:0 "This patrol will §Gslightly weaken§! one of the main threats to our §Ytrade caravans§!"
+
+ riv_end_trade_decisions_tt:0 "§OThis will end our ability to send caravans - temporarily at least.§!"
+ riv_restore_trade_tt:0 "§GTrade is safer, and our caravans will be able to traverse the Wasteland once more.§!"
+
+ RIV_unlock_trade_to_megaton_tt:0 "Completing this focus will allow us to send trading caravans to §YMegaton§!."
+ RIV_unlock_trade_to_big_town_tt:0 "Completing this focus will allow us to send trading caravans to §YBig Town§!."
+ RIV_unlock_trade_to_underworld_tt:0 "Completing this focus will allow us to send trading caravans to the §YUnderworld§!."
+ RIV_unlock_trade_to_canterbury_commons_tt:0 "Completing this focus will allow us to send trading caravans to §YCanterbury Commons§!."
+ RIV_unlock_trade_to_tenpenny_tt:0 "Completing this focus will allow us to send trading caravans to §YTenpenny Tower§!."
+ RIV_unlock_trade_to_point_lookout_tt:0 "Completing this focus will allow us to send trading caravans to §YPoint Lookout§!."
+ RIV_unlock_trade_to_evergreen_mills_tt:0 "Completing this focus will allow us to send trading caravans to §YEvergreen Mills§!."
+ RIV_unlock_trade_beyond_the_capital_tt:0 "Completing this focus will allow us to send trading caravans beyond the §YCapital Wasteland§!."
+ RIV_unlock_trade_to_arefu_tt:0 "Completing this focus will allow us to send trading caravans to §YArefu§!."
+ RIV_unlock_trade_to_dave_tt:0 "Completing this focus will allow us to send trading caravans to the §YRepublic of Dave§!."
+
+ riv_unlock_cps_expeditions_tt:0 "Completing this focus will §Yunlock decisions§! allowing us to send expeditions for §Gpre-war American artifacts§!."
+
+ riv_more_profitable_caravans_tt:0 "Our future trading caravans will be §Gmore profitable!§!\n"
+ riv_caravans_less_profitable_tt:0 "Our future trading caravans will be §Rless profitable!§!\n"
+
+ riv_bunkers_on_the_borders_tt:0 "§GOne Level§! of §YOutpost§! on every border we have"
+
+ riv_project_purity_explanation_tt:0 "We can begin preparing for §CProject Purity§! by taking science focuses, but we won't be able to start until James returns."
+ riv_james_has_returned_tt:0 "James has returned to Rivet City, and our scientists are ready to complete §CProject Purity§!"
+
+ riv_caravans_give_water_tt:0 "§YCaravans§! will deliver water now, and bring us more caps"
+
+ riv_end_enclave_threat_tt:0 "Completing this focus will stop the remnants of the §BEnclave§! from threatening our §Ycaravans§!"
+
+ riv_begin_integrating_settlements_tt:0 "We will begin leveraging our §Ginfluence§! over the settlements of the Capital Wasteland to assimilate them. By sending §Ycaravans§! with water from §CProject Purity§! we will increase our §Ginfluence§! over the settlements. This will update the §YRivet City Trade Caravans§! decision category."
+
+ RIV_increase_all_influence_tt:0 "This will §Gincrease§! our §Ginfluence§! in all available settlements"
+ RIV_decrease_all_influence_tt:0 "This will §Rdecrease§! our §Ginfluence§! in all available settlements"
+
+
+ riv_council_voting_explanatory_tt:0 "For a vote to succeed, all members need to agree on a course of action. The way that each vote goes will be determined by who, exactly, sits on the Council, §Oand whether we give them any... persuasive arguments§!."
+ riv_council_voting_explanatory_emergency_tt:0 "Unlike other votes, this vote is being put forward as an §Oemergency vote§!. The usual convention of unanimous agreement is done away with - decisions like this are too crucial to allow indecision to stall the City. §YThere is, however, still time for negotiation§!."
+
+
+ riv_weaken_supermutants_tt:0 "Completing this focus will §Gsignificantly weaken§! the super mutant presence in DC!"
+ riv_weaken_raiders_tt:0 "Completing this focus will §Gsignificantly weaken§! the raiders threatening our §Ytrade caravans§!!"
+ riv_weaken_ferals_tt:0 "Completing this focus will §Gsignificantly weaken§! the feral ghouls threatening our §Ytrade caravans§!!"
+
+ riv_chose_to_fight_the_enclave_tt:0 "The Council must have agreed to fight §Bthe Enclave§!."
+ riv_chose_to_stay_neutral_tt:0 "The vote to fight §Bthe Enclave§! must have failed."
+
+ riv_puppet_the_brotherhood_tt:0 "If we are allied with §gthe Brotherhood§!, they will become our puppets. If we are not, we will gain a §Owargoal§! instead.\n"
+ riv_risk_of_assimilation_tt:0 "§OIf we accept this deal, we may be forced into servitude later on!§!"
+ riv_enemy_of_rivet_city_tt:0 "§OBy choosing this path, we may be attacked by §CRivet City§! in the future!§!"
+
+ riv_weapons_contribution_tt:0 "Every month we will §Ggain§! some §Ylower tier weapons§!."
+
+
+ riv_victory_autocomplete_tt:0 "This focus will autocomplete depending on who wins the battle for §CProject Purity§!!"
+ riv_vassalise_bln_tt:0 "We will ask the Brotherhood to submit to our authority. If they accept we will puppet them, if they refuse we will gain a wargoal."
+
+
+ riv_madison_flees_tt:0 "Madison Li has fled eastwards, towards the Commonwealth and the mysterious §CInstitute§!."
+
+
+ riv_enclave_refusal_tt:0 "We will offer to submit to §Bthe Enclave§!. If they refuse, we will automatically complete the focus "§YSit Tight§!""
+
+ riv_anger_the_institute_tt:0 "§RThis will anger §Cthe Institute§!. Who knows what the consequences may be?§!"
+
+ riv_harkness_leaves_danvers_leader_tt:0 "§YHarkness will leave, making Danvers the new security representative on the Rivet City Council.§!"
+ riv_seagrave_leader_tt:0 "§YBannon will be kicked off the Rivet City council, making Seagrave Holmes the new civilian representative.§!"
+
+
+ riv_the_replicated_man_begins_tt:0 "By sending out §Ycaravans§! to settlements, we can find holotapes about the Replicated Man"
+
+
+ riv_influence_increased_megaton_tt:0 "Our influence in Megaton will §Gincrease§! by 1"
+ riv_influence_increased_underworld_tt:0 "Our influence in the Underworld will §Gincrease§! by 1"
+ riv_influence_increased_canterbury_tt:0 "Our influence in Canterbury Commons will §Gincrease§! by 1"
+ riv_influence_increased_tenpenny_tt:0 "Our influence in Tenpenny Tower will §Gincrease§! by 1"
+ riv_influence_increased_arefu_tt:0 "Our influence in Arefu will §Gincrease§! by 1"
+ riv_influence_increased_dave_tt:0 "Our influence in the Republic of Dave will §Gincrease§! by 1"
+
+ riv_lower_influence_in_state_tt:0 "Rivet City's influence in this state will §Rdecrease§! by 1"
+ riv_increase_influence_in_state_tt:0 "Rivet City's influence in this state will §Gincrease§! by 1"
+
+
+ riv_tie_closer_to_the_brotherhood:0 "Rivet City will tie itself closer to §gthe Brotherhood§!"
+ riv_split_further_from_the_brotherhood:0 "Rivet City will be forced to carve an independent path"
+
+ the_dc_alliance:0 "The DC Alliance"

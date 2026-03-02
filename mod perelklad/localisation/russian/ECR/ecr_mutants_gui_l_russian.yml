@@ -1,0 +1,6 @@
+﻿l_russian:
+  #
+  DC_mutant_presence_category:0 "Присутствие супермутантов в Столичной Пустоши"
+  
+  ECR_super_mutants_decision_category:0 "Присутствие супермутантов в Столичной Пустоши"
+  super_mutant_threat_tt:0 "Присутствие супермутантов составляет [?global.dc_mutant_presence_variable|0]%"

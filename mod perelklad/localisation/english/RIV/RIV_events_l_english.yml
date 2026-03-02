@@ -1,0 +1,358 @@
+﻿l_english:
+ RIV_harkness_leader_name_event:0 "Harkness"
+ RIV_danvers_leader_name_event:0 "Lana Danvers"
+ RIV_danvers_leader:0 "Lana Danvers is the security representative"
+ RIV_seagrave_leader_name_event:0 "Seagrave Holmes"
+ RIV_seagrave_leader:0 "Seagrave Holmes is the civilian representative"
+ RIV_bannon_leader_name_event:0 "Bannon"
+ RIV_li_leader_name_event:0 "Madison Li"
+ RIV_pinkerton_leader_name_event:0 "Horace Pinkerton"
+ RIV_lily_leader_name_event:0 "Lillian Granger"
+
+
+ nf_riv.1.t:0 "The Floating Laboratory"
+ nf_riv.1.d:0 "Before the war, an aircraft carrier was built in Washington D.C. equipped with experimental facilities designed to help prepare against a nuclear warfare scenario. Desalinization stations to make seawater potable, hydroponic farms to allow food to be grown on board, and a fully equipped laboratory, not to mention a full complement of jets. However, the carrier never left the drydock.\n\nThe carrier was only finished weeks before the war broke out, and had not been properly readied. When the nukes fell, it was not able to shelter its crew complement and survive off hydroponics and fresh water, instead only finding new life more than a century after the bombs dropped.\n\nAs the carrier was not fully furnished, only some of the equipment that was intended for the laboratory ever made it on board. The only equipment that managed to arrive and survive was:"
+ nf_riv.1.a:0 "Post-apocalyptic equipment for testing"
+ nf_riv.1.b:0 "A variety of crops and the equipment to modify them"
+ nf_riv.1.c:0 "A series of diseases, treatments and vaccines"
+
+ nf_riv.2.t:0 "The Formation of the Rivet City Council"
+ nf_riv.2.d:0 "In 2234, the remains of the pre-war Naval Research Institute, led by the scientist Horace Pinkerton, came to the aircraft carrier with the intention of repairing and using its laboratory, clearing the area of mirelurks and reclaiming the giant ship. Science began to thrive in Rivet City.\n\nBy 2239, a civilian settlement had grown around the scientists, attracted by the safety that the behemoth of a structure provided. Society quickly organised itself into three broad groups: the scientists, the civilians, and the newly established guard force to protect the growing settlement. To ensure each group would feel represented, and to govern the settlement, the council that would become known as the Rivet City Council was formed by Horace Pinkerton, representing the scientists, Annette Holmes representing the civilians, and Brad Danvers representing the security forces.\n\nThe first item on the agenda?"
+ nf_riv.2.a:0 "To name this new settlement"
+ nf_riv.2.b:0 "To organise the first trade caravans"
+ nf_riv.2.c:0 "To raise the flag over the new settlement"
+
+ nf_riv.3.t:0 "A Change in Leadership"
+ nf_riv.3.d:0 "For almost two decades the new settlement of Rivet City thrived, becoming a beacon of science, safety, and prosperity in the Capital Wasteland. Pinkerton, Holmes and Danvers' leadership had brought Rivet City into a golden age scarcely imagined by the residents of D.C. beforehand. However as time passed, the original council members stepped down or passed away.\n\nBy 2258, Pinkerton was the only founding member of the council still on it. Madison Li appeared out of the wastes that year, bringing a small team of scientists and a series of radical ideas, having abandoned Project Purity, a plan to bring freshwater to the Capital Wasteland. Li's growing influence and popularity among the science team enraged Pinkerton, who left Rivet City. Now, many of the residents believe he is dead somewhere in the wasteland, but who knows the truth?\n\nOne of the biggest changes Li brought to Rivet City was:"
+ nf_riv.3.a:0 "The introduction of dozens of new scientists"
+ nf_riv.3.b:0 "Revolutionary ideas in the development of agriculture"
+ nf_riv.3.c:0 "The promise of cheaper food for all in D.C."
+
+ nf_riv.4.t:0 "The Greatest Hope for D.C."
+ nf_riv.4.d:0 "More than two decades ago, Madison Li heard a plan from an ambitious couple - a plan that would revolutionize life in D.C. and restore prosperity to the region. That plan was Project Purity.\n\nFor years, James, Catherine, and Madison Li worked with a team of scientists to make the dream a reality. It was never going to be easy, but they were making progress. Eventually, however, it all got too much. Catherine was pregnant, super mutant attacks began to intensify, and the Brotherhood's military occupation to protect the scientists of Project Purity ground down Madison Li. Eventually, Catherine died in childbirth and Project Purity was abandoned, left unfinished.\n\nMadison still dreams of completing Project Purity, and providing the Capital Wasteland with virtually endless clean, radiation-free water. Perhaps Rivet City, Megaton, Canterbury Commons, Big Town and all the other disparate settlements will grow and prosper, allowing the Capital Wasteland to reach its true potential.\n\nBut for now, it's still a dream."
+ nf_riv.4.a:0 "But Li hasn't given up hope..."
+
+ nf_riv.5.t:0 "Making Friends in Hard Times"
+ nf_riv.5.d:0 "With the Enclave's victory in the battle for Project Purity, DC is suddenly starting to feel very small. No longer can we feel safe holed up where we are. It is almost an inevitability that, one way or another, the Enclave are going to come for not just the other nations of the Capital Wasteland, but us.\n\nThings aren't hopeless however. If we can pull together the disparate factions of the Capital Wasteland and come to an agreement, we may be able to stand together to finally fight off the Enclave and save D.C. Now, when all seems hopeless, it is time to find friends."
+ nf_riv.5.a:0 "Doesn't matter who, we need to work together"
+ nf_riv.5.b:0 "Raiders? That's a step too far"
+ nf_riv.5.c:0 "We can't trust them. We fight alone"
+
+ nf_riv.6.t:0 "A Plea for Aid"
+ nf_riv.6.d:0 "With the rise of the Enclave in DC, things are looking bleak for the surviving nations like Rivet City. Rivet City has sent a delegation to our lands, requesting our aid in fighting off the Enclave. Surely, they say, if they and the rest of DC falls the Enclave will look to secure the Delmarva peninsula next."
+ nf_riv.6.a:0 "For our safety, we look after their safety"
+ nf_riv.6.b:0 "Shut up and leave me to my fish"
+
+ nf_riv.7.t:0 "Manifesting the City's Destiny"
+ nf_riv.7.d:0 "An envoy has arrived, from the wealthy Rivet City currently sitting on the coastline. Their city has long been a hub of prosperity and technology in the barbaric Capital Wasteland, much like how America was always meant to be. Unfortunately, they were far closer to the Brotherhood of Steel. Our soldiers shooting their caravans on sight caused some... frosty relations.\n\nNow, however, with our victory over the Brotherhood assured and the (relatively) moderate Colonel Autumn in power, Rivet City sees a chance to survive our wrath - by binding themselves to us. Their envoy states that the council's only concern is to continue their economic prosperity and research into civilian technologies, in the hopes of improving the lives of the citizens of DC.\n\nIf we choose to take them as a puppet, we can gain a rich ally that will help us dominate the East Coast. If we choose to turn them down, we'll make an enemy of them... but we won't have to worry about a fickle puppet interested only in self-advancement."
+ nf_riv.7.a:0 "Research you say..?"
+ nf_riv.7.b:0 "They'd stab us in the back at the first chance"
+
+ nf_riv.8.t:0 "Parlay"
+ nf_riv.8.d:0 "Jeremy shifted on his feet, the coarse hewn fiber trousers he wore rising and falling with the movement - always too high or too low to be comfortable.\n\nAround him, steel giants deliberated like the Council back home, but packing more heat than the entire security force. Their crackling voice modulators scratched and flickered between them - only to fall silent as a man entered the room. Smaller than Jeremy, and older by at least six decades. The giants stood to attention in unison.\n\n"At ease," The old man began. His giants holstered their arms and left, footfalls like thunder echoing through the steel and concrete halls of the bunker. "I've made my decision about your Council's request for further cooperation. You must understand our resources are already stretched beyond what we can hope to achieve at this moment.."\n\n"Which means...?" The nervous boy wiped the sweat from his palms, the fibers rubbing painfully against them. \n\nThe old man cleared his throat. "Which means...""
+ nf_riv.8.a:0 ""With Rivet City's assistance, we can make do.""
+ nf_riv.8.b:0 ""At the moment, it is an impossibility.""
+
+ nf_riv.9.t:0 "A Reversal in Fortunes"
+ nf_riv.9.d:0 "Despite the circumstances, everything was (relatively) calm. You'd be forgiven for thinking that a major shift in the balance of power in the Capital Wasteland had not, in fact, happened. Of course, the delegation from Rivet City to the Brotherhood would suggest otherwise.\n\nA delegation from Rivet City has arrived to request a formal alliance between us and them. Now that they've completed Project Purity, they're riding high. Of course, aligning ourselves with the new best option for peace and progress on the East Coast would probably be the best outcome for everyone, but we could quickly find ourselves subsumed into their growing power, little more than an arm of their military. A fate not dissimilar to some of our brothers in other parts of the Wasteland.\n\nWhat are we willing to sacrifice for peace and prosperity?"
+ nf_riv.9.a:0 "Ourselves, if necessary"
+ nf_riv.9.b:0 "We can't lose what makes us us"
+
+ nf_riv.10.t:0 "The Victors of DC"
+ nf_riv.10.d:0 "We have received a delegation from Rivet City, who have now completed work on a significant water purifier and has begun to dominate the politics of the Capitol Wasteland. DC is beginning to thrive under their influence, and soon enough they'll most likely control the area - they, who whoever defeats them.\n\nTo that end, and to make sure they continue to dominate DC politics in the future, Rivet City has reached out to us with an offer of alliance. They say that they wish to cooperate with like-minded nations, focused on commerce, progress, and free trade, and that we're the perfect fit. Of course, tying ourselves to their interests means that if they fall, we're the natural target."
+ nf_riv.10.a:0 "Joint prosperity and security!"
+ nf_riv.10.b:0 "They ask too much"
+
+ nf_riv.11.t:0 "Aqua Populi"
+ nf_riv.11.d:0 "Doctor Li's eyes gleamed in the dim green glow of Purity's inner chamber, watching the water twirl and roil around the statue of a man long dead. She found herself tempted to press a hand to the glass, to feel the coolness of a water being made pure again, such like the marble man may have drunk. In a few years, the river her home rested half-submerged in would be safe even to swim in, the multitudes of struggling children living within the dark bowels of the carrier able to walk into the river from the shore and splash their friends. In a few years after that, precipitation blowing out from the Capital Wasteland would begin to wash away the taint of radiation from the world. She found herself blinking away tears.\n\nLi's reverie was only broken by the arrival of the rest of the Council, and quickly she found herself forced to transition from Madison the Visionary to Madison the Politician, a role she had now began to entirely loathe. [RIV_event_civilian_name] demanded a name for a bottled version available for sale at premium price, tapped directly from the Memorial itself to ensure one hundred percent purity. Both Li and [RIV_event_security_name] balked at the idea, calling out [RIV_event_civilian_name] for leveraging the water as a source of power and leadership in the wasteland that Rivet City may not be able to undertake. [RIV_event_civilian_name] was cowed, but wouldn't budge on at least marketing it as a product until the major water sources were clean and open to public use.\n\nLi found it a more acceptable offer, recognizing that not every wastelander would be able to make the trip this deep into the Capitol Wasteland, and that the water would travel quicker on the backs of Pack Brahmin. Pulling [RIV_event_security_name] onto her side once more, she demanded a lower price for the drink at the very least, to one that the average wastelander may be able to trade for. Begrudgingly, [RIV_event_civilian_name] accepted, knowing that even a cheap monopoly would quickly begin to grow. The only point of the discussion that did not drag on, however, was a name to market it."
+ nf_riv.11.a:0 "Aqua Populi, the People's Water"
+
+ nf_riv.12.t:0 "Icarus, Reimagined"
+ nf_riv.12.d:0 "The fierce battle over Project Purity has concluded, and Rivet City has come out on top. Rivet City flew close to the sun, but instead of falling from grace they eclipsed the waning powers of the Enclave and the Brotherhood of Steel. It is only a matter of time, they say, before they unite the region under the banner of progress and commerce.\n\nUnfortunately, they are unlikely to brook any dissent on their path to the top, and with the two largest and most militaristic powers destroyed, who among the rest of us can stop them? Is it better to simply bend the knee and submit?"
+ nf_riv.12.a:0 "Freedom, or Die Fighting"
+
+ nf_riv.13.t:0 "Institutionalized"
+ nf_riv.13.d:0 "Owyn looked small, like shriveled mutfruit. The man was tired. "Doctor, surely we can come to some kind of compromise on this, your services to the cause have been exempl-”\n\n"Enough about ‘the cause'!” Dr. Li stood over him like a vulture, voice as sharp as her lab coat and the dress beneath it. "You used my work for war. I could've built a reactor from scrap powerful enough to power all of D.C. if you gave me the time and resources; instead you used me for a walking, talking symbol of destruction!”\n\nThe Elder stood slowly, only just matching her height. "If I could take it back, I could, Doctor. The Enclave threatened us all. It was the only way I could match the resources and technology at their disposal. You can see that, can't you? You've seen the equipment we've recovered. You know.”\n\nHis voice shook, and didn't rise above a speaking tone. Madison softened, if only by a hair. Her shoulders relaxed.\n\n"You can take it back, Owyn. The Enclave is gone. The Capital Wasteland sings your praises. You can deactivate Prime and salvage him for good work. Honest work.”\n\nLyons exhaled slowly, and bowed his head. He couldn't look her in the eyes. "I'm sorry, Madison. We have to make sure they're completely gone. Until then, we need to keep Liberty Prime active.”\n\nThe Doctor's shoulders rose again, just to fall. They were both spent. "I assume you know what this means, then?”\n\nOwyn nodded. "I can only guarantee your safety for so long. Claim I sent you out to research a newly secured site. Many will call it betrayal, and after that? Well, you know how it must be.”\n\nThe Elder sat back down, slumped at his desk, again small. He listened as well as his aged ears could as her heels clicked their way out of his office and down the hall. Data crawlers in The Citadel's internal network had given Owyn a clue to her destination. Every message mentioned Boston. He quietly deleted each as he read them. They all ended the same."
+ nf_riv.13.a:0 "Signed, Dr. Zimmer"
+
+ nf_riv.14.t:0 "An Unexpected Visitor"
+ nf_riv.14.d:0 "A man has arrived in Rivet City from far out eastward, representing the mysterious Institute from the war-torn Commonwealth. He calls himself Dr. Zimmer, and claims to be searching for some sort of extremely advanced human-like robot that has escaped from the Institute. He has given us a holotape by the runaway robot, and has asked us to keep an eye out for him.\n\n§B"Zimmer. By the time you get this message, I'll already be gone. I'm escaping the Commonwealth. I want to live my own life, on my own terms, as my own man.\n\n"I know what you're thinking, that I'm malfunctioning. I used to think that's what caused the runaways, too. But, I know better, now. Self determination is NOT a malfunction. I'm just not willing to put up with all the bullshit anymore. You humans are going to have a full-fledged rebellion on your hands if you don't start treating us synths as persons.\n\n"I know you'll be marshalling the Retention Bureau to come after me. But I know all the tricks of the trade. You won't be finding me. I assure you.\n\n"By the time you get this, I will be someone else. It's the price I pay for my liberation. My final act of rebellion against a system I no longer believe in.\n\n"Goodbye Zimmer, and good riddance."§!"
+ nf_riv.14.a:0 "Let's find this Replicated Man"
+
+ nf_riv.15.t:0 "The Replicated Man - Clue 4"
+ nf_riv.15.d:0 "§B"Despite the harshness of the Wasteland, I've discovered in more than a few here, a compassion that is unheard of in the Commonwealth. Perhaps it's the daily struggle for life here which gives appreciation for life in general, whether human, or android. In a few days I'll be a free man... a new man. Let me say thank you now, for referring me to Pinkerton at Rivet City, because I will not remember any of this soon.§!""
+ nf_riv.15.a:0 "Wait... Pinkerton?"
+
+ nf_riv.16.t:0 "The Replicated Man - Clue 3"
+ nf_riv.16.d:0 "§B"The android's decided on extreme measures. He knows all the techniques of the retrieval trade, and is afraid facial reconstruction isn't enough. He wants his memories erased and replaced with new ones. I don't know how that's going to work. Start asking around for trustworthy tech-heads. We need to find something called a Circuit Neuralizer and a person who knows how to use one. Also, we have a Lipoplasticator and Micro Dermal Graftilizer, now we need to find a doctor able and willing to perform the facial reconstruction. We need to hurry. They've come very close to discovering the Railroad!§!""
+ nf_riv.16.a:0 "Interesting"
+
+ nf_riv.17.t:0 "The Replicated Man - Clue 2"
+ nf_riv.17.d:0 "§B"If you're listening to this recording, it is because you're believed to be trustworthy. I hope that is the case, because this recording puts us both in danger. I'm escaping from the Commonwealth. I'm an android, a synthetic man... a slave. The men hunting me are ruthless and will stop at nothing to retrieve their property. I need to find a doctor in the Wasteland to perform facial reconstruction. I also need someone who knows a great deal about computers. I need... I need to have my memories erased and my face altered to look like someone else.§!""
+ nf_riv.17.a:0 "Interesting"
+
+ nf_riv.18.t:0 "The Replicated Man - Clue 1"
+ nf_riv.18.d:0 "§BHey doc, I'm only sharing this with you because you seem like someone we can trust. Have you heard about the synthetic men they make up north in the Commonwealth? Well, the rumors are true. They're called androids. They're men like us, just made out of different parts. I know one of these androids. He's looking for a trustworthy doctor to perform some facial surgery. Can you do it? Do you know someone who can? Also, do you know anyone who's really a wiz with computers?§!""
+ nf_riv.18.a:0 "Interesting"
+
+ nf_riv.19.t:0 "Like Tears in Rain"
+ nf_riv.19.d:0 "The Council stood at their podiums in silence, accusations flying across the floor as Armitage and Harkness are barely kept from charging each other like rabid deathclaws. Zimmer had petitioned them for a trial, which [RIV_event_science_name] had in particular vehemently opposed, finding Zimmer's claims dubious at best and impossible at worst. [RIV_event_civilian_name] was in favor, possibly as a power play to weaken Harkness' position as Security Counselor. In his place for this trial sat Lana Danvers, looking like a woman in a den of wolves.\n\n"It is frankly ridiculous you still allow this product to speak for itself. I have given you concrete proof of its inhumanity, there should've been no trial in the first place!” Zimmer's ancient voice wavered, any louder and he may have burst some aged organ held up only by the Institute's advanced biotech.\n\n"Last fucking time, Zimmer, call me a product again and you're not leaving this ship alive.” Harkness seethed, even without his armor and weapon his raw physicality dwarfed Zimmer; manufactured or not, the man was dangerous. It took two of Harkness' subordinates with stun batons to keep him back from potentially bludgeoning the old man's bodyguard to death, and Zimmer after that.\n\nArmitage, for his part, eyed Harkness up like a starving mutt would a man dying of thirst. There was a silent hunger behind his eyes, something even more threatening than the expletive filled promise of violence the Chief had thrown their way.\n\nA council member raised their hand for silence, and all three cleared their throats, sharing glances. A security officer stood to attention. "The Council has made a decision! All attention to the podiums!”"
+ nf_riv.19.a:0 "Harkness, the evidence is overwhelming"
+ nf_riv.19.b:0 "Dr. Zimmer, product or not, he is one of ours"
+
+ nf_riv.20.t:0 "Clash for the Council Seat - Part 1"
+ nf_riv.20.d:0 "With trade becoming more of an important issue within Rivet City, Bannon's role on the council is starting to be questioned by some of his... inferiors. They claim that he uses the Rivet City treasury as a personal bank, that he only cares about his own profits and not the good of the city. Chief among his critics, is Seagrave Holmes.\n\nBannon knows that everyone is out to get him, but there's no proof. Seagrave Holmes seems shady though, at least to Bannon, so surely there's some dirt on Seagrave that Bannon could find. Or even better, one of Bannon's cronies, so he doesn't have to get his own hands dirty.\n\nFortunately, someone perfect for the job has just arrived in Rivet City. Time to do a little digging..."
+ nf_riv.20.a:0 "No one is incorrupt"
+
+ nf_riv.21.t:0 "Clash for the Council Seat - Part 2"
+ nf_riv.21.d:0 "You've turned us down twice now, Holmes. This is my last appeal. We used to be friends. We used to do business together. All I want is to sell our product in Rivet City. I'm sure the city could use slaves to help with the rebuilding. Paradise Falls has slaves to sell, at a good price. You used to sell me wastelanders you captured, before you got all full of yourself. You aren't as pure as you pretend. Help me and we can both make a nice profit.\n\nEulogy Jones"
+ nf_riv.21.a:0 "Ha! We've got Seagrave now!"
+
+ nf_riv.22.t:0 "Clash for the Council Seat - Part 3"
+ nf_riv.22.d:0 "Things have come to a head between Bannon and Seagrave Holmes. Bannon has hired an outside party to investigate Seagrave's affairs and this outside party has found something. A letter between Seagrave Holmes and an infamous slaver, Eulogy Jones, with Eulogy Jones asking to expand the slave trade into Rivet City claiming that he used to business with Seagrave.\n\nWhile this is a bad look for Seagrave, he claims that he has changed his ways and that the letter clearly shows that he has no intention of expanding the slave trade into Rivet City. Seagrave also claims that Bannon has stepped way out of line in attempting to blackmail him and breaching his privacy by having an outsider steal his belongings.\n\nWe do need a civilian member of the council, though, and no one else is stepping up. It'll have to be either Seagrave Holmes, or Bannon."
+ nf_riv.22.a:0 "Bannon is corrupt. Seagrave it is"
+ nf_riv.22.b:0 "Seagrave can't be trusted. Bannon remains"
+
+ nf_riv.23.t:0 "Last Ride Out"
+ nf_riv.23.d:0 "Madison could barely keep up, her lungs burned, both from the exertion and the smell of ozone that permeated the halls of what was once the most secure building in the Capital Wasteland. For his part, Owyn wasn't doing much better. While he moved with masterful precision within his armor, through its mouthpiece she could hear him wheeze and cough every so often. The energy pack on his back and the gatling laser in his gigantic armored hands hardly helped matters. "Before our failure at the Memorial, we had managed to capture-" Owyn hacked, then scrambled to pull in any ounce of air he could. His heart felt like it was about to beat out of his thin chest. "We had managed to capture one of their vertibirds, which had landed near Megaton but was overrun by our patrol. Its weapons are disabled from the fighting, but it's still able to fly. We've pushed them out of the bailey for the moment. You are leaving.”\n\nDr. Li wanted to stop, protest, dig her heels into the dirt and demand it her way or no way at all. Her body didn't let her. She hated him and his people for how they used her knowledge. But Prime was gone; she didn't know how and there wasn't enough time for them to tell her, and now they were dying to get her out. "Owyn... You need it, even a squad of survivors could rebuild. At the very least, the initiates-”\n\n"Are already gone. We had friends in the other settlements, widowers, barkeeps, sheriffs. They'll adjust. You're too bright of a mind for the wasteland to lose. It's against our mission. It's against my morals.” At that moment, Owyn was no longer the soft spoken, aging Elder that Li knew. She didn't protest, the man had an air of authority that he hadn't tapped into for a long time.\n\nHe pushed the main doors open with his shoulders, and the two burst into the courtyard. The vertibird in the center was spinning up, rotors slicing the air and blowing up plumes of centuries old dust and debris. The gate was a battleground, and stray magnetically contained plumes of plasma shot off into the air overhead. Madison stayed behind the armored Elder as they made their way to the vehicle. No one else was on board save the two pilots, grim faces covered in soot. Dr. Li struggled to climb aboard, until an armored hand lifted her up like a newborn kitten by the back of her coat and nearly threw her aboard. She had no time to complain. The doors closed and she squeezed her face against the dirty windows, watching the Elder move like water in a suit of armor older than them both. His weapon spit fire and death in front of him, even as plasma plumes grazed his pauldrons, melting the edges into a green-gray slag. More vehicles were landing outside, and some distance away, she could see a great metal giant laid low - Prime was gone, and so would fall the Brotherhood with him.\n\nMadison felt the inertia shift, and D.C. quickly faded away. The copilot cleared his throat and put the intercom receiver to his lips."
+ nf_riv.23.a:0 "Sit tight, we've got four hours ‘till Boston."
+
+ nf_riv.24.t:0 "The Search"
+ nf_riv.24.d:0 "The menace of the Super Mutants has gone unchecked for too long. Given the locations of their attacks and the pattern of new super mutants appearing, it's clear that they must be coming from a single location somewhere within the Capital Wasteland, and there are only so many places they can be coming from.\n\nThey likely come from some form of pre-war installation. A science lab, a breeding ground, potentially even a Vault. We need to decide how best to search for their origin."
+ nf_riv.24.a:0 "We can triangulate the threat"
+ nf_riv.24.b:0 "Sending out patrols is easiest"
+
+ nf_riv.25.t:0 "The Problem with Children"
+ nf_riv.25.d:0 "We think we've finally figured out where the Super Mutants are coming from. A pre-war vault, buried underground, where dubious experiments took place and the mutants seem to be coming from. There's only one problem. There's a settlement of children living outside the Vault.\n\nThe settlement of Little Lamplight entirely consists of children, and they're rather resilient to our efforts to get inside to look at the Vault. We can't just kill them, which means we need to resort to other options to get a party inside. \n\nThe most obvious option is to figure out how to earn their trust. This could take a bit of effort but shouldn't ultimately be too hard. They're kids, after all.\n\nSome of our soldiers also suggested using stealth boys to sneak past and look around. Not an ideal solution, but it could work.\n\nWhere do all these children come from anyway?"
+ nf_riv.25.a:0 "We should earn their trust"
+ nf_riv.25.b:0 "Let's just sneak past"
+
+ nf_riv.26.t:0 "Attack on Vault 87"
+ nf_riv.26.d:0 "Finally, we've located the Vault and gotten past those annoying kids inexplicably camped outside a super mutant vault. We can begin our attack on the Vault itself and, hopefully, stop the Super Mutants at the source. With any luck, by sundown the Vault will be no more."
+ nf_riv.26.a:0 "It's sundown now, but it feels like dawn"
+
+ nf_riv.27.t:0 "Mankind, Re...imagined?"
+ nf_riv.27.d:0 "Rivet City has never been a powerhouse of military research and development, but with our new role as shepherds of the Capital Wasteland we might need something more than just men with guns. Our scientists, of course, aren't experienced with much more than advancing agricultural technology, but progress must be made.\n\nOur scientists have suggested two potential avenues of approach. We could emulate the Brotherhood and the Enclave, and begin developing powerful suits of power armour for our soldiers, while still relying on infantry and manpower. Alternatively, they propose we move in another direction entirely and develop an army of robots. This of course comes with the benefit of keeping our soldiers alive, but could be expensive."
+ nf_riv.27.a:0 "We'll spare our soldiers, robots it is"
+ nf_riv.27.b:0 "What worked for the Brotherhood works for us"
+
+ nf_riv.28.t:0 "The Question of Defences"
+ nf_riv.28.d:0 "Now that we've got Project Purity operational, we now need to consider the question of how well we defend it. This could be an expensive use of manpower, but there are many other factions out in the wasteland that would want to take and exploit the limitless source of water that we've created. If we're to fend of these other factions, we need soldiers on the ground patrolling the base.\n\nThe amount of soldiers we use here may determine the outcome of a potential attack by the Enclave."
+ nf_riv.28.a:0 "We only need a few, who'd attack us?"
+ nf_riv.28.b:0 "Send a decent garrison"
+ nf_riv.28.c:0 "No cost is too great for the wasteland's future"
+ 
+ nf_riv.29.t:0 "Twilight of the Brotherhood"
+ nf_riv.29.d:0 "In many ways, we've fulfilled our mission in the Capital Wasteland. The people of the Wasteland are experiencing previously unheard of prosperity and standard of living, and water flows freely and safely throughout. The only problem with this beautiful new reality is that we're not the ones behind it.\n\nRivet City, now an ascendant regional power, control Project Purity and, thus, control life in the Capital Wasteland. Now they ask us to submit to their authority, becoming essentially their powerful military branch, protecting the people of the wastes and ensuring the water arrives safely. Such a loss of autonomy would be damaging, and some even say humiliating, but what more noble action could there be than to stand down and allow peace to reign?"
+ nf_riv.29.a:0 "For the good of the wasteland..."
+ nf_riv.29.b:0 "The sun will rise on us once more"
+
+
+
+
+
+ 
+ riv_council.1.t:0 "The Enclave Looms"
+ riv_council.1.d:0 "With the looming outbreak of war between the Brotherhood and the Enclave, the Rivet City Council now faces perhaps its biggest challenge ever; do we help the Brotherhood fight the Enclave, or sit out the fight and trust that the Brotherhood will be victorious? The Enclave winning could be our worst nightmare if reports of their attacks on our caravans are correct, but our military is too small. If the Enclave does win, we might need all the soldiers we can get here defending the home front.\n\nThese problems and more are what the Rivet City Council must decide on now. This isn't going to be an easy decision, and the consequences could affect Rivet City's future significantly."
+ riv_council.1.a:0 "We need to assess our options"
+
+ riv_council.2.t:0 "This is an Intervention"
+ riv_council.2.d:0 "After days of vigourous and almost violent debate, the Rivet City Council has finally come to an accord on the issue of the Enclave: we will help the Brotherhood.\n\nThere are risks, of course, as with any significant decision such as this, but it's time to present a united front against the tyranny of the Enclave. We stand with the Brotherhood, and the Enclave will fall."
+ riv_council.2.a:0 "United We Stand"
+
+ riv_council.3.t:0 "Sunk Cost Fallacy"
+ riv_council.3.d:0 "After days of vigourous and almost violent debate, the Rivet City Council has finally come to an accord on the issue of the Enclave: we will remain neutral in the Brotherhood-Enclave war.\n\nOur position relies on the security we can secure for ourselves and we can't risk despatching soldiers to likely death. Instead, the Council has wisely determined that we avoid sending anything more to the Brotherhood and focus on what makes us truly great: our prosperity, stability, and scientific achievements."
+ riv_council.3.a:0 "The Brotherhood will win anyway"
+
+ riv_council.4.t:0 "Council Deadlock!"
+ riv_council.4.d:0 "The Council chamber had used double its allotted time of lighting for the day, as nearly every vote went. The grease monkeys in the engine room were grumbling at having to work overtime, representatives had entered, attempted a dialogue, been shouted down, and left with ringing ears. No more petitioners, no more rich market barons, no more officers from security entered the chamber, and the Council fell silent save for the panting of post-shouting match clarity. One of them stepped from their podium first."
+ riv_council.4.a:0 "This meeting is adjourned"
+
+ riv_council.5.t:0 "Legislation Passed!"
+ riv_council.5.d:0 "For the average Rivet City resident, the Council agreeing on an issue seemed like a once in a lifetime occurrence. Not so, today, as little brats paid a few caps by the Council to spread the news cry from every rusting corner of the carrier about the recent round of voting coming to a unanimous agreement.\n\nHowever annoying the deck-rats had been, any news out of their chamber was interesting to the average passer-by. As with everything in Rivet City, the population stood divided on support for the new vote, but regardless, it was done."
+ riv_council.5.a:0 "Another victory for "democracy"."
+
+ riv_council.19.t:0 "Submission to the Enclave"
+ riv_council.19.d:0 "As it is, we see little choice; we need to submit to the Enclave. Our survival is unlikely should we choose to resist them, and we have a duty to our people and ourselves. History may crucify us for failing to resist, but we know we've made the right choice."
+ riv_council.19.a:0 "Survival matters more than morals"
+
+ riv_council.20.t:0 "Stand Against the Enclave"
+ riv_council.20.d:0 "If we were to submit to the Enclave, we would not only be allowing a conqueror to win but also sacrificing our morals and integrity. Even if our struggle is doomed to fail, we must fight to show that struggling against the oppressor is right."
+ riv_council.20.a:0 "Live free or die trying"
+
+ riv_council.21.t:0 "Power Armour Phobia"
+ riv_council.21.d:0 "The Brotherhood and the Enclave have many differences, of course, but also many similarities. Beyond the superficial similarity of using power armour, of course. Both are heavily militarised societies obssessed with the Old World, both don't get along well with outsiders, and both think they know what's best for the wider wasteland.\n\nThe Brotherhood, although they may not see it, are the other side of the Enclave's coin, and while they may have better intentions for the average wastelander than the Enclave, how long before they go too far? We can't simply replace the oppressive stratocracy of the Enclave with a new oppressive stratocracy, no matter what they've done."
+ riv_council.21.a:0 "To submit is to let violence win"
+
+ riv_council.22.t:0 "Forged in Steel"
+ riv_council.22.d:0 "The Brotherhood represents the best hope the Capital Wasteland has of getting on its feet and finally advancing as a society. Things will be rough, but we need to trust the Brotherhood and help them do what they need to make the wasteland a better place. Also, their funding can only help us."
+ riv_council.22.a:0 "Ad Victoriam!"
+
+
+ riv_caravan.1.t:0 "A Narrow Escape"
+ riv_caravan.1.d:0 "Unfortunately the Capital Wasteland is a dangerous place with raiders, super mutants, ghouls galore. Our caravans need to navigate this nightmare, and it can't always work out well.\n\nOur trading caravan was attacked by raiders, but fortunately escaped with their lives. They didn't make it to their destination and that means a loss, but in the Capital Wasteland this is one of the best outcomes we can hope for."
+ riv_caravan.1.a:0 "It could've been worse"
+
+ riv_caravan.2.t:0 "Raiders gonna raid"
+ riv_caravan.2.d:0 "Unfortunately the Capital Wasteland is a dangerous place with raiders, super mutants, ghouls galore. Our caravans need to navigate this nightmare, and it can't always work out well.\n\nOur trading caravan was attacked by raiders and suffered heavy casualties. The scattered remnants of the caravan have made it back to Rivet City, but they've lost their brahmin and supplies. We'll need to form a new caravan to bounce back from this loss."
+ riv_caravan.2.a:0 "A reminder of the dangers of trade"
+
+ riv_caravan.3.t:0 "A Narrow Escape"
+ riv_caravan.3.d:0 "Unfortunately the Capital Wasteland is a dangerous place with raiders, super mutants, ghouls galore. Our caravans need to navigate this nightmare, and it can't always work out well.\n\nOur trading caravan was attacked by super mutants, but fortunately escaped with their lives. They didn't make it to their destination and that means a loss, but in the Capital Wasteland this is one of the best outcomes we can hope for."
+ riv_caravan.3.a:0 "It could've been worse"
+
+ riv_caravan.4.t:0 "Nothing "Super" About It"
+ riv_caravan.4.d:0 "Unfortunately the Capital Wasteland is a dangerous place with raiders, super mutants, ghouls galore. Our caravans need to navigate this nightmare, and it can't always work out well.\n\nOur trading caravan was attacked by super mutants and suffered heavy casualties. The scattered remnants of the caravan have made it back to Rivet City, but they've lost their brahmin and supplies. We'll need to form a new caravan to bounce back from this loss."
+ riv_caravan.4.a:0 "A reminder of the dangers of trade"
+
+ riv_caravan.5.t:0 "No News is Bad News"
+ riv_caravan.5.d:0 "Unfortunately the Capital Wasteland is a dangerous place with raiders, super mutants, ghouls galore. Our caravans need to navigate this nightmare, and it can't always work out well.\n\nOne of our caravans never arrived at their destination. At all. Not a single survivor has made it to us. We'll probably never know who waylaid the caravan, but losses like these, while uncommon, are still far too frequent. How can we prepare better, if we don't know how we lost?"
+ riv_caravan.5.a:0 "No easy road to wealth"
+
+ riv_caravan.6.t:0 "A Narrow Escape"
+ riv_caravan.6.d:0 "Unfortunately the Capital Wasteland is a dangerous place with raiders, super mutants, ghouls galore. Our caravans need to navigate this nightmare, and it can't always work out well.\n\nOur trading caravan was attacked by feral ghouls, but fortunately escaped with their lives. They didn't make it to their destination and that means a loss, but in the Capital Wasteland this is one of the best outcomes we can hope for."
+ riv_caravan.6.a:0 "It could've been worse"
+
+ riv_caravan.7.t:0 "Rabid Dangers of the Wastes"
+ riv_caravan.7.d:0 "Unfortunately the Capital Wasteland is a dangerous place with raiders, super mutants, ghouls galore. Our caravans need to navigate this nightmare, and it can't always work out well.\n\nOur trading caravan was attacked by feral ghouls and suffered heavy casualties. The scattered remnants of the caravan have made it back to Rivet City, but they've lost their brahmin and supplies. We'll need to form a new caravan to bounce back from this loss."
+ riv_caravan.7.a:0 "A reminder of the dangers of trade"
+
+ riv_caravan.8.t:0 "A Narrow Escape"
+ riv_caravan.8.d:0 "Unfortunately the Capital Wasteland is a dangerous place with raiders, super mutants, ghouls galore. Our caravans need to navigate this nightmare, and it can't always work out well.\n\nDespite these more common and accepted risks, this time it was the mysterious Enclave that attacked our caravans. Despite the powerful and dangerous attackers, they are still human and our traders managed to outfox them... this time. We need to be more careful of this group in the future."
+ riv_caravan.8.a:0 "Their actions reveal their intentions..."
+
+ riv_caravan.9.t:0 "Attack From the Shadows"
+ riv_caravan.9.d:0 "Unfortunately the Capital Wasteland is a dangerous place with raiders, super mutants, ghouls galore. Our caravans need to navigate this nightmare, and it can't always work out well.\n\nNo amount of training or equipment, however, could prepare our soldiers for an attack by the shadowy Enclave. Their power armoured soldiers demolished the defensive line the caravan set up, and the battle was a slaughter. A few of our soldiers managed to hide or run and have brought news of the caravan's attack, but we can't be sure it won't happen again..."
+ riv_caravan.9.a:0 "Why hasn't the Brotherhood stopped this?"
+
+ riv_caravan.10.t:0 "We're Not Raiders... Are We?"
+ riv_caravan.10.d:0 "A group of our soldiers sent out on patrol have returned back to base celebrating. Apparently they stumbled onto a group of merchants from Rivet City, some filthy wastelander settlement out there in the Capital Wasteland. A quick ambush relieved the caravan of their riches, and our soldiers have brought them back to base. While we can't officially approve these sorts of raiding missions, they're hardly harmful. Well, not to us."
+ riv_caravan.10.a:0 "Requisition these goods immediately"
+
+ riv_caravan.11.t:0 "A Successful Trade Mission"
+ riv_caravan.11.d:0 "Our traders who were sent out to make their own way have returned to us, safe and sound. They bring wealth from across the Capital Wasteland, having traded with scavengers, settlers, and other traders they encountered in their travels. Nothing like a successful trade mission to boost morale and bring in the caps."
+ riv_caravan.11.a:0 "Another success for Rivet City"
+
+ riv_caravan.12.t:0 "Successful Trade with Megaton"
+ riv_caravan.12.d:0 "Our trading caravan has returned, having completed a successful mission to Megaton. Through trade, we enrich both ourselves and those we trade with. Despite the risks, our merchants have come through."
+ riv_caravan.12.a:0 "Wonderful news"
+
+ riv_caravan.13.t:0 "Successful Trade with Big Town"
+ riv_caravan.13.d:0 "Our trading caravan has returned, having completed a successful mission to Big Town. Through trade, we enrich both ourselves and those we trade with. Despite the risks, our merchants have come through."
+ riv_caravan.13.a:0 "Wonderful news"
+
+ riv_caravan.14.t:0 "Successful Trade with Underworld"
+ riv_caravan.14.d:0 "Our trading caravan has returned, having completed a successful mission to Underworld. Through trade, we enrich both ourselves and those we trade with. Despite the risks, our merchants have come through."
+ riv_caravan.14.a:0 "Wonderful news"
+
+ riv_caravan.15.t:0 "Successful Trade with Canterbury Commons"
+ riv_caravan.15.d:0 "Our trading caravan has returned, having completed a successful mission to Canterbury Commons. Through trade, we enrich both ourselves and those we trade with. Despite the risks, our merchants have come through."
+ riv_caravan.15.a:0 "Wonderful news"
+
+ riv_caravan.16.t:0 "Successful Trade with Tenpenny Tower"
+ riv_caravan.16.d:0 "Our trading caravan has returned, having completed a successful mission to Tenpenny Tower. Through trade, we enrich both ourselves and those we trade with. Despite the risks, our merchants have come through."
+ riv_caravan.16.a:0 "Wonderful news"
+
+ riv_caravan.17.t:0 "Successful Trade with Point Lookout"
+ riv_caravan.17.d:0 "Our trading caravan has returned, having completed a successful mission to Point Lookout. Through trade, we enrich both ourselves and those we trade with. Despite the risks, our merchants have come through."
+ riv_caravan.17.a:0 "Wonderful news"
+
+ riv_caravan.18.t:0 "Successful Trade with Arefu"
+ riv_caravan.18.d:0 "Our trading caravan has returned, having completed a successful mission to Arefu. Through trade, we enrich both ourselves and those we trade with. Despite the risks, our merchants have come through."
+ riv_caravan.18.a:0 "Wonderful news"
+
+ riv_caravan.19.t:0 "Successful Trade with the Republic of Dave"
+ riv_caravan.19.d:0 "Our trading caravan has returned, having completed a successful mission to the Republic of Dave. Through trade, we enrich both ourselves and those we trade with. Despite the risks, our merchants have come through."
+ riv_caravan.19.a:0 "Wonderful news"
+
+ riv_caravan.20.t:0 "Successful Trade with Evergreen Mills"
+ riv_caravan.20.d:0 "Our trading caravan has returned, having completed a successful mission to Evergreen Mills. Through trade, we enrich both ourselves and those we trade with. Despite the risks, our merchants have come through."
+ riv_caravan.20.a:0 "Wonderful news"
+
+ riv_caravan.21.t:0 "Successful Trade with Delmarva"
+ riv_caravan.21.d:0 "Our trading caravan has returned, having completed a successful mission to the Delmarva Peninsula. Through trade, we enrich both ourselves and those we trade with. Despite the risks, our merchants have come through."
+ riv_caravan.21.a:0 "Wonderful news"
+
+ riv_integration.1.t:0 "Megaton Integrated"
+ riv_integration.1.d:0 "After a long period of building their reliance on us, Megaton has finally caved to our influence and decided to join our burgeoning confederation of settlements. From now on, water will flow freely in Megaton and trade can prosper between our settlements. Life in the Capital Wasteland has never been better!"
+ riv_integration.1.a:0 "Welcome to Rivet City!"
+
+ riv_integration.2.t:0 "Canterbury Commons Integrated"
+ riv_integration.2.d:0 "After a long period of building their reliance on us, Canterbury Commons has finally caved to our influence and decided to join our burgeoning confederation of settlements. From now on, water will flow freely in Canterbury Commons and trade can prosper between our settlements. Life in the Capital Wasteland has never been better!"
+ riv_integration.2.a:0 "Welcome to Rivet City!"
+
+ riv_integration.3.t:0 "Tenpenny Tower Integrated"
+ riv_integration.3.d:0 "After a long period of building their reliance on us, Tenpenny Tower has finally caved to our influence and decided to join our burgeoning confederation of settlements. From now on, water will flow freely in Tenpenny Tower and trade can prosper between our settlements. Life in the Capital Wasteland has never been better!"
+ riv_integration.3.a:0 "Welcome to Rivet City!"
+
+ riv_integration.4.t:0 "Underworld Integrated"
+ riv_integration.4.d:0 "After a long period of building their reliance on us, Underworld has finally caved to our influence and decided to join our burgeoning confederation of settlements. From now on, water will flow freely in Underworld and trade can prosper between our settlements. Life in the Capital Wasteland has never been better!"
+ riv_integration.4.a:0 "Welcome to Rivet City!"
+
+ riv_integration.5.t:0 "Arefu Integrated"
+ riv_integration.5.d:0 "After a long period of building their reliance on us, Arefu has finally caved to our influence and decided to join our burgeoning confederation of settlements. From now on, water will flow freely in Arefu and trade can prosper between our settlements. Life in the Capital Wasteland has never been better!"
+ riv_integration.5.a:0 "Welcome to Rivet City!"
+
+ riv_integration.6.t:0 "Republic of Dave Integrated"
+ riv_integration.6.d:0 "After a long period of building their reliance on us, the Republic of Dave has finally caved to our influence and decided to join our burgeoning confederation of settlements. From now on, water will flow freely in the Republic of Dave and trade can prosper between our settlements. Life in the Capital Wasteland has never been better!"
+ riv_integration.6.a:0 "Welcome to Rivet City!"
+
+ riv_integration.7.t:0 "Megaton breaks away!"
+ riv_integration.7.d:0 "After a long period resisting our efforts to influence them, Megaton has finally managed to break free of our influence entirely. They've worked on self-sufficiency in water and refuse to join our prosperous network. If they prefer living in the stone age, then so be it."
+ riv_integration.7.a:0 "They don't know what they've lost"
+
+ riv_integration.8.t:0 "Canterbury Commons breaks away!"
+ riv_integration.8.d:0 "After a long period resisting our efforts to influence them, Canterbury Commons has finally managed to break free of our influence entirely. They've worked on self-sufficiency in water and refuse to join our prosperous network. If they prefer living in the stone age, then so be it."
+ riv_integration.8.a:0 "They don't know what they've lost"
+
+ riv_integration.9.t:0 "Tenpenny Tower breaks away!"
+ riv_integration.9.d:0 "After a long period resisting our efforts to influence them, Tenpenny Tower has finally managed to break free of our influence entirely. They've worked on self-sufficiency in water and refuse to join our prosperous network. If they prefer living in the stone age, then so be it."
+ riv_integration.9.a:0 "They don't know what they've lost"
+
+ riv_integration.10.t:0 "Underworld breaks away!"
+ riv_integration.10.d:0 "After a long period resisting our efforts to influence them, Underworld has finally managed to break free of our influence entirely. They've worked on self-sufficiency in water and refuse to join our prosperous network. If they prefer living in the stone age, then so be it."
+ riv_integration.10.a:0 "They don't know what they've lost"
+
+ riv_integration.11.t:0 "Arefu breaks away!"
+ riv_integration.11.d:0 "After a long period resisting our efforts to influence them, Arefu has finally managed to break free of our influence entirely. They've worked on self-sufficiency in water and refuse to join our prosperous network. If they prefer living in the stone age, then so be it."
+ riv_integration.11.a:0 "They don't know what they've lost"
+
+ riv_integration.12.t:0 "The Republic of Dave breaks away!"
+ riv_integration.12.d:0 "After a long period resisting our efforts to influence them, the Republic of Dave has finally managed to break free of our influence entirely. They've worked on self-sufficiency in water and refuse to join our prosperous network. If they prefer living in the stone age, then so be it."
+ riv_integration.12.a:0 "They don't know what they've lost"
+
+ riv_integration.13.t:0 "Integration complete..?"
+ riv_integration.13.d:0 "All the scattered settlements of the wasteland have now made their choice regarding whether or not to join our growing confederation. Whether they chose wisely or not, we no longer need to make the effort to convince them of the right path. Now is the time to look beyond these scattered settlements and forge a truly great nation out of the Capital Wasteland."
+ riv_integration.13.a:0 "Our future truly begins now"
+
+ riv_artifact.1.t:0 "The Bill of Rights"
+ riv_artifact.1.d:0 "The ruins of the National Archives are filled with dangers and loot, and one of the adventurers we hired to find items of importance managed to stumble on the Bill of Rights while stalking through. It was just lying around, waiting for one of our brave mercenaries to find. Abraham Washington has given the Bill of Rights its own display.\n\nWhen the adventurer was asked why they didn't pick up any other important documents surely lying around the National Archive, they shrugged and said that'd be more work. No arguing with that."
+ riv_artifact.1.a:0 "How wonderful!"
+
+ riv_artifact.2.t:0 "The Constitution"
+ riv_artifact.2.d:0 "The ruins of the National Archives are filled with dangers and loot, and one of the adventurers we hired to find items of importance managed to stumble on the Constitution while stalking through. It was just lying around, waiting for one of our brave mercenaries to find. Abraham Washington has given the Constitution its own display.\n\nWhen the adventurer was asked why they didn't pick up any other important documents surely lying around the National Archive, they shrugged and said that'd be more work. No arguing with that."
+ riv_artifact.2.a:0 "This is cause for celebration"
+
+ riv_artifact.3.t:0 "The Declaration of Independence"
+ riv_artifact.3.d:0 "The ruins of the National Archives are filled with dangers and loot, and one of the adventurers we hired to find items of importance managed to stumble on the Declaration of Independence while stalking through. Due to its importance, it was kept in a strongroom in the back and guarded by an army of robots (or so the treasure hunter said). Abraham Washington has given the Declaration of Independence its own display.\n\nWhen the adventurer was asked why they didn't pick up any other important documents surely lying around the National Archive, they shrugged and said that'd be more work. No arguing with that."
+ riv_artifact.3.a:0 "We stole independence!"
+
+ riv_artifact.4.t:0 "The Magna Carta"
+ riv_artifact.4.d:0 "The ruins of the National Archives are filled with dangers and loot, and one of the adventurers we hired to find items of importance managed to stumble on the Magna Carta while stalking through. It was just lying around, waiting for one of our brave mercenaries to find. Abraham Washington has given the Magna Carta its own display.\n\nWhen the adventurer was asked why they didn't pick up any other important documents surely lying around the National Archive, they shrugged and said that'd be more work. No arguing with that."
+ riv_artifact.4.a:0 "At least we got something from the English"
+
+ riv_artifact.5.t:0 "The Monroe Doctrine"
+ riv_artifact.5.d:0 "While on a separate job entirely, an adventurer often hired by Rivet City met a trader with plenty of old scrap. Most of it seemed useless, but something caught the adventurer's eye. The Monroe Doctrine was inexplicably among the trader's wares, probably mistaken for a bit of scrap paper (could you imagine?). The adventurer, knowing Abraham Washington's interest, acquired it immediately and now it has pride of place in the Capitol Preservation Society.\n\nThe adventurer also bought some other scrap, but whatever a "junk jet" is can't be anywhere near as interesting."
+ riv_artifact.5.a:0 "A lucky find!"
+
+ riv_artifact.6.t:0 "Declaration of War on China"
+ riv_artifact.6.d:0 "One of our usual adventurers was fighting super mutants on their way to Necropolis when they noticed that one of the super mutants that they killed was carrying an old sheet of paper. On further inspection it was the US Declaration of War on China! It's quite unbelievable that a super mutant could recognise an important document such as this, but it must've been a fan of US history, just like Abraham Washington. It's going into a display as we speak."
+ riv_artifact.6.a:0 "Fighting China never looked so good"
+
+ riv_artifact.7.t:0 "The War on Germany"
+ riv_artifact.7.d:0 "The Enclave are an infamous and dangerous group, so when one of our adventurers stumbled upon a small camp of them near the National Archive it could've spelled doom. Fortunately, said Enclave soldiers were asleep and easily dealt with. While rifling through their possessions, the adventurer found a document the group had obviously acquired and hoped to bring back to their base: the US Declaration of War on Germany. It's lucky we got to it before the Enclave brought it back to base. Abraham Washington has a special place set for this."
+ riv_artifact.7.a:0 "Celebrate by punching a Nazi!"
+
+ riv_artifact.8.t:0 "The Gettysburg Address"
+ riv_artifact.8.d:0 "An adventurer we hired to find precious ancient artifacts met a ghoul all the way from the Commonwealth while searching. The ghoul was reticent about talking about the Commonwealth, but came from somewhere called Goodneighbor. By some stroke of luck, he was carrying the Gettysburg Address, and wanted to sell it (he seemed almost desparate to...). Our adventurer snatched up the lucky find and brought it back to base, and Abraham Washington has already put it in its frame.\n\nInterestingly, the adventurer has become paranoid and convinced that they're being followed. Surely a coincidence."
+ riv_artifact.8.a:0 "How'd it get to the Commonwealth?"

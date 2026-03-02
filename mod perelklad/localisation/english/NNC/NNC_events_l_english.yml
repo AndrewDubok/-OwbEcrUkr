@@ -1,0 +1,89 @@
+﻿l_english:    
+    ### EVENTS
+    nf_nnc.1.t:0 "A Band of Merry Men"
+    nf_nnc.1.d:0 "Long ago, centuries before the Great War, mighty soldiers called knights wore powerful armoured suits and would wave around swords and shields and fight injustice. Thousands of pre-war books are written about their exploits, fighting scoundrels, monsters, infidels, and even each other. These mighty soldiers only stopped fighting for justice when if became unfashionable - at least, as far as we can tell from the books.\n\nThe Wasteland is a harsh place, but small collections of people, inspired by these tales of bravery and honour, began using the foundries and forges in the ruins of old world Pennsylvania to create their own metal suits, and began congregating in the fortuitously named ruins of New Castle. They formed the first knightly order of New New Castle more than a hundred years ago, and have struggled to hold their own in the savage wasteland ever since. Fighting slavers, trogs, raiders and mutants, the knights of New New Castle have restored a sense of security and (relative) sanity to their corner of the wastes.\n\nA feudal society has developed as well, and knights guard their small domains. A decentralised peacekeeping force, tasked with guarding their own land, remarkably effective in the wasteland.\n\nKnights have not had a proper place in the world for hundreds of years, but now the New New Castle area is a portal back to the times of peasants and knights, castles and walls. Of course, the world is not the same as when such heroes as Robin Hood, King Arthur, or the Black Knight roamed. One of the most defining anachronisms of New New Castle is:"
+    nf_nnc.1.a:0 "Soldiers using high-tech gear"
+    nf_nnc.1.b:0 "The use of modern foundries and forges"
+    nf_nnc.1.c:0 "Communication technology used across the country"
+
+    nf_nnc.2.t:0 "Our Darkest Hour"
+    nf_nnc.2.d:0 "A little over 20 years ago, in the year 2253, the trogs which have long plagued not only our lands but the entire area formed their largest horde yet. Possessed by a malign intelligence, they swarmed across the border and destroyed fortifications designed to keep them out, killing hundreds of knights and thousands of peasants. Their rampage seemed unstoppable and their rage unending, and the knights of New New Castle were almost broken against their might.\n\nHowever, a middle-aged and experienced knight, though of little renown, Sir Lancaster led his knightly team against the trogs in a penetrating attack towards their nexus. The team consisted of Sir Lancaster, his friends Sir Blackstone, Sir Callow, Sir Constance, and Sir Julian, and their squires. The knightly team managed to breach the frontline of the trogs on their own and ranged through enemy territory, determining where the attacks were coming from.\n\nEventually, they found the nexus of the problem. The trogs were controlled by an especially hideous and mutated trog, who could apparently communicate with and control them with unbelievable malice. Sir Lancaster and his team managed to end the foul beast's life, but not before Sir Callow and Sir Julian, along with all but 2 of the accompanying squires, were killed in battle.\n\nWith the end of the trog menace, however, Sir Lancaster was hailed as a lord on his return and seated on the throne of New New Castle, taking the place of Lord Galdrin who had fallen in the war against the trogs. The incursion was not without its costs, however."
+    nf_nnc.2.a:0 "The war had killed too many people to count"
+    nf_nnc.2.b:0 "The war was devastating, but recovery began quickly"
+    nf_nnc.2.c:0 "Despite it all, New New Castle came through undiminished"
+
+    nf_nnc.3.t:0 "The Eleventh Roundtable"
+    nf_nnc.3.d:0 "Upon his accession to the lordship of New New Castle, Lord Lancaster almost immediately instituted the tradition of the roundtables. Held every two years, the roundtable has become the primary forum for knights to air their greivances and wider policy decisions to be made. Over the years, however, the knights of the roundtable have crystalised into separate factions.\n\nThe Loyalists simply remain loyal to Lord Lancaster and the throne, come rain or shine. The loyalists are reliable and led by Lancaster's former squire and survivor of the trog incursion, Sir Cuthbert.\n\nThe Chivalrics are a group of knights devoted to the highest ideals of the knights of yore. They follow the rules of chivalry to the letter and do their best to present themselves as the best representatives of Lord Lancaster, and are well beloved by the people. They are led by Sir Reed, the squire of the late Sir Julian who fell against the trogs.\n\nThe Blackguards are a group of knights who are one step beyond raiders. They are brutal in their treatment of peasants and outsiders, and use their position primarily to live the best life they can. They were founded by Sir Blackstone (for whom they're named), but since his death are now led by Sir Harald.\n\nThe final group are the Crusaders, led by Sir Constance. The Crusaders believe in the ideological superiority of the knights of New New Castle and seek to enforce their ideals upon the rest of the wasteland by force.\n\nThis balancing act has always caused some instability in New New Castle, and Lord Lancaster has found himself forced to favour one party over the others in the course of his rule."
+    nf_nnc.3.a:0 "The Chivalrics have honourable ideals"
+    nf_nnc.3.b:0 "The Blackguards respect power and authority"
+    nf_nnc.3.c:0 "The Crusaders will enforce our will"
+
+    nf_nnc.4.t:0 "The Twelfth Roundtable"
+    nf_nnc.4.d:0 "The unexpected call of a Twelfth Roundtable, relatively soon after the Eleventh, has drawn plenty of attention and confusion from throughout New New Castle. The Roundtable has an even larger turnout than usual, nobles trying to assess why it has been called and what Lancaster intends.The three factions of New New Castle have coalesced in the room, although most nobles have not aligned with any of them yet. Lancaster sits at the head of the table, seemingly lost in thought.\n\nAs chatter dies down and attention turns to Lancaster, he speaks loudly to the room. "Good evening, thank you for coming to this unusual Twelfth Roundtable. I know many of you have other important business and I appreciate your attendance nonetheless. I am here to announce my retirement."\n\nThe room immediately breaks into chatter and shouts, but quickly died down as Lancaster raises his hands for attention. "I have not yet chosen a successor. I hope that, in the next few months, one of you may prove your worth to take the throne of New New Castle."\n\nImmediately the three factions begin quietly discussing among themselves. It seems clear that one of them will succeed to the throne - who else could possibly claim enough power?"
+    nf_nnc.4.a:0 "What happens now?"
+
+    nf_nnc.5.t:0 "A Long Awaited Retirement"
+    nf_nnc.5.d:0 "The day has come for Lancaster's retirement, and the leaders of every faction have gathered to hear his announcement for the successor. Every one believes they are worthy of the title, but only one can rule..."
+    nf_nnc.5.a:0 "The Blackguards showed their strength"
+    nf_nnc.5.b:0 "The Chivalrics showed their compassion"
+    nf_nnc.5.c:0 "The Crusaders showed their zeal"
+    nf_nnc.5.e:0 "They're failures! All of them!"
+        nnc_failed_to_prepare_successor_tt:0 "As no faction has managed to take over, we must prepare for the worst."
+
+    nf_nnc.6.t:0 "The Death of a King"
+    nf_nnc.6.d:0 "News has come that Lord Lancaster, former ruler of New New Castle, died peacefully in his bed this morning. The people mourn his passing, and proposals have been put forward to build a statue in his honour."
+    nf_nnc.6.a:0 "His legacy will continue onwards"
+
+    nf_nnc.7.t:0 "Chaos in the Realm!"
+    nf_nnc.7.d:0 "With the failure of any faction to successfully secure the succession, New New Castle has fallen into a chaos of petty squabbles! Lord Cuthbert has attempted to take control and restore order, but his power is weak and every faction is out for themselves. There is chaos in the streets and little hope of normalcy. All we can do is try to best control the chaos."
+    nf_nnc.7.a:0 "How did it come to this..."
+
+    nf_nnc.8.t:0 "The Blackguards Win"
+    nf_nnc.8.d:0 "With the call of the 13th Roundtable, the lords and nobles of New New Castle have deliberated and discussed, blackmailed and bribed, but in the end only one faction could come through to victory. The Blackguards.\n\nThrough bribery, extortion, and corruption, the Blackguards ensured their own power in the Roundtable and have secured their future as the rulers of New New Castle. Already the Chivalrics and the Crusaders have decried the actions of the Blackguards, and the common people weep at the fate that will befall them under the regime, but the Blackguards have been drinking and partying even more than usual.\n\nThe Blackguards have won, and they'll make sure no roundtable in the future can take that away from them."
+    nf_nnc.8.a:0 "Dark days... unless you're one of them"
+
+    nf_nnc.9.t:0 "The Peasants are Truly Revolting"
+    nf_nnc.9.d:0 "Unfortunately for us, the Blackguards aren't exactly popular among the peasantry. Something about "corruption" and "cruelty" and a bunch of other peasant nonsense. They're hardly worth listening to, but there are a hell of a lot of them. We've got to continue repressing them, of course, but maybe we should be careful not to let things get too bad."
+    nf_nnc.9.a:0 "Can a man not oppress in peace?"
+
+    nf_nnc.10.t:0 "The Chivalrics Secure Their Vision"
+    nf_nnc.10.d:0 "With the call of the 13th Roundtable, the lords and nobles of New New Castle have deliberated and discussed, blackmailed and bribed, but in the end only one faction could come through to victory. The Chivalrics.\n\nMassively popular with the common folk and leveraging that against the roundtable, the Chivalrics have surged into power on a wave of popular demand. The Blackguards have begun fortifying for the inevitable crackdowns, and the Crusaders hold fiery sermons on the vile "pacifist" nature of the Chivalrics, but the commoners dance through the streets.\n\nThe Chivalrics have won, and the future of the common people will be secure forevermore."
+    nf_nnc.10.a:0 "Three cheers for the Roundtable!"
+
+    nf_nnc.11.t:0 "The Crusaders Claim Victory"
+    nf_nnc.11.d:0 "With the call of the 13th Roundtable, the lords and nobles of New New Castle have deliberated and discussed, blackmailed and bribed, but in the end only one faction could come through to victory. The Crusaders.\n\nRiding on a surge of expansionist and belligerent sentiment, the Crusaders successfully riled the Roundtable into agreeing with their violent agenda. The Chivalrics protest for the plight of the people, and the Blackguards grumble about wasted expense and war austerity, but warlike citizens are already preparing to march to war.\n\nThe Crusaders have won, and the wasteland will reverberate with the sound of their war cries."
+    nf_nnc.11.a:0 "The wasteland will feel our might"
+
+    nf_nnc.12.t:0 "Forging the Crucible"
+    nf_nnc.12.d:0 "Iron Town has been a relatively important industrial hub for some time now, but has never really received the attention it deserves. The town is independent from nobles, with its existence dictated by a city charter - extremely rare in New New Castle, and much to the ire of many nobles.\n\nThey are still loyal subjects of New New Castle, however, and with a boost in funding they can become the Crucible, a town dedicated to smithing plants and weapons production. The citizens and town council are sure to approve of the boost."
+    nf_nnc.12.a:0 "We're forging something great"
+    NNC_CRUCIBLE:0 "The Crucible"
+
+    nf_nnc.13.t:0 "End the Roundtable"
+    nf_nnc.13.d:0 "While the original purposes of the Roundtable are understandable, they simply do not serve the needs of the state as they are now. To secure our power and centralise our authority, the Roundtable must be abolished and our strength must be allowed to dictate the governance of New New Castle."
+
+    nf_nnc.15.t:0 "The Soldier and the Poet"
+    nf_nnc.15.d:0 "Sir Florent has never been an enthusiastic participant in court politics, and ever since the fateful expedition of Sir Rodrick he has become brutal and violent. The utter destruction of the expedition, apart from himself and Sir Fabien, has left Florent a shell of a man.\n\nNow, things are too much. With a changing government and a strange new New New Castle, Florent is cast adrift. He has declared a new expedition, to reclaim the glory of Sir Rodrick and bring his companions' remains back to New New Castle. It is almost certainly doomed.\n\nEver the loyal friend, Fabien has declared that he will join Florent, and the two of them begin their journey, likely never to be seen again..."
+    nf_nnc.15.a:0 "May they find what they're looking for..."
+
+    nf_nnc.16.t:0 "Controlled Advancement"
+    nf_nnc.16.d:0 "While New New Castle has maintained a strict limit on technological advancement, there are those who seek to push the boundaries. This is a dangerous world, and knights should use any edge to win so long as they remain chivalrous (to a certain definition of chivalry).\n\nDespite the discomfit, we need to realise that we can not stay insulated forever. We need to acknowledge some advances. Of course, we can't just do everything all at once, that would be CRAZY."
+    nf_nnc.16.a:0 "Let's start with better swords"
+    
+    nf_nnc.17.t:0 "Heroes of the People"
+    nf_nnc.17.d:0 "Since the ascension of the Chivalrics the common folk have not ceased in their celebrations. With a just and compassionate hand the Chivalrics will bring the people a bright new future.\n\nAs the festivities begin to die down, though, the work on creating that beautiful future must begin. With the adoration of the peasantry, the Chivalrics already have a significant boon in their efforts to improve New New Castle. They clamour to help, and we can certainly use it."
+    nf_nnc.17.a:0 "Have them sign up for military service"
+    nf_nnc.17.b:0 "Let's get the economy moving"\
+
+    nf_nnc.19.t:0 "Jubilation"
+    nf_nnc.19.d:0 "The Crusaders have ascended to power, and throughout New New Castle soldiers ready for renewed conquests and wars. Constance's loyal followers are already setting up recruiting stations and drafting battleplans, and the common folk call for blood.\n\nFirst, however, we need to establish order and prepare for our grand conquests. There is nothing like a war to bring people together, but also to tear people apart.\n\nRemain calm..."
+    nf_nnc.19.a:0 "The patriots are in control"
+
+
+    nf_nnc.50.t:0 "Peasant Revolt!"
+    nf_nnc.50.d:0 "The peasants have had enough! The excesses of the Blackguards have caused rioting throughout New New Castle, and not even the knights have been able to keep things under control. Soon, angry mobs stormed the castles and halls of the decadent nobility, and the peasant republic has begun.\n\nNow, there are no rulers in New New Castle, only the people. This is the dawn of a new age."
+    nf_nnc.50.a:0 "No Gods, No Masters"
+
+    nf_nnc.51.t:0 "Countrywide Celebrations"
+    nf_nnc.51.d:0 "With the creation of a new peasant-led government, spontaneous celebrations have broken out across the countryside. Nobles and knights flee to nearby lands, while peasants round up those too slow to escape and sentence them in trials.\n\nBread and ale flow freely, and for the first time the peasants in New New Castle have something to look forward to."
+    nf_nnc.51.a:0 "Freedom wasn't free, but it was worth the cost"

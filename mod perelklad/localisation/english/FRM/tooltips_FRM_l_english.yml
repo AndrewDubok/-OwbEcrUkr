@@ -1,0 +1,23 @@
+﻿l_english:
+  FRM_people_party:0 "People's Marshalls"
+  FRM_people_party_long:0 "The People's Marshalls"
+  FRM_elites_party:0 "Converts"
+  FRM_elites_party_long:0 "The AtomBaptist Converts"
+  FRM_intellectuals_party:0 "Lynchians"
+  FRM_intellectuals_party_long:0 "The Lynchians"
+  FRM_ruler_party:0 "Zealous Marshalls"
+  FRM_ruler_party_long:0 "The Zealous Marshalls"
+
+  fire_marshalls_visible_tt:0 "§YFire Marshalls§! and their allies: Controls §YVirginia Swamps§!"
+
+  FRM_baptist_influence:0 "AtomBaptist Influence"
+  FRM_independence:0 "Independence"
+  FRM_dependence:0 "Dependence"
+  FRM_anti_baptist_dominance:0 "Anti-Baptist Dominance"
+  FRM_secured_independence:0 "Secure Independence"
+  FRM_controlled_baptists:0 "Muzzled Baptists"
+  FRM_controlled_influence:0 "Controlled Influence"
+  FRM_sizeable_presence:0 "Sizeable Baptist Presence"
+  FRM_zealous_converts:0 "Zealous Converts"
+  FRM_baptist_control:0 "Baptist Control"
+  frm_missionary_activity:0 "Missionary Activity"

@@ -1,0 +1,189 @@
+﻿l_english:
+ riv_scientific_hub_of_the_capital:0 "The Scientific Hub of the Capital"
+ riv_scientific_hub_of_the_capital_desc:0 "While the Brotherhood and Enclave may possess technology more advanced than ours, we are researchers and the finest scientific institution in the Capitol. It is through us that people in the area can eat fresh fruit and vegetables, and hope for a better tomorrow."
+
+ riv_rust_and_rivets:0 "Rust and Rivets"
+ riv_rust_and_rivets_desc:0 "The location of our city brings unique challenges and opportunities. While it is easier to construct in rooms that already exist, we also have to deal with the devastating effects of the rust that permeates the air we breathe."
+
+ riv_rust_and_rivets_2:0 "Rust and Rivets"
+ riv_rust_and_rivets_2_desc:0 "The location of our city brings unique challenges and opportunities. While it is easier to construct in rooms that already exist, we also have to deal with the devastating effects of the rust that permeates the air we breathe."
+
+ riv_rust_and_rivets_3:0 "Rust and Rivets"
+ riv_rust_and_rivets_3_desc:0 "The location of our city brings unique challenges and opportunities. While it is easier to construct in rooms that already exist, we also have to deal with the devastating effects of the rust that permeates the air we breathe."
+
+ riv_rust_and_rivets_4:0 "Rust and Rivets"
+ riv_rust_and_rivets_4_desc:0 "The location of our city brings unique challenges and opportunities. While it is easier to construct in rooms that already exist, we also have to deal with the devastating effects of the rust that permeates the air we breathe."
+
+ riv_rust_and_rivets_5:0 "Rust and Rivets"
+ riv_rust_and_rivets_5_desc:0 "The location of our city brings unique challenges and opportunities. While it is easier to construct in rooms that already exist, we also have to deal with the devastating effects of the rust that permeates the air we breathe."
+
+ riv_the_security_team:0 "The Security Team"
+ riv_the_security_team_desc:0 "Rivet City's security forces are not quite a police force, not quite a military. The relative safety of Rivet City means that proper soldiers aren't needed, but police aren't quite sufficient. This means that, while the security force is small, they're well organised and competent. They are also partially paid in free food, which we have plenty of, making the force cheaper to afford."
+
+ riv_vaccine_development:0 "Vaccine Development"
+ riv_vaccine_development_desc:0 ""
+
+ riv_rust_clearing:0 "Rust Clearing"
+ riv_rust_clearing_desc:0 ""
+
+ riv_lis_new_scientists:0 "Li's New Scientists"
+ riv_lis_new_scientists_desc:0 "Madison Li has brought new scientists into Rivet City, non-natives who bring fresh experiences and expertise to the labs of the city. While this is a significant boost to our research efforts, fresh ideas can be a disadvantage when it comes to political stability."
+
+ riv_food_production_expanded:0 "Food Production Expanded"
+ riv_food_production_expanded_desc:0 "When Li arrived in the city, her first priority was to expand food production in the city significantly. The rest of the wasteland, she said, was starving, and we need to share our produce to bring health and prosperity to all. Unfortunately, the lab techs and assistants needed to grow this much food are pulled away from our research efforts."
+
+ riv_lower_food_prices:0 "Lower Food Prices"
+ riv_lower_food_prices_desc:0 "Li's arrival to the city brought a fresh perspective to the research team and the leadership of the city. Li immediately pushed for the lowering of food prices to the rest of the wasteland. While this hurts our bottom line, it brings lots of goodwill to the wasteland, and many people of the city are proud to be helping others."
+
+ riv_limit_conscription2:0 "Limit Conscription"
+ riv_limit_conscription2_desc:0 "We can't afford to simply throw bodies at every problem we encounter. Danvers wants to ensure we don't lose too much of our people. A small price to pay for her support."
+
+ riv_limit_conscription1:0 "Limit Conscription"
+ riv_limit_conscription1_desc:0 "We can't afford to simply throw bodies at every problem we encounter. Danvers wants to ensure we don't lose too much of our people. A small price to pay for her support."
+
+ riv_li_science_focus_idea1:0 "Science Focus"
+ riv_li_science_focus_idea1_desc:0 "In exchange for Madison Li's support in the council, she has demanded more funding for the science section. This will have some minor economic and political repercussions."
+
+ riv_li_science_focus_idea2:0 "Science Focus"
+ riv_li_science_focus_idea2_desc:0 "In exchange for Madison Li's support in the council, she has demanded more funding for the science section. This will have some minor economic and political repercussions."
+
+ riv_punga_trade:0 "The Punga Trade"
+ riv_punga_trade_desc:0 "Point Lookout's punga fruit are an appealing and appetising meal. As well as tasting good, they cleanse the body of radiation poisoning and have minor medicinal properties. Of course, it's also a little addictive..."
+
+ riv_economic_support:0 "Rivet City's Economic Support"
+ riv_economic_support_desc:0 ""
+
+ riv_war_effort_idea:0 "Rivet City Boosts the War Effort"
+ riv_war_effort_idea_desc:0 ""
+
+ riv_volunteers_to_bos:0 "Volunteers for the Brotherhood"
+ riv_volunteers_to_bos_desc:0 ""
+
+ riv_weapons_contribution_idea:0 "The Rivet City Weapons Contribution Program"
+ riv_weapons_contribution_idea_desc:0 "The new Rivet City Weapons Contribution Program appeals to the citizens of Rivet City to hand in their weapons for use in the military. While not providing massive amounts of weapons, every little bit helps."
+
+ riv_paramount_security:0 "Paramount Security"
+ riv_paramount_security_desc:0 ""
+
+ riv_elite_security_forces:0 "Elite Security Forces"
+ riv_elite_security_forces_desc:0 "Every guard must be the greatest they can be, every officer the best leader they can."
+
+ riv_expansion_of_security:0 "Security Force Expansion"
+ riv_expansion_of_security_desc:0 "The best soldier in the world can't fight an army alone."
+
+ riv_military_expansion:0 "Military-Industrial Expansion"
+ riv_military_expansion_desc:0 "Continuous expansion of the Rivet City Security Force necessitates expansion of the industry supporting them."
+
+ riv_volunteers_to_the_wasteland:0 "Wasteland Volunteers"
+ riv_volunteers_to_the_wasteland_desc:0 "The Wasteland is a massive place, we need to assist like-minded nations where we can."
+
+ riv_maintenance_effort_idea:0 "Maintenance Effort"
+ riv_maintenance_effort_idea_desc:0 ""
+
+ riv_science_effort_idea:0 "Science Effort"
+ riv_science_effort_idea_desc:0 ""
+
+ riv_marketplace_refurbishment_idea:0 "Marketplace Refurbishments"
+ riv_marketplace_refurbishment_idea_desc:0 ""
+
+ riv_deck_refurbishment_idea:0 "Deck Refurbishments"
+ riv_deck_refurbishment_idea_desc:0 ""
+
+ riv_lab_modernisation_idea:0 "Lab Modernisation"
+ riv_lab_modernisation_idea_desc:0 ""
+
+ riv_more_food_for_better_prices:0 "More Food, for Better Prices"
+ riv_more_food_for_better_prices_desc:0 "With a more advanced lab, we can better develop our hydroponics to produce more abundant food."
+
+ riv_powerful_caravan_companies:0 "Powerful Caravan Companies"
+ riv_powerful_caravan_companies_desc:0 "Rivet City has relied on its small caravan companies for a long time, and with support from the Council they have grown into powerful commercial interests, all backed by Rivet City. Their prosperity means the City's prosperity."
+
+ riv_flourishing_markets:0 "Flourishing Markets"
+ riv_flourishing_markets_desc:0 "Our markets have become the most important in DC. Traders from all over the Capital Wasteland come to Rivet City to hawk their wares, trade their goods, and come away with fatter coinpurses."
+
+ riv_people_over_profit:0 "The People Over Profit Motion"
+ riv_people_over_profit_desc:0 ""
+
+ riv_higher_priced_food:0 "Higher Priced Food"
+ riv_higher_priced_food_desc:0 ""
+
+ riv_defensive_focus:0 "The Focused Defence Motion"
+ riv_defensive_focus_desc:0 ""
+
+ riv_outside_scientists:0 "Li's Outside Scientists Motion"
+ riv_outside_scientists_desc:0 ""
+
+ riv_extra_expenses:0 "Extra Expenses"
+ riv_extra_expenses_desc:0 ""
+
+ riv_bridge_tax:0 "The Council's Bridge Tax"
+ riv_bridge_tax_desc:0 ""
+
+ riv_dangerous_science:0 "The Dangerous Science Motion"
+ riv_dangerous_science_desc:0 ""
+
+ riv_radaway_production:0 "Increased RadAway Production"
+ riv_radaway_production_desc:0 ""
+
+ riv_priority_treatment_idea:0 "Support the Hangar Deck Residents"
+ riv_priority_treatment_idea_desc:0 ""
+
+ riv_equal_treatment_idea:0 "The Equal Rights Motion"
+ riv_equal_treatment_idea_desc:0 ""
+
+ riv_dangerous_sections_closed:0 "Dangerous Sections Closed Off"
+ riv_dangerous_sections_closed_desc:0 ""
+
+ riv_integrated_administration:0 "Integrated Administration"
+ riv_integrated_administration_desc:0 "By taking in the most talented administrators and officials from the settlements we integrate, we can more easily control the territories which are not fully under our yoke."
+
+ riv_domination_of_dc:0 "Domination of DC"
+ riv_domination_of_dc_desc:0 "With the fall of the last holdouts in DC, Rivet City has established itself as the dominant force in the area, perhaps of the entire East Coast of the USA. With this control assured, maybe there will finally be an East Coast Rebirth."
+
+ riv_the_new_army:0 "The New Army"
+ riv_the_new_army_desc:0 "Rivet City's security force has been confronted with an uncomfortable truth: they are simply too poorly trained and equipped for the large scale combat that they now find themselves involved in. An overhaul of the army is taking place, that will see the Security Force turned into a true army."
+
+ riv_the_new_army2:0 "The New Army"
+ riv_the_new_army2_desc:0 "Rivet City's security force has been confronted with an uncomfortable truth: they are simply too poorly trained and equipped for the large scale combat that they now find themselves involved in. An overhaul of the army is taking place, that will see the Security Force turned into a true army."
+
+ riv_the_new_army3:0 "The New Army"
+ riv_the_new_army3_desc:0 "Rivet City's security force has been confronted with an uncomfortable truth: they are simply too poorly trained and equipped for the large scale combat that they now find themselves involved in. An overhaul of the army is taking place, that will see the Security Force turned into a true army."
+
+ riv_wildlife_study_idea:0 "Wildlife Study"
+ riv_wildlife_study_idea_desc:0 ""
+
+ riv_wildlife_study_idea_2:0 "Wildlife Study"
+ riv_wildlife_study_idea_2_desc:0 ""
+
+ riv_water_rationing:0 "Water Rationing"
+ riv_water_rationing_desc:0 "With the Enclave taking control of the water supply of DC and their victory over the Brotherhood, things are suddenly looking far more dire. Rivet City must be careful in how it hands out its water - there may not be much more coming."
+
+ riv_emergency_conscription_idea:0 "Emergency Conscription"
+ riv_emergency_conscription_idea_desc:0 "Who knows when the Enclave may decide enough is enough? We must prepare by creating the largest army we can - detriments to society are necessary when your opponent is the end of your society."
+
+ riv_enclave_methodology:0 "Enclave Methodology"
+ riv_enclave_methodology_desc:0 "The Enclave are willing to utilise more - inhumane methods of research. Not many people like this, but that just means plenty of test subjects."
+
+ riv_free_trade_city:0 "The Free City of DC"
+ riv_free_trade_city_desc:0 ""Keep, ancient lands, your storied pomp!" cries she\nWith silent lips. "Give me your tired, your poor,\nYour huddled masses yearning to breathe free,\nThe wretched refuse of your teeming shore.\nSend these, the homeless, tempest-tost to me,\nI lift my lamp beside the golden door!""
+
+ riv_fiat_cap_currency:0 "Fiat Cap Currency"
+ riv_fiat_cap_currency_desc:0 ""
+
+ riv_water_inflation:0 "Fight the Water-Backed Inflation"
+ riv_water_inflation_desc:0 ""
+
+ riv_truest_technocracy:0 "The Truest Technocracy"
+ riv_truest_technocracy_desc:0 "Rivet City has become the pinnacle of modern technocracy. The Brotherhood and Enclave refused to look beyond their weapons and armour, and the Institute are obsessed with their weird robots and isolationism. Rivet City, on the other hand, stands as a beacon of science and humanity across the East Coast."
+
+
+
+
+ riv_bill_of_rights_idea:0 "The United States Bill of Rights"
+ riv_constitution_idea:0 "The Constitution of the United States"
+ riv_declaration_of_independence_idea:0 "The United States Declaration of Independence"
+ riv_magna_carta_idea:0 "The Magna Carta"
+ riv_monroe_doctrine_idea:0 "The Monroe Doctrine"
+ riv_war_declaration_on_china_idea:0 "The United States Declaration of War Against China"
+ riv_war_declaration_on_germany_idea:0 "The United States Declaration of War Against Germany"
+ riv_gettysburg_address_idea:0 "The Gettysburg Address"

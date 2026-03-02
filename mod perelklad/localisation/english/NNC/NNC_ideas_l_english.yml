@@ -1,0 +1,194 @@
+﻿l_english:
+
+  NNC_people_party:0 "Chivalrics"
+  NNC_people_party_long:0 "The Chivalric Order"
+  NNC_elites_party:0 "Blackguards"
+  NNC_elites_party_long:0 "The Blackguards"
+  NNC_intellectuals_party:0 "Crusaders"
+  NNC_intellectuals_party_long:0 "The Crusaders"
+  NNC_ruler_party:0 "Loyalists"
+  NNC_ruler_party_long:0 "The Lancastrian Loyalists"
+  
+  ####NNC####
+  nnc_new_roundtable:0 "New Roundtable"
+  nnc_new_roundtable_desc:0 "In New New Castle, a great council of knights gather to discuss issues of the land. The equitable treatment of the voices of the knights does occasionally lead to squabbling, but overall it brings peace and order."
+
+  nnc_stuck_in_the_past:0 "Stuck in the Past"
+  nnc_stuck_in_the_past_desc:0 "Understandably, a group of guys running around pretending they are knights of old are not exactly quick to embrace new ideas or change."
+
+  nnc_stuck_in_the_past2:0 "Honouring the Past"
+  nnc_stuck_in_the_past2_desc:0 "While one can honour and represent the path, keeping your head in the present is important. We can honour the legacy of knights of yore, while not neglecting the here and now."
+
+  nnc_veteran_knights:0 "Veteran Knights"
+  nnc_veteran_knights_desc:0 "The Trog incursion of 2253 devastated the knights of New New Castle, but left behind a hardened and skilled core of veteran knights. The legacy of their experiences has carried to newer knights even to this day."
+
+  NNC_peasant_levies:0 "Peasant Levies"
+  NNC_peasant_levies_desc:0 "Peasants have served in our army in a limited capacity for years, but the necessities of the modern day require more of them to enter the army. Unfortunately they're a disorganised rabble, but there are plenty of them."
+
+  nnc_training_dummies_idea:0 "Training "Dummies""
+  nnc_training_dummies_idea_desc:0 "The Blackguards have begun training against live targets. While these targets are outlaws, criminals, and worse, it's still unpleasant to most people and there are the occasional innocents killed as well."
+
+  nnc_building_chaos:0 "Rising Chaos"
+  nnc_building_chaos_desc:0 "Lancaster's announcement of retirement has set the political order of New New Castle into disarray. Tensions between the Blackguards, Chivalrics, and Crusaders have always existed, but things are getting much, much worse."
+
+  nnc_knightly_disorder:0 "Knightly Disorder"
+  nnc_knightly_disorder_desc:0 "Chaos in the Kingdom! New New Castle is now gripped by constant civil war, and Sir Cuthbert watches the flower of American chivalry fall into turmoil and civil war."
+
+  nnc_knightly_disorder2:0 "Knightly Disorder"
+  nnc_knightly_disorder2_desc:0 "Chaos in the Kingdom! New New Castle is now gripped by constant civil war, and Sir Cuthbert watches the flower of American chivalry fall into turmoil and civil war. Now the people live in fear, wondering if they'll be next to fall in the turmoil."
+
+  nnc_the_peasant_farmers:0 "The Peasant Farmers"
+  nnc_the_peasant_farmers_desc:0 ""
+
+  nnc_the_peasant_farmers2:0 "The Peasant Farmers"
+  nnc_the_peasant_farmers2_desc:0 ""
+
+  nnc_the_peasant_farmers_blackguard:0 "Punishing Serfdom"
+  nnc_the_peasant_farmers_blackguard_desc:0 ""
+
+  nnc_the_peasant_farmers_blackguard2:0 "Punishing Serfdom"
+  nnc_the_peasant_farmers_blackguard2_desc:0 ""
+
+  nnc_the_peasant_farmers_chivalric:0 "Uplifting the Peasantry"
+  nnc_the_peasant_farmers_chivalric_desc:0 ""
+
+  nnc_the_peasant_farmers_chivalric2:0 "Uplifting the Peasantry"
+  nnc_the_peasant_farmers_chivalric2_desc:0 ""
+
+  nnc_artisan_workshops:0 "Artisan Workshops"
+  nnc_artisan_workshops_desc:0 ""
+
+  nnc_artisan_workshops_blackguard:0 "Backbreaking Work"
+  nnc_artisan_workshops_blackguard_desc:0 ""
+
+  nnc_artisan_workshops_blackguard2:0 "Backbreaking Work"
+  nnc_artisan_workshops_blackguard2_desc:0 ""
+
+  nnc_artisan_workshops_blackguard3:0 "Backbreaking Work"
+  nnc_artisan_workshops_blackguard3_desc:0 ""
+
+  nnc_artisan_workshops_chivalric:0 "Chartered Towns"
+  nnc_artisan_workshops_chivalric_desc:0 ""
+
+  nnc_artisan_workshops_chivalric2:0 "Chartered Towns"
+  nnc_artisan_workshops_chivalric2_desc:0 ""
+
+  nnc_artisan_workshops_chivalric3:0 "Chartered Towns"
+  nnc_artisan_workshops_chivalric3_desc:0 ""
+
+  nnc_artisan_workshops_crusaders:0 "Zealous Craftsmen"
+  nnc_artisan_workshops_crusaders_desc:0 ""
+
+  nnc_artisan_workshops_crusaders2:0 "Zealous Craftsmen"
+  nnc_artisan_workshops_crusaders2_desc:0 ""
+
+  nnc_artisan_workshops_crusaders3:0 "Zealous Craftsmen"
+  nnc_artisan_workshops_crusaders3_desc:0 ""
+
+  nnc_castle_elites:0 "Castle Elites"
+  nnc_castle_elites_desc:0 ""
+
+  nnc_castle_elites_blackguard:0 "Corrupt Nobles"
+  nnc_castle_elites_blackguard_desc:0 ""
+
+  nnc_thriving_blackguards:0 "Thriving Blackguard Economy"
+  nnc_thriving_blackguards_desc:0 ""
+
+  nnc_thriving_chivalrics:0 "Thriving Chivalric Economy"
+  nnc_thriving_chivalrics_desc:0 ""
+
+  nnc_thriving_crusaders:0 "Thriving Crusader Economy"
+  nnc_thriving_crusaders_desc:0 ""
+
+  nnc_arming_up:0 "Arming Up"
+  nnc_arming_up_desc:0 ""
+
+  nnc_disciplined_soldiers:0 "Disciplined Soldiers"
+  nnc_disciplined_soldiers_desc:0 ""
+
+  nnc_disciplined_soldiers2:0 "Disciplined Soldiers"
+  nnc_disciplined_soldiers2_desc:0 ""
+
+  nnc_disciplined_soldiers3:0 "Disciplined Soldiers"
+  nnc_disciplined_soldiers3_desc:0 ""
+
+  nnc_disciplined_soldiers2_chivalric:0 "Disciplined Soldiers"
+  nnc_disciplined_soldiers2_chivalric_desc:0 ""
+
+  nnc_disciplined_soldiers3_chivalric:0 "Disciplined Soldiers"
+  nnc_disciplined_soldiers3_chivalric_desc:0 ""
+
+  nnc_disciplined_soldiers2_crusader:0 "Disciplined Soldiers"
+  nnc_disciplined_soldiers2_crusader_desc:0 ""
+
+  nnc_disciplined_soldiers3_crusader:0 "Disciplined Soldiers"
+  nnc_disciplined_soldiers3_crusader_desc:0 ""
+
+  nnc_kings_castle:0 "The King's Castles"
+  nnc_kings_castle_desc:0 ""
+
+  nnc_kings_castle2:0 "The King's Castles"
+  nnc_kings_castle2_desc:0 ""
+
+  nnc_kings_castle2_blackguard:0 "The King's Castles"
+  nnc_kings_castle2_blackguard_desc:0 ""
+
+  nnc_kings_castle2_chivalric:0 "The King's Castles"
+  nnc_kings_castle2_chivalric_desc:0 ""
+
+  nnc_kings_castle2_crusader:0 "The King's Castles"
+  nnc_kings_castle2_crusader_desc:0 ""
+
+  nnc_kings_castle3_blackguard:0 "The King's Castles"
+  nnc_kings_castle3_blackguard_desc:0 ""
+
+  nnc_kings_castle3_chivalric:0 "The King's Castles"
+  nnc_kings_castle3_chivalric_desc:0 ""
+
+  nnc_kings_castle3_crusader:0 "The King's Castles"
+  nnc_kings_castle3_crusader_desc:0 ""
+
+  NNC_roundtable_abolished:0 "The Roundtable Abolished"
+  NNC_roundtable_abolished_desc:0 "With the ascension of the Blackguards and the end of the roundtable system, a new cadre of elite advisors must be chosen."
+
+  NNC_corruption:0 "Festering Corruption"
+  NNC_corruption_desc:0 ""
+
+  NNC_corruption2:0 "Growing Corruption"
+  NNC_corruption2_desc:0 ""
+
+  NNC_corruption3:0 "Accepted Corruption"
+  NNC_corruption3_desc:0 ""
+
+  NNC_angry_blackguards:0 "Angry Blackguards"
+  NNC_angry_blackguards_desc:0 ""
+
+  NNC_angry_chivalrics:0 "Angry Chivalrics"
+  NNC_angry_chivalrics_desc:0 ""
+
+  NNC_angry_crusaders:0 "Angry Crusaders"
+  NNC_angry_crusaders_desc:0 ""
+
+  nnc_chivalric_code_idea:0 "Chivalric Code"
+  nnc_chivalric_code_idea_desc:0 "Our knights need to be more than the common rabble of the wasteland. They are knights, not raiders."
+
+  NNC_hearts_and_minds:0 "Hearts and Minds"
+  NNC_hearts_and_minds_desc:0 "You can not win the wasteland if you can not win their hearts."
+
+  NNC_chivalric_virtues_idea:0 "Chivalric Virtues"
+  NNC_chivalric_virtues_idea_desc:0 "One must honour the chivalric virtues if they are to be a true knight."
+
+  NNC_peoples_stewards:0 "The People's Stewards"
+  NNC_peoples_stewards_desc:0 "Although we serve the people, there is no doubt that we know what is best for them."
+
+  NNC_freedom_of_association:0 "Freedom of Association"
+  NNC_freedom_of_association_desc:0 "If the people do not have the freedom to be wrong, do they have any freedoms at all?"
+
+  NNC_blessed_militia:0 "Blessed Militia"
+  NNC_blessed_militia_desc:0 "Our soldiers fight with fire in their hearts and soul."
+
+  NNC_faithful_knights:0 "Faithful Knights"
+  NNC_faithful_knights_desc:0 "Our soldiers fight with skill and wrathful vengeance."
+
+  NNC_constance_queendom:0 "Constance's Queendom"
+  NNC_constance_queendom_desc:0 "There is no country more righteous or pure than Constance's Realm. This is a queendom of holy fury, and the world will now who we are."

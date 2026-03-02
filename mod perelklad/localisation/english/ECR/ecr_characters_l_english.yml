@@ -1,0 +1,118 @@
+﻿l_english:
+  AMM_Abraham_name:0 "Abraham"
+  AMM_Abraham_desc:0 "Brother Abraham is the defacto leader of the Valley of Amman. Arriving with a group of Supermutant refugees from The City, his high intelligence and charismatic nature (for a Supermutant) led him to be trusted and liked by his brothers in Christ. Now, the community looks to him in these trying times."
+
+  APP_Theseus_name:0 "Theseus Lance"
+  APP_Theseus_desc:0 "The title of Theseus, the leader of Apocryphia, has been passed down for generations since Theseus the Great chose David the Pious as his successor after his death. Theseus Lance was chosen for his valor during the Swamp War, and stands in defense of the Great Wheel and the God of the Seas. But he is ailed by radiation poisoning, and his refusal to choose a successor and his refusal to accept his sickness may spell trouble for the Guardians of Apocrypia..."
+
+  LOR_LORENTZ_NAME:0 "Lorentz"
+  LOR_LORENTZ_DESC:0 "As a child, Lorentz and his family were forced under the heel of a local raider group. These raiders would eventually be ousted by newcomers in power armor who then set their sights on Lorentz's family. In the chaos Lorentz was chased into a ruined junkyard where a raider in power armor cornered him, only saved by a buried scrap magnet that ripped the armor off its user's frame. Although his family was now dead, Lorentz finally had the opportunity to rise within the wasteland hierarchy. Years of testing and refining would pay off when Lorentz and his growing band of 'scientists' were attacked by lone Paladins on their way to the Capital. These Paladins entered the carefully booby-trapped junkyard and have their power armor suits reduced to rubble by the high-powered magnetic traps. With the power of magnetism proved to the local communities Lorentz now has the base to begin more extravagant and long-range testing. Perhaps one day he can end the reign of power armor over the people of the Wasteland."
+  LOR_FARADAY_NAME:0 "Dr. Faraday"
+  LOR_FARADAY_DESC:0 "Originally drawn to Lorentz due to his exploration of the sciences, Dr. Faraday has become increasingly concerned for his research partner, Lorentz's descent into madness is starkly contrasted with Dr. Faraday's growing compassion for the people forced to conform with living in the Wasteland. Farady hopes that through advancement they can begin to bring civilization to the land and abandon the centuries of destruction that has followed in the wake of nuclear war."
+
+  COC_radiant_kate_name:0 "The Radiant Kate of Cobalt"
+  coc_radiant_kate_desc:0 "§C"Our way is that of Fission and Fusion. Our way is the only hope humanity has of a true rebirth."§!\n\nThe Radiant Kate of Cobalt is the second of the Radiants, the leaders of the Cult. Kate walks in the footsteps of her predecessor, the Radiant Tarren of Cobalt, and wishes only for peace and seclusion for her people. Atom knows that life is hard enough in West Virginia without raiders, power armoured maniacs, and other outside invaders."
+  coc_unit_leader_name:0 "Sister Vaughn"
+
+  OUT_Casdin_name:0 "Protector Henry Casdin"
+  OUT_Casdin_desc:0 "Henry Casdin was once one of Elder Lyons' closest followers and fiercest soldiers. As Lyons strayed further and further from the ideals that Casdin believed in, Casdin began to organise followers who felt the same way. Paladins sick of fighting super mutants to protect the contemptuous wastelanders, and scribes tired of the lack of technology the Brotherhood recovered. Casdin and his followers left the Brotherhood, seizing Fort Independence and dedicating themselves to the Brotherhood's original mission."
+
+  OUT_McGraw_name:0 "Protector McGraw"
+
+  OUT_Zhu_name:0 "Defender Zhu"
+
+  ONN_LEONE_NAME:0 "Guide Leone"
+  ONN_LEONE_DESC:0 "Leone's family isn't native to West Virginia, having migrated here some 200 years ago with the initial waves of Union refugees. Maybe that's what saved him from falling to addiction. Whatever it is, he now finds himself sheparding a herd with barely any ability to see the real world. The burnt countryside is far from as dangerous to him as it was to his ancestors, still Leone lays awake in fear for his people."
+
+  MON_HEAD_RANGER_NAME:0 "Head Ranger"
+  MON_RANGER_DESC:0 "The Head Ranger was without purpose, wandering the wastes complacent to the whims of destiny. Until he happened into the depths of Appalachia. The timeless hills have a way of messing with a person, men fall into the care of the range and in turn they find themselves caring for the hills. With time one learns the faces of those who safeguard their sanctuary. The Head Ranger can't tell you when he decided to settle in the Appalachians, or when he started to follow the orders of the self titled Rangers, or when he became the one giving orders. He is barely a speck on the history of the hills but he knows the hills remember every being that surrenders itself to them."
+
+  ANV_jack_smith_name:0 "Jack Smith"
+  ANV_jack_smith_desc:0 "Patriarch of Andale, Jack Smith urges all his citizens to vote Republican in every election, like the good Americans they are. Under his family values focused leadership Andale has time and again proven itself the best town Virginia has to offer.... if you are fine with eating people."
+
+  ANV_bill_wilson_name:0 "Bill Wilson"
+
+  ANV_militia_name:0 "Robert Woodbury"
+  ANV_assjerky_jones_NAME:0 "Ass Jerky Jones"
+  ANV_andale_trader_NAME:0 "Judith Hughey"
+  ANV_littlehorn_minister_NAME:0 "Littlehorn"
+
+  ANV_obadiah_name:0 "Obadiah Blackhall"
+  ANV_obadiah_desc:0 "Obadiah is the last living member of The Blackhall family. Once a family of great wealth as well as great infamy in The Point Lookout region, their last heir seeks to restore the family's former standing. Though he is old and feeble, there is a great strength in his voice, and many in Andale have accepted that he can lead them to a future of unforseen power."
+  ANV_obadiah_desc_2:0 "§CWe have been to the dark heart of Dunwich. We have taken our place in the depths of The Deep Temple. With The Great Feast completed, Ug-Qualtoth is returned. Be afraid, worms."
+
+  KWF_CHRISTIAN_NAME:0 "Line Cook Christian"
+  KWF_CHRISTIAN_DESC:0 "Christian was among those born on the floating purgatory of the Atlantic. He has been a crucial decision maker during the initial landing, allowing for complete control of the coast. Now he and his people must learn how to strive for a world they have been cut off from for 200 years. The Known Folk had developed a complex oral history of how and why they were imprisoned on the former Atlantic fleet and now they need to prepare their children to fight for their place on land. Even if that land is barely more than a radioactive swamp. "
+
+  afb_security_computer_name:0 "Security Control Mainframe"
+  afb_security_computer_desc:0 "ATTENTION! ATTENTION! THIS IS A UNITED STATES SECURE FACILITY. ATTEMPTS AT UNAUTHORIZED ACCESS WILL BE MET WITH DEADLY FORCE"
+
+  afb_security_bot_186_name:0 "Security Bot 186"
+
+  TRN_trog_alpha_name:0 "Alpha Trog"
+  trn_trog_alpha_desc:0 "Though never seen up close, distant observers have noted that some Trogs exhibit wolf pack-like behaviors, following a single alpha who is typically a larger and stronger trog than the rest. This Alpha Trog can be seen receiving tribute from lesser trogs as well as pushing weaker trogs into certain directions. It is unknown if this means trogs have any form of higher reasoning, or if they are simply the animals most think them to be."
+
+  TRN_big_trog_name:0 "A Big Trog"
+
+  HAB_maverick_becker_name:0 "Maverick Becker"
+  HAB_maverick_becker_desc:0 "Maverick Becker has accomplished something few raider bosses since the Great War have done, grow old and stay in power. He has done this not by being the most frightening or strong of his gang, but by using his wit and charms to work out many beneficial deals for the raider gang. They enjoy a steady supply of food and the occasional woman from Johnstown as well as a good supply of caps and ammo from The Pitt. While not all of Maverick's men are smart enough to see this, his top lieutenants know this comfy lifestyle likely won't be around long if he were to disappear."
+
+  HAB_craig_boyd_name:0 "Craig Boyd"
+
+  HAB_finlay_cook_name:0 "Finlay Cook"
+
+  JON_duncan_bauer_name:0 "Duncan Bauer"
+  JON_duncan_bauer_desc:0 "Just over 20 years ago, Duncan Bauer assumed the title of Mayor of Johnstown. Typically this job meant settling small disputes in the community and negotiating trade deals during harvest. Unfortunately for Duncan, this time saw both the rise of Ashur's army to the West and The Harrisburg bandits to the East. Caught between two threats with no help around, Mayor Bauer had to make some tough choices. While few resent him for the choices he has made to keep the community alive, even fewer sing his praises. The only reason he has not been voted out of office, is because nobody else wants to have to make the calls he has to make."
+
+  JON_jenson_moss_name:0 "Jenson Moss"
+
+  DOT_governor_holland_name:0 "Governor Holland"
+  DOT_governor_holand_desc:0 "Governor Holand has been a driving force behind the Dover Traders' aggressive mercantile strategies over the last few years. Any trader in the basin that does not play ball with Dover quickly finds their ships blocked out of rivers, met with competing traders selling goods at a loss, or sometimes hit by river pirates. Though The Dover Traders Union has no official connection with seaborne bandits, they offer 'protection' to traders that submit to the Dover Traders Charter and agree to give 20% of their profit to the coffers."
+
+  DOT_eric_anderson_name:0 "Eric Anderson"
+
+  DOT_cap_santiana_name:0 "Captain Santiana"
+  
+  BFI_captain_atkinson_name:0 "Captain Atkinson"
+  BFI_captain_atkinson_desc:0 "Captain Atkinson was born on a ship and insists that is where he will meet his end. The salty seaman is highly respected by those that follow him as a true man of the sea that is far from afraid to get his hands wrist deep in some fish guts or burned by an unfastened rope. Though he has led his people through mostly peaceful times this past decade, there are murmurs of naval warfare on the horrizon, as The Dover Traders start to look north."
+
+  BFI_cody_gill_name:0 "Cody Gill"
+
+  GEL_dutchman_name:0 "Dutchman"
+  GEL_leader_desc:0 "Dutchman is quiet, like the rest of the Amish of Gelassenheit. No one outside of Gelassenheit knows who really lead them, or if they have a leader at all, but Dutchman seems to represent his people, when needed. Unfortunately, when asked whether he is the leader or merely a representative, he is silent. Always silent."
+
+  BKR_ashley_name:0 "Ashley Pera"
+  bkr_ashley_pera_desc:0 "Ashley Pera grew up somewhere in the frozen north, further than even those in Ronto dare to travel. Her family fled from some monster that she only half remembers, a vision of claws, teeth, flailing limbs and amorphous mass in the mind of a child. She was the only one of her family to survive. Once she made it south, she stopped and brought the disparate lake travelling people on the south-eastern edge of Lake Erie together. \n\nNow she leads her new country as the Ice Queen, prioritising the advancement of her people, and hoping whatever chased her in the north never returns."
+
+  WDW_archer_phillips_name:0 "Archer Phillips"
+  WDW_archer_phillips_DESC:0 "Archer Phillips is the latest in a long line of Wreckerlords in Windsor. Like those before him, he gained the respect of the gang after pulling off a successful raid across the bridge into Detroit. He gives the same promises of the last 200 years, that their ghoulish foes across the bridge will perish, but he realizes something those before him did not. If they are to defeat this foe, they may need to first seize the strength of their neighbors to the east."
+
+  WDW_terence_fuller_name:0 "Terence Fuller"
+
+  DCM_Shepard_name:0 "Shepard"
+
+  DCM_OverlordRake_name:0 "Overlord Rake"
+
+  DCM_Atlas_name:0 "Atlas"
+
+  DCM_Clancy_name:0 "Clancy"
+
+  DCM_Collossus_name:0 "Collossus"
+
+  DCC_gustavo_name:0 "Colonial Chief Gustavo"
+  DCC_gustavo_desc:0 "Once the chief of security at Tenpenny Tower, Colonial Chief Gustavo is now in charge of The Appalachian Colony. He rules with an iron fist, ensuring that the excessive taxes imposed by Tenpenny are collected, and those that resist are made an example of."
+
+  ONT_major_hurley:0 "Major Hurley"
+  ONT_major_hurley_desc:0 "Major Rick Hurley was the highest ranking officer of The Ontario Enclave to make it back to their bunker during the retreat in 2245. For 30 years the major has done everything he can to hold the survivors of the mutant uprising together. Through the initial aftermath, mourning the fallen, and countless vital system failures, Major Hurley has kept his people from losing hope that one day they would reclaim the surface. Despite his promises of a glorious triumph, he has always secretly hoped he would not be the one to lead the return. As he knows first hand just how unforgiving the outside world is."
+
+  HSY_mattithiah_name:0 "Mattithiah Hochstelter"
+  HSY_mattithiah_desc:0 "If there is anything Mattithiah Hochstelter it is the value of hard work and the importance of family. With these principles he oversees the continued success of his people. Traders flock to Hershey for quality goods and the rare wasteland luxury of chocolate. The success of Hershey has attracted unwanted attention too, and while the walls of Hershey Park have held for years, cracks are showing."
+
+  HSY_zedekiah_name:0 "Zedekiah Raber"
+
+  USF_gary_chalmers_name:0 "Gary Chalmers"
+  USF_gary_chalmers_desc:0 "Born in Utica, Supervisor Chalmers spent much of his youth traveling up and down the 90 as a caravan guard. After a few too many close calls, the aging guard decided to try his hand in politics. Promising safety from the raider gangs to the south, mutants to the west, and whatever was going on in the east, Chalmers became very popular. He's been Supervisor of the Fedration's council of cities for three terms now. So long as he keeps his people safe, he should be able to secure a fourth."
+  USF_cotton_toule_name:0 "Cotton Toule"
+
+  OSH_jason_kane_name:0 "Jaon Kane"
+  OSH_jason_kane_desc:0 "The current shipmaster of Hope Port, Jason Kane is a veteran captain of Great Lakes tradeships. Having sailed from the far reaches of Lake Superior all the way down to Lake Ontario, he knows the dangers of the Gales of November and how important it is to respect the waters. However, a less literal storm is brewing he will have to guide his people through. Powers are rising in Ronto to the West, and the irradiated ruins of Ottawa to the East." 

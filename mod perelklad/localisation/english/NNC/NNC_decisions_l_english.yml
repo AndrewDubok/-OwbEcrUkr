@@ -1,0 +1,39 @@
+﻿l_english:
+
+    NNC_peasant_attitude:0 "Peasant Attitude"
+    NNC_revolting_peasants:0 "Revolting Peasants"
+    NNC_calm_peasants:0 "Calm Peasants"
+    NNC_grumbling_peasantry:0 "Grumbling Peasants"
+    NNC_utter_chaos:0 "§RUtter Chaos§!"
+        nnc_very_bad_no_good_tt:0 "§RAllowing things to get this bad could destroy us...§!"
+    NNC_widespread_riots:0 "Widespread Peasant Rioting"
+    NNC_peasant_riots:0 "Peasant Riots"
+    NNC_unhappy_peasants:0 "Unhappy Peasants"
+        nnc_unhappy_peasants_tt:0 "§gWhen are they not unhappy, though?§!"
+    NNC_content_peasants:0 "Content Peasants"
+    NNC_peaceful_peasants:0 "Peaceful Peasants"
+    nnc_disgruntled_peasants:0 "Peasants growing restless"
+    NNC_brutal_repression:0 "Brutal Repression"
+    NNC_token_concessions:0 "Token Concessions"
+    NNC_shift_blame:0 "Shift Blame"
+    NNC_bribe_agitators:0 "Bribe Agitators"
+
+
+    NNC_knights_of_the_roundtable_category:0 "The Knights of the Roundtable"
+    NNC_lancaster_retires:0 "Lancaster's Imminent Retirement"
+    nnc_takeover_tt:0 "For a faction to take over, they need at least §Y15%§! popularity.\n\nIf none of them are strong enough §Othere will be consequences§!."
+
+    NNC_unending_war:0 "Unending War"
+
+    NNC_rally_to_the_king:0 "Rally to the King"
+    NNC_rally_to_the_people:0 "Rally to the People"
+    NNC_rally_to_the_nobles:0 "Rally to the Nobles"
+    NNC_rally_to_the_cause:0 "Rally to the Cause"
+
+
+    NNC_blackguard_caps_category:0 "Illicit Expenses"
+    NNC_hire_dogs_of_war:0 "Hire Dogs of War"
+    NNC_hire_pitt_smashers:0 "Hire Pitt Smashers"
+    NNC_hire_castle_breakers:0 "Hire Castle Breakers"
+    NNC_bribe_obstacles:0 "Bribe Political Obstacles"
+    NNC_bribe_enemy_officers:0 "Bribe Enemy Officers"

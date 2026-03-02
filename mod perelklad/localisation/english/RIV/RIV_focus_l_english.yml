@@ -1,0 +1,465 @@
+﻿l_english:
+ riv_giant_of_the_drydock:0 "The Giant of the Drydock"
+ riv_giant_of_the_drydock_desc:0 "Even before the war, Rivet City was a marvel of science and engineering. Through the decades it slowly decayed, but the internal equipment remained safe and secure."
+
+ riv_rivet_city_council:0 "Rivet City Council"
+ riv_rivet_city_council_desc:0 "When the first scientists and civilians began to shelter within Rivet City, a small society began to spring up. This society needed leadership, so the Rivet City Council was formed."
+
+ riv_pinkertons_exile:0 "Pinkerton's Exile"
+ riv_pinkertons_exile_desc:0 "Things went well in the new settlement of Rivet City. However, the arrival of a team of scientists obsessed with purifying water arrived and disrupted operations. Pinkerton, former science representative, left due to the shakeup."
+
+ riv_project_purity:0 "Project Purity"
+ riv_project_purity_desc:0 "Throughout Rivet City's history, no science project has been so ambitious as Li's plan for Project Purity. Purifying all the water of the Capital Wasteland is an incredibly ambitious goal but one worth pursuing. Unfortunately, for the moment, Rivet City simply does not have the expertise to pursue Project Purity. But that could change soon..."
+
+ riv_strengthen_the_council:0 "Strengthen the Council"
+ riv_strengthen_the_council_desc:0 "For decades the Rivet City Council has provided effective governance, and if we hold tight to our current course that is sure to continue."
+
+ riv_weapons_contribution_program:0 "Weapons Contribution Program"
+ riv_weapons_contribution_program_desc:0 "Our security forces have proven adequate for a while, but as factions like the Brotherhood and Enclave gain traction the limited force we've got simply won't cut it. Any expansion to our security force will need a significant investment in firepower and manpower. By starting a program to receive weapons from the community, things will be much faster."
+
+ riv_force_to_be_reckoned_with:0 "A Force to be Reckoned With"
+ riv_force_to_be_reckoned_with_desc:0 "Any improvement to our military is going to require a signiificant expansion in the number of soldiers we have available. We'll need to quickly expand what we have and train who we can."
+
+ riv_keep_an_elite_force:0 "Keep the Force Elite"
+ riv_keep_an_elite_force_desc:0 "Our security forces are limited in number, and that means that we can more easily ensure that every officer is the perfect officer. We must keep it this way."
+
+ riv_security_expansion:0 "Security Expansion"
+ riv_security_expansion_desc:0 "The small size of our security force simply will not do. We need more bodies, even if they're not as skilled or effective in their duties."
+
+ riv_security_proposal_one:0 "Security Representative's Proposal"
+ riv_security_proposal_one_desc:0 "While many would think their job is nothing more than breaking up bar fights and watching the bridge, the security represantitives job is anything but that. Dangerous creatures making their way through the sunken parts of the ship as well as matters of arming the security force fall in with many other parts of the job."
+
+ riv_training_and_equipment:0 "Training and Equipment"
+ riv_training_and_equipment_desc:0 "We should improve our training program and equipment courses to make sure that our officers are the best in the wasteland."
+
+ riv_modernise_equipment:0 "Modernise Equipment"
+ riv_modernise_equipment_desc:0 "We need to ensure that the equipment we give our soldiers is the best we can make, as these officers represent us not only as a military, but as the face of our Council in the Wasteland."
+
+ riv_effective_support:0 "Effective Support"
+ riv_effective_support_desc:0 "Our officers are wonderful at fighting on their own, but by training dedicated support divisions we can ensure that they can fight better, more efficiently, and for longer. We just need to invest in support."
+
+ riv_armoury_overhaul:0 "Armoury Overhaul"
+ riv_armoury_overhaul_desc:0 "Trading for the tools our security force needs to defend us is simply unsustainable. If the horrors of The Wasteland ever come knocking at our door, we will need an in-house source of weapons."
+
+ riv_security_proposal_two:0 "Security Representative's Proposal"
+ riv_security_proposal_two_desc:0 "There is friction between the citizens of the hangar decks and the rest of the ship. If we avoid taking action, tensions could boil over."
+
+ riv_send_detachments_outside:0 "Send Detachments Outside"
+ riv_send_detachments_outside_desc:0 "While our security forces have acted primarily in a defensive capacity up until now, the Wasteland is changing and we need to change with it. We need to begin sending our officers out into the waste, to secure the Wasteland before it becomes a threat to the city."
+
+ riv_super_mutant_suppression:0 "Super Mutant Suppression"
+ riv_super_mutant_suppression_desc:0 "Super Mutants are one of the largest threats that the Wasteland faces. Their depredations threaten not only us, but every settlement from here to Raven Rock. They're hard to kill, but we can learn quickly."
+
+ riv_beat_off_raiders:0 "Beat Off Raiders"
+ riv_beat_off_raiders_desc:0 "Raiders are the cockroaches of the Wasteland. No matter how many you stamp out, there are more hiding behind that pillar over there. Fortunately, most are cowards and will flee from a proper fight. Let's give it to them."
+
+ riv_repair_deck_fencing:0 "Repair Deck Fencing"
+ riv_repair_deck_fencing_desc:0 "It goes without saying that the poorly maintained, decayed and rusted fencing keeping people from falling off the ship is a safety hazard. Repairing it where possible (and replacing it where not) is a start, but there's plenty in Rivet City to fix, not just the fences."
+
+ riv_trading_opportunities:0 "Trading Opportunities"
+ riv_trading_opportunities_desc:0 "While sending out caravans into the Wasteland directionless does make us money, developing proper trading relationships with specific locations is sure to profit us in the long term. After all, the more they like us, the better the deals we'll get."
+
+ riv_nuclear_trade:0 "Nuclear Trade"
+ riv_nuclear_trade_desc:0 "Megaton is an obvious candidate for a trade destination. It's a thriving town with stores and civilisation, not to mention it's already a trading destination. Sure, it's built around an undetonated nuclear bomb, but that surely won't cause any problems."
+
+ riv_leaving_the_little_town:0 "Those Leaving the Little Town"
+ riv_leaving_the_little_town_desc:0 "Big Town is a town of people too old to live in Little Lamplight anymore. We understand they've been having plenty of difficulties getting settled in properly, and could make for the perfect place to get migrants from, as well as trade."
+
+ riv_deal_with_the_dead:0 "Deal With the Dead"
+ riv_deal_with_the_dead_desc:0 "Underworld is a city of ghouls, living in the remains of a museum. The settlement is poorly regarded by most in the area, who shun ghouls from their appearance and, sometimes, even fire at them on sight. They'll be glad to have peaceful trading partners."
+
+ riv_root_of_trade:0 "The Root of Trade"
+ riv_root_of_trade_desc:0 "We're not the only settlement in DC that sends merchant caravans out into the ruins for profit. Canterbury Commons is a small town with an outsized influence on the area given their caravan networks, which almost manage to compete with ours! Developing a relationship with them is sure to be profitable."
+
+ riv_trading_for_pennies:0 "Trading for Pennies"
+ riv_trading_for_pennies_desc:0 "Alistair Tenpenny is many things, and some may dislike him (with good reason!). However, one of those things he is, is rich. He also has connections with the elite across DC, including within Rivet City. Although some may find our association with him distasteful, it's profitable"
+
+ riv_the_point_of_it_all:0 "The Point of it All"
+ riv_the_point_of_it_all_desc:0 "Point Lookout is hardly a trading destination at all - most of the local population are savages who don't know what a cap is. However, the area is known for some rather rare ingredients and items, so trading with the civilised people that are there is sure to be beneficial to us."
+
+ riv_stretched_morals:0 "Stretched Morals"
+ riv_stretched_morals_desc:0 "Raiders are an unsavoury sort. They steal, loot, pillage and slave and live off the misery of others, including our own caravans. But by shutting them out of our trade network, we could be missing an opportunity. A lucrative opportunity."
+
+ riv_no_tolerance_for_raiders:0 "No Tolerance for Raiders"
+ riv_no_tolerance_for_raiders_desc:0 "Raiders should not be tolerated. Any attempts to trade with them will only make us appear weak in their eyes, our best option is simply to shoot on sight. It may seem cruel, but they'd do the same."
+
+ riv_civilian_proposal_two:0 "Civilian Representative's Proposal"
+ riv_civilian_proposal_two_desc:0 "Rivet City is the chief source of fresh, unirradiated food in The Capital Wasteland. That puts us in the position to dictate the prices, after all, people need to eat."
+
+ riv_beyond_the_capital:0 "Beyond the Capital"
+ riv_beyond_the_capital_desc:0 "Limiting ourselves to trade only within the ruins of DC would be foolish. To become a proper trading power we need to extend our caravans as far as we can go. But nearby is a good place to start."
+
+ riv_develop_rivet_city:0 "Develop Rivet City"
+ riv_develop_rivet_city_desc:0 "Rivet City is a wonderful city, but it can always be made more wonderful. To ensure our safety and prosperity, we should continue to develop the City and ensure everything is shiny and (like) new."
+
+ riv_church_of_saint_monica:0 "Church of Saint Monica"
+ riv_church_of_saint_monica_desc:0 "An important and lasting institution of Rivet City is the Church of Saint Monica, which tends to our spiritual needs. While Father Clifford does an admirable job of maintaining it himself, focusing on making it as beautiful as possible would surely please him and Saint Monica."
+
+ riv_capital_preservation_society:0 "The Capitol Preservation Society"
+ riv_capital_preservation_society_desc:0 "The Capitol Preservation Society was started by Abraham Washington as an effort to preserve the memory of the wondrous society that existed before the Great War. While his enthusiasm perhaps outpaces his knowledge, it is an important reminder of where we come from."
+
+ riv_marketplace_refurbishment:0 "Marketplace Refurbishment"
+ riv_marketplace_refurbishment_desc:0 "The marketplace is functional, but not perfect. There's junk everywhere, corroding walls and a weird smell. With only a little effort, we could clean it up, build sturdier stalls, and attract more customers than ever before."
+
+ riv_clean_up_the_hangar_deck:0 "Clean Up the Hangar Deck"
+ riv_clean_up_the_hangar_deck_desc:0 "The poorest and worst off in our society find themselves relegated to the hangar deck, where they suffer from subpar conditions and corroding metal. By cleaning up the decks and helping with the worst of the problems, we can begin to make things better for them."
+
+ riv_lab_modernisation:0 "Lab Modernisation"
+ riv_lab_modernisation_desc:0 "While our laboratories were once state-of-the-art, a long time has passed since then. They are still far more advanced than practically anything else in the wasteland, but they're going to need effort to keep up-to-date. Relatively speaking."
+
+ riv_advanced_hydroponics:0 "Advanced Hydroponics"
+ riv_advanced_hydroponics_desc:0 "One of the most important fields of research, and commercial industries, in Rivet City is its hydroponics system. With it we can grow fresh food for trading and consumption. By expanding our hydroponics, we can make sure there's food enough to go around."
+
+ riv_civilian_proposal_one:0 "Civilian Representative's Proposal"
+ riv_civilian_proposal_one_desc:0 "The Civilian Representative represents just about anyone that isnt in the security force or science team. This broad responsibility leaves them having to make tough choices all the time. Questions of taxes vs trade growth or where to allocate the ships few engineers are always on their mind."
+
+ riv_expand_caravan_companies:0 "Expand Caravan Companies"
+ riv_expand_caravan_companies_desc:0 "Our caravan companies ultimately form the backbone of our economy. By providing some subsidies and incentives, we can allow them to grow into even more prosperous sources of income."
+
+ riv_look_outside_rivet_city:0 "Look Outside Rivet City"
+ riv_look_outside_rivet_city_desc:0 "We can't simply limit ourselves to what is inside the carrier itself, we need to expand the industry across our entire territory. After all, citizens of the city itself aren't the only ones who need jobs."
+
+ riv_reduce_import_reliance:0 "Reduce Import Reliance"
+ riv_reduce_import_reliance_desc:0 "By prospecting and developing the territory around Rivet City we can make sure that our prosperous caravan companies bring in as much money as possible, while spending as little on other imports as we can."
+
+ riv_broad_market_investments:0 "Broad Market Investments"
+ riv_broad_market_investments_desc:0 "Rivet Citys market has been among the largest in The Capital Wasteland. With the proper investments, it could be the largest in Post-War America!"
+
+ riv_increase_science_funding:0 "Increase Science Funding"
+ riv_increase_science_funding_desc:0 "Science is one of the most important features of Rivet City, our scientists are the most advanced in the wasteland - well, the Brotherhood and Enclave may have power armour, but we've got the most advanced civilian technology!"
+
+ riv_wildlife_study:0 "Wildlife Study"
+ riv_wildlife_study_desc:0 "By watching the mutant "wildlife" we can learn how life has adapted to this wasteland. It's not secret that they're better adapted for the environment than us... mostly humans."
+
+ riv_mirelurk_study:0 "Mirelurk Study"
+ riv_mirelurk_study_desc:0 "Mirelurks are everywhere when you live on the coast. Naturally, this makes them very easy to observe from Rivet City. Not only can they teach us about moving around the water, their shells also make for some decent makeshift armour."
+
+ riv_super_mutant_observation:0 "Super Mutant Observation"
+ riv_super_mutant_observation_desc:0 "Super Mutants are endemic to the Capital Wasteland. They're big, dangerous, but fortunately very dumb. If we simply take the time to watch how they operate, we should be able to figure out better tactics to take them down."
+
+ riv_wildlife_defence_systems:0 "Wildlife Defence Systems"
+ riv_wildlife_defence_systems_desc:0 "Even in a city with a powerful defensive position like ours, we have to deal with frequent attacks from local mutants, monsters, and mirelurks. Turrets and better defensive positions will make it easier for our soldiers to deal with these threats."
+
+ riv_science_proposal_two:0 "Science Representative's Proposal"
+ riv_science_proposal_two_desc:0 "Even though they mainly focus on research, the Science Representative often has to weigh in on other matters. The safety of the city is of importance to everyone, and sometimes that means making choices that negatively impact the science department."
+
+ riv_water_purification_tests:0 "Water Purification Tests"
+ riv_water_purification_tests_desc:0 "Li still wonders at the possibilities that Project Purity allows... Surely it's not too much to take some simple tests to develop some water purification technology?"
+
+ riv_fusion_power_theory:0 "Fusion Power Theory"
+ riv_fusion_power_theory_desc:0 "Power is always a precious commodity in the wasteland. Developing efficient nuclear power plants will require even more power, so we'd best get started on that."
+
+ riv_sophisticated_hydroponics:0 "Sophisticated Hydroponics"
+ riv_sophisticated_hydroponics_desc:0 "We are perhaps the only nation in the Capital Wasteland with any decent level of sophisticated agriculture. Let's strengthen our already significant advantage."
+
+ riv_advanced_industrial_applications:0 "Advanced Industrial Applications"
+ riv_advanced_industrial_applications_desc:0 "It's a simple matter to use what we've learned to advance ourselves even further. We'll be the envy of the entire East Coast."
+
+ riv_increase_food_production:0 "Increase Food Production"
+ riv_increase_food_production_desc:0 "Our food is the cleanest and healthiest of the Capital wasteland and earns us great wealth. When our scientists develop our farming facilities even further, we make more money."
+
+ riv_inspect_planes:0 "Inspect Planes"
+ riv_inspect_planes_desc:0 "Rivet City, being built out of an aircraft carrier, has plenty of planes on it. These planes are old, rusted, and most of them are worthless. Most of them. We may be able to combine the parts to reconstruct a handful, and learn a bit about how they were made."
+
+ riv_finish_project_purity:0 "Finish Project Purity"
+ riv_finish_project_purity_desc:0 "I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.\n\nLi's dream is almost complete! If we can finish Project Purity, we will become the undisputed masters of DC."
+
+ riv_fight_the_red_lung:0 "Fight the Red Lung"
+ riv_fight_the_red_lung_desc:0 "The Red Lung is a scourge on the citizens of Rivet City. Rust and dust have ravaged the lungs of the citizens. It'll take a concerted effort to end the threat of the Red Lung once and for all."
+
+ riv_develop_a_vaccine:0 "Develop a Vaccine"
+ riv_develop_a_vaccine_desc:0 "A vaccine is the best long term solution to fight the Red Lung and save our citizens from its ravages. It'll take plenty of effort and divert our attention from other fields of research, but it's the best step we can take."
+
+ riv_clear_out_the_rust:0 "Clear out the Rust"
+ riv_clear_out_the_rust_desc:0 "It'll take a lot of effort, but clearing out and replacing all the rusty metal we can find in Rivet City will greatly reduce the health effects of the Red Lung."
+
+ riv_happy_and_healthy:0 "Happy and Healthy"
+ riv_happy_and_healthy_desc:0 "We've done it! We've managed to fight off the Red Lung and develop a vaccine. By fully rolling it out and making a last effort to fight the rust in the city, we'll finally beat the scourge once and for all."
+
+ riv_science_proposal_one:0 "Science Representative's Proposal"
+ riv_science_proposal_one_desc:0 "The Science Representative has many things on their mind at any one time. What scientists get let into the department? What do we do about the rising costs of radaway? Who are these Railroad people we keep hearing about?"
+
+ riv_expanding_the_science_team:0 "Expanding the Science Team"
+ riv_expanding_the_science_team_desc:0 "Rivet City was first and foremost a research facility for The Capital Wasteland's top wastelander scientists. For our city to prosper through trying times, we must always remember our roots and prioritize scientific advancement!"
+
+ riv_war_on_the_horizon:0 "War on the Horizon"
+ riv_war_on_the_horizon_desc:0 "Things are heating up in DC. With the seizure of Project Purity from us it has become clear that the two largest powers in the Capital Wasteland, the Enclave and the Brotherhood of Steel, are preparing for an all-out war. Whoever wins will likely shape the wasteland, so we should make sure that it's those who are most favourable to us: the Brotherhood."
+
+ riv_support_the_brotherhood:0 "Support the Brotherhood"
+ riv_support_the_brotherhood_desc:0 "The Council has decided that we should prepare to support the Brotherhood in the coming confrontation. While we need to be cautious about committing our actual soldiers to the effort, we can begin by leveraging one of our greatest strengths to the Brotherhood: our economy."
+
+ riv_the_war_at_home:0 "The War at Home"
+ riv_the_war_at_home_desc:0 "We are unprepared for a war on the scale of the Enclave-Brotherhood war, and we need to ensure that, should the worst happen and our country is invaded, we can field enough soldiers to at the very least hold them off. Nothing some good old propaganda can't solve."
+
+ riv_prepare_for_the_enclave:0 "Prepare for the Enclave"
+ riv_prepare_for_the_enclave_desc:0 "Both the Enclave and the Brotherhood are known for their distinctive power armour, a real challenge for our soldiers to crack open. By working on anti-tank equipment and ensuring we are properly prepared, we will be able to crack open those tin cans and get at the soldiers inside."
+
+ riv_in_any_way_we_can:0 "In Any Way We Can"
+ riv_in_any_way_we_can_desc:0 "There's no point putting it off any longer: the Brotherhood needs our help. It is time for us to send volunteers to fight for the Brotherhood - while committing to the war fully could endanger the city, we can make sure that the Brotherhood's odds are that much better."
+
+ riv_stay_out_of_it:0 "Stay Out of it"
+ riv_stay_out_of_it_desc:0 "The war is too risky. We can't afford to sacrifice the lives of Rivet City citizens. If the Brotherhood wins, then we're good. If the Brotherhood loses, we'll need every soldier we can get and it would have been a waste anyway. Rivet City will remain neutral."
+
+ riv_double_down_on_research:0 "Double Down on Research"
+ riv_double_down_on_research_desc:0 "This war is distracting both the Enclave and the Brotherhood, who claim to be the technological giants. But while they scrap, we can make sure that we're the ones that have the most advanced technology."
+
+ riv_security_for_trade_routes:0 "Security for Trade Routes"
+ riv_security_for_trade_routes_desc:0 "Have you heard? There's a war on. Our trade routes are endangered and caravans at high risk of being waylaid or worse. Our security force, rather than being thrown into some pointless war, can be used where it really matters."
+
+ riv_take_in_refugees:0 "Take in Refugees"
+ riv_take_in_refugees_desc:0 "Rather understandably, many people aren't very happy with war in the Wasteland, and are fleeing from the battlezones to safer locations. For many, that is Rivet City."
+
+ riv_enclave_victory:0 "Enclave Victory at Project Purity"
+ riv_enclave_victory_desc:0 "Disaster! The Enclave has beaten the Brotherhood, and now DC lies at their fingertips. Now we, and the few other bastions against their oppression, must make ready as we can before the inevitable comes."
+
+ riv_panicked_preparations:0 "Panicked Preparations"
+ riv_panicked_preparations_desc:0 "The easiest way to prepare against the potential of an Enclave invasion is to build fortifications. Lots of them. All across our border."
+
+ riv_secure_water_source:0 "Secure an Independent Water Source"
+ riv_secure_water_source_desc:0 "With the disastrous victory of the Enclave, our supplies are cut off. With their control of Project Purity, the greatest hope for clean water becomes a tool for destruction. We need to purify what we can ourselves."
+
+ riv_seek_friends:0 "Seek Friends"
+ riv_seek_friends_desc:0 "We are not the only other faction surviving in DC. DC is filled with more than just the Enclave and the Brotherhood. Now we must consider turning to these other nations for help, even raiders."
+
+ riv_emergency_conscription:0 "Emergency Conscription"
+ riv_emergency_conscription_desc:0 "Every soldier we can get to fight the Enclave is necessary. We can afford nothing less than their destruction."
+
+ riv_isolate_trade_network:0 "Isolate Trade Network"
+ riv_isolate_trade_network_desc:0 "Although ending trade is dangerous, we can't afford to send out the patrols and soldiers needed to make sure their journeys are safe. For now, trade must end."
+
+ riv_outside_the_capital:0 "Outside the Capital"
+ riv_outside_the_capital_desc:0 "We can't afford to be picky about our allies at this time. Anyone who can help us is an asset that we need to use, even those far away from home. We must look outside DC for help."
+
+ riv_to_deal_with_the_enclave:0 "To Deal With the Enclave..."
+ riv_to_deal_with_the_enclave_desc:0 "The Enclave have shown themselves to be a great power in The Capital Wasteland. If we are to survive, we may need to learn to live with them."
+
+ riv_preemptive_strike:0 "Pre-emptive Strike"
+ riv_preemptive_strike_desc:0 "Although deeply risky, the longer we take the longer the Enclave has to strengthen their tenuous hold over DC. If we are to strike, we must strike as soon as possible."
+
+ riv_sit_tight:0 "Sit Tight"
+ riv_sit_tight_desc:0 "Attacking the Enclave first will only sacrifice our defensive advantage. We must hole up where we are. Soon they will be able to strike, and their power armoured soldiers will break on our defences like waves on a cliff."
+
+ riv_the_west_has_fallen:0 "The Enclave has Fallen"
+ riv_the_west_has_fallen_desc:0 "The Enclave has fallen. Billions must die."
+
+ riv_open_up:0 "Open Up"
+ riv_open_up_desc:0 "Now that the Enclave has been dealt with, we can afford to trade once more. In fact, we can hardly afford not to."
+
+ riv_all_well_in_dc:0 "All's Well in DC"
+ riv_all_well_in_dc_desc:0 "Peace has returned to DC. We are safe from the Enclave, and now we can begin to prosper again."
+
+ riv_never_again:0 "Never Again"
+ riv_never_again_desc:0 "We can not afford to allow a repeat of this. We must ensure that no other nation can exert its power over DC again. We must tend this garden."
+
+ riv_come_to_an_agreement:0 "Come to an Agreement"
+ riv_come_to_an_agreement_desc:0 "Augustus Autumn is in charge of the Enclave, and while an authoritarian power hungry dictator, he doesn't seek our extermination. Let's hope that cooler heads prevail."
+
+ riv_enclave_research:0 "Enclave Research"
+ riv_enclave_research_desc:0 "The Enclave has rather... loose morals when it comes to research methodology. We'd never do the same thing... but maybe we could take some inspiration?"
+
+ riv_old_world_tech:0 "Old World Tech"
+ riv_old_world_tech_desc:0 "One thing that the Enclave is fantastic for is keeping detailed and abundant pre-war documents. An obsession with the old world will do that. We can trawl through these documents and use them for our research."
+
+ riv_future_of_war:0 "The Future of Warfare"
+ riv_future_of_war_desc:0 "Power Armour, although incredibly advanced and obviously rather desirable, is something that we've struggled to develop without having pre-war suits to examine. But now, we have plenty."
+
+ riv_the_old_world_born_anew:0 "The Old World Born Anew"
+ riv_the_old_world_born_anew_desc:0 "The Old World has returned to DC. The American government (or a more tyrannical version) has restored the Capital Wasteland, and we are its brightest beacon of science and technology. The future looks bright (except for the mutants)."
+
+ riv_brotherhood_victory:0 "Brotherhood Victory at Project Purity"
+ riv_brotherhood_victory_desc:0 "The Brotherhood has won the battle between them and the Enclave! This is obviously the vastly more desirable option... the question is, what do we do now?"
+
+ riv_seek_an_accomodation:0 "Seek an Accomodation"
+ riv_seek_an_accomodation_desc:0 "The Brotherhood seem like reasonable fellows. With any luck, they'll be open to expanding ties with them and we'll be able to work together for a prosperous Capital Wasteland. The wars have lasted long enough."
+
+ riv_the_fleet_of_dc:0 "The Fleet of DC"
+ riv_the_fleet_of_dc_desc:0 "Now that we've aligned ourselves with the Brotherhood, we no longer have to worry too much about war. At least, on the land. We should switch our focus to preparing ourselves for war on the sea. The Brotherhood can't be everywhere."
+
+ riv_he_who_is_athirst:0 "Give Unto Him That is Athirst"
+ riv_he_who_is_athirst_desc:0 "Now that Project Purity is complete and the Capital Wasteland has water once more, there is a new problem. Logistics. While the amount of clean water produced is tremendous it is also not easily accessible to most settlements. Our trading caravans can begin bringing water to the disparate settlements, drawing the trading network closer together."
+
+ riv_brotherhood_material_acquisition:0 "Brotherhood Material Acquisition"
+ riv_brotherhood_material_acquisition_desc:0 "With our new powerful allies, it is a simple matter to ask for more resources. After all, we remain the scientific hub of the Capital Wasteland, and with their continued funding we will all reap the rewards."
+
+ riv_brotherhood_conscription:0 "Brotherhood Conscription"
+ riv_brotherhood_conscription_desc:0 "Working with the Brotherhood is not all benefits. The Brotherhood constantly requires fresh soldiers, and have requested volunteers. A small price to pay for our continued security."
+
+ riv_begin_power_armour_production:0 "Begin Power Armour Production"
+ riv_begin_power_armour_production_desc:0 "Power Armour. The mainstay of the Brotherhood forces, and once the most important element of the Enclave's too. It is a powerful and intimidating weapon, and one that has eluded our grasp. The Brotherhood, however, is now willing to help us out."
+
+ riv_brotherhood_integration:0 "Brotherhood Integration"
+ riv_brotherhood_integration_desc:0 "With the power of the East Coast shifting, it is clear we now need to truly integrate into the Brotherhood organisation. Only through mutual benefit can we progress. Ad Victoriam!"
+
+ riv_equal_partner:0 "Equal Partner"
+ riv_equal_partner_desc:0 "The Brotherhood as an organisation is somewhat mysterious and enigmatic - and it should remain so. Our best protection will always be our own independence, and we can't afford to lose it."
+
+ riv_withdraw_and_isolate:0 "Withdraw and Isolate"
+ riv_withdraw_and_isolate_desc:0 "The Brotherhood may have been the lesser evil between them and the Enclave... but they're still an evil. Cooperation with them could mean an unacceptable loss of our sovereignty. We must forge our own path, and only then will we have true safety without compromise."
+
+ riv_secure_trade_routes:0 "Secure Trade Routes"
+ riv_secure_trade_routes_desc:0 "Our trade routes remain unsafe, despite the defeat of the Enclave. Raiders, ghouls and supermutants still roam the wastes, not to mention those Enclave soldiers which remain camped out in the wastes. It is time to make sure our trade routes are safe. Fully."
+
+ riv_stamp_out_enclave_remnants:0 "Stamp Out Enclave Remnants"
+ riv_stamp_out_enclave_remnants_desc:0 "The Enclave remnants are still out there in the wastes, now little more than glorified, supremacist raiders. With some effort, we can stamp them out for good."
+
+ riv_independent_water_source:0 "Independent Water Source"
+ riv_independent_water_source_desc:0 "With Project Purity being held by the Brotherhood, we can longer rely on that as a source for water. We need to source our own water, then we can prosper without relying on them."
+
+ riv_develop_trade_interests:0 "Develop Trade Interests"
+ riv_develop_trade_interests_desc:0 "Even though we may be isolating ourselves politically, we are still a trade city and need to continue trading. With a little investment, we can ensure that trade can continue uncompromised."
+
+ riv_preventative_medicine:0 "Preventative Medicine"
+ riv_preventative_medicine_desc:0 "While unlikely, the Brotherhood may decide that they demand our unification with their growing nation, whether we like it or not. Building forts along the border of our controlled territory may not ensure they don't try, but it might deter them at least for a while."
+
+ riv_take_to_the_seas:0 "Take to the Seas"
+ riv_take_to_the_seas_desc:0 "With the surrounding land area controlled by the Brotherhood and their allies, the best way for us to ensure safety of our trade routes is to start looking to the sea instead. We are in an old aircraft carrier, after all."
+
+ riv_military_independence:0 "Military Independence"
+ riv_military_independence_desc:0 "With the Brotherhood on our border, we need to make sure our armed forces are up to scratch. By expanding our experience with different methods of fighting, we can figure out how best to prepare."
+
+ riv_civilian_commitment:0 "Civilian Commitments"
+ riv_civilian_commitment_desc:0 "We can't simply prepare for a war endlessly, our civilian sector must be looked after too."
+
+ riv_dc_free_city:0 "DC's Free City"
+ riv_dc_free_city_desc:0 "Even if the Brotherhood takes the rest of DC, we will remain as a free city of the Wasteland. A true beacon of trade and science, and a bastion of safety."
+
+ riv_end_oppression_in_dc_forever:0 "End Oppression in DC Forever"
+ riv_end_oppression_in_dc_forever_desc:0 "We can't let the Brotherhood simply take the rest of DC. While they are better than the Enclave would have been, their rigid militarism and authoritarian trappings mean that the Capital Wasteland will not truly prosper. We need to end the Brotherhood, for the good of the wasteland."
+
+ riv_rivet_city_victory:0 "The Fruits of Project Purity"
+ riv_rivet_city_victory_desc:0 "We have managed to drive outside forces from Project Purity and assert our claim over the facility. With this purifier under our control, the opportunities are limitless"
+
+ riv_propose_alliance_to_brotherhood:0 "Propose an Alliance to the Brotherhood"
+ riv_propose_alliance_to_brotherhood_desc:0 "While Project Purity is under our control, we are not (yet?) a military power. We can't afford to fight the rest of the wasteland on our own. The Brotherhood of Steel is at least somewhat aligned with our views, especially on the Enclave, and by working together we can make sure DC prospers."
+
+ riv_prepare_to_deal_with_the_enclave:0 "Prepare to Deal with the Enclave"
+ riv_prepare_to_deal_with_the_enclave_desc:0 "The Enclave has a rather distinguishing feature, their advanced power armour. Power armour is difficult to deal with for the average soldier, but enough anti-materiel rifles and it's just another hunk of metal. That just means we need to produce as many as possible."
+
+ riv_expand_security_force:0 "Expand the Security Force"
+ riv_expand_security_force_desc:0 "While not ideal, we're going to need to bring more citizens into the security force, which means limited conscription. People may grumble about it, but it is necessary to ensure our protection."
+
+ riv_stockpile_equipment:0 "Stockpile Equipment"
+ riv_stockpile_equipment_desc:0 "Any war with the larger factions in DC is going to require lots of equipment - equipment that we don't have enough of. We need to collect as many weapons as we can as fast as we can."
+
+ riv_military_exercises:0 "Military Exercises"
+ riv_military_exercises_desc:0 "Our Security Force is poorly trained and prepared for combat on a large scale, instead focused on simply protecting our city from raiders, feral ghouls, super mutants, mirelurks, and anything else that threatens it. We'll need a significant doctrinal shift to prepare for an all-out war."
+
+ riv_save_the_wasteland:0 "Save the Wasteland"
+ riv_save_the_wasteland_desc:0 "There is a time when you have to stop preparing and start acting - we can not delay the inevitable forever. The Enclave must burn, and DC must be free."
+
+ riv_trade_water:0 "The Water of Life"
+ riv_trade_water_desc:0 "With the completion of Project Purity, we have become the indisputable master of not only fresh fruit, but clean water in DC. We can use this to tie settlements closer to us, until we all prosper together. A glorious age for DC begins."
+
+ riv_caravans_to_arefu:0 "Caravans to Arefu"
+ riv_caravans_to_arefu_desc:0 "Arefu is a small settlement, previously overlooked by our traders. It's true they don't have much worth trading, but as a (relatively) important nearby settlement we should begin bringing them water too."
+
+ riv_only_civilised_place:0 "The Only Civilized Place"
+ riv_only_civilised_place_desc:0 "The Republic of Dave is a rather odd and small settlement, hence our prior lack of trade relations with them. They've passed through a series of authoritarian governments, the current iteration led by a man named Dave. Even megalomaniacs need clean water, though."
+
+ riv_display_generosity:0 "Display Generosity"
+ riv_display_generosity_desc:0 "We've got more than enough to share. Spreading the love will improve our relationships that much more."
+
+ riv_strike_a_deal:0 "Strike a Deal"
+ riv_strike_a_deal_desc:0 "Further to the east lie the beginnings of a great trade empire - an empire which must know they'll be cut short if things go badly in DC. We should establish a mutually beneficial relationship with these nations, with our protection and their money we can all prosper."
+
+ riv_dc_problems_dc_solutions:0 "DC Problems, DC Solutions"
+ riv_dc_problems_dc_solutions_desc:0 "We should not involve parties outside DC in our conflicts. While we need support, we are much better off seeking it from the mercenaries already in DC. Just a few caps will bring them onto our side."
+
+ riv_caps_everywhere:0 "Caps Everywhere!"
+ riv_caps_everywhere_desc:0 "With trade flowing freely and the caps rolling in, we've raked in a substantial windfall. Three cheers for free trade!"
+
+ riv_safety_in_dc:0 "Safety in DC"
+ riv_safety_in_dc_desc:0 "With the Enclave defeated, DC is finally safe... and we rule the roost."
+
+ riv_no_gods_no_masters:0 "No Gods No Masters"
+ riv_no_gods_no_masters_desc:0 "No more will the dangerous and militaristic powers of the Enclave and the Brotherhood of Steel threaten the security and prosperity of the Capital Wasteland. A new power has risen, a power dedicated to the principles of knowledge and trade: Rivet City."
+
+ riv_no_raiders_in_dc:0 "No Raiders in DC"
+ riv_no_raiders_in_dc_desc:0 "DC has been a playground for raiders, slavers, and other such vermin for far too long. It will not be easy, but removing all such violent thugs from the Capital Wasteland will bring about greater prosperity for all."
+
+ riv_consolidate_territory:0 "Consolidate Territory"
+ riv_consolidate_territory_desc:0 "Evergreen Mills used to be the primary location for the raiders in DC to strike out of. Now that the raiders have been eliminated, all that remains is a bit of a shanty town. By enforcing our own laws and including the settlement within our profitable trade network, they'll see the light soon enough."
+
+ riv_end_cannibalism:0 "End Cannibalism"
+ riv_end_cannibalism_desc:0 "While the town of Andale seems a pleasant enough place to visit, dark rumours about their twisted nature have come to us. Bloodied survivors and disillusioned citizens come to us telling us of perhaps the greatest horror of DC: cannibalism."
+
+ riv_secure_trade_from_raiders:0 "Secure Trade from Raiders"
+ riv_secure_trade_from_raiders_desc:0 "Despite the destruction of the largest raider camps, a few scattered bands still roam the Capital Wasteland. Wiping them all out would take decades of searching every building, subway, and bunker, but we need to start somewhere."
+
+ riv_brotherhood_wannabes:0 "Brotherhood Wannabes"
+ riv_brotherhood_wannabes_desc:0 "The Brotherhood Outcasts are a vicious lot. Cast out from the already militaristic Brotherhood, they represent those who are most viciously anti-wastelander. They want nothing but to withdraw inwards and shoot anyone that comes close. We'll shoot them first."
+
+ riv_secure_the_settlements:0 "Secure the Settlements"
+ riv_secure_the_settlements_desc:0 "By expanding our trade network and bringing water and prosperity across the wastes, we can quickly ingratiate ourselves to our new citizens. Soon they'll forget they were ever independent of Rivet City!"
+
+ riv_new_talent:0 "New Talent"
+ riv_new_talent_desc:0 "There are plenty of talented and intelligent people across the wastes, even those not properly integrated into Rivet City. Some of them now see our burgeoning country as a beacon of hope, and we are happy to have them."
+
+ riv_mercenaries_no_more:0 "Mercenaries No More"
+ riv_mercenaries_no_more_desc:0 "The Talon Company are a vicious band of mercenaries who seek to make a profit, even through the most unscrupulous means. While they have been useful to us in the past, we can never feel safe as long as they remain as an active entity."
+
+ riv_regulate_the_wasteland:0 "Regulate the Wasteland"
+ riv_regulate_the_wasteland_desc:0 "With the destruction of the savage and brutal Talon Company, the group known as the Regulators has come forward. Previously dedicating themselves to the protection of settlements and civilisation, they can see how the winds are blowing and have offered to help us protect ourselves."
+
+ riv_control_secured:0 "Control Secured"
+ riv_control_secured_desc:0 "Finally, control over DC is firmly and properly ours. No more will the violent people of the Capital Wasteland threaten our city."
+
+ riv_capitol_centre_of_trade:0 "The Capitol, Centre of Trade"
+ riv_capitol_centre_of_trade_desc:0 "Trade now can flow freely throughout the Capital Wasteland without the threat of the Enclave or Brotherhood tariffs."
+
+ riv_find_origins_of_super_mutants:0 "Find the Origins of the Super Mutants"
+ riv_find_origins_of_super_mutants_desc:0 "Despite the defeat of the two strongest military powers in the Capital Wasteland, the super mutants remain a dangerous threat and are audacious enough to even attack Rivet City itself. We must figure out where they are coming from."
+
+ riv_talk_to_little_lamplight:0 "Talk to Little Lamplight"
+ riv_talk_to_little_lamplight_desc:0 "It seems that the super mutants are coming from somewhere near the settlement of Little Lamplight. A curious settlement, Little Lamplight is entirely inhabited by children. One must wonder where they come from."
+
+ riv_all_gone:0 "All Gone"
+ riv_all_gone_desc:0 "The Super Mutants are soon to be removed from DC. Little Lamplight have pointed us in the direction of Vault 87, and all it'll take is a small invasion to uproot them. Farewell, super mutants."
+
+ riv_capitalise_trade_connections:0 "Capitalise on Trade Connections"
+ riv_capitalise_trade_connections_desc:0 "Our trade connections in DC bring us immense wealth. By simply investing some of the excess wealth, we can ensure that we'll have everything we'll ever need."
+
+ riv_float_the_cap_currency:0 "Float the Cap Currency"
+ riv_float_the_cap_currency_desc:0 "Caps as a currency originally were backed by water supplies, absolutely essential in the Capital Wasteland. With the amount of water now entering the market however, caps are set to plummet in value dangerously. By floating the currency, we can establish caps as being backed by our own goodwill and influence."
+
+ riv_stabilise_inflation:0 "Stabilise Inflation"
+ riv_stabilise_inflation_desc:0 "To keep things simple it's easiest to keep caps backed by water. However, we need to take some pretty extreme measures to make sure it doesn't suffer from severe inflation."
+
+ riv_infrastructure_development:0 "Infrastructure Development"
+ riv_infrastructure_development_desc:0 "We have been so focused on keeping our home afloat that expansion is often neglected. That ends now, the council will hire laborers to dislodge some rusted bulkheads and erect some walls beyond the ship."
+
+ riv_dc_prospers:0 "DC Prospers"
+ riv_dc_prospers_desc:0 "Rivet City rests as a shining beacon to all in The Capital Wasteland of what we can achieve with the right leadership. Our residents enjoy unparalleled safety and prosperity that many beyond our borders could only dream of!"
+
+ riv_more_than_a_security_force:0 "More Than A Security Force"
+ riv_more_than_a_security_force_desc:0 "Now that Rivet City is a dominant power in the Capital Wasteland, we need to overhaul our armed forces. Having a security force was perfectly adequate when we were merely a city with no aspirations of expansion, but something far more significant is needed now."
+
+ riv_appoint_officers:0 "Appoint New Officers"
+ riv_appoint_officers_desc:0 "With a new army comes a new doctrine, and the need for new officers. Previously soldiers were trained for keeping the peace and defending the city and caravans from the occasional attack, but now we need new officeres able to lead men in an attack."
+
+ riv_develop_military_techniques:0 "Develop New Military Techniques"
+ riv_develop_military_techniques_desc:0 "Most militaries in the Wasteland aren't just guys with guns. Medical care, logistics support, and anti-materiel equipment are necessary for an army hoping to fight an array of foes, and we need to begin preparing ours."
+
+ riv_military_ideas:0 "Military Ideas"
+ riv_military_ideas_desc:0 "Our new military is well on the way to being a proper wasteland army, but the tactics that we used to defend our city won't apply the same to larger scale conflicts. We need to reevaluate and redevelop new ways of fighting."
+
+ riv_scientific_applications_for_war:0 "Scientific Applications for War"
+ riv_scientific_applications_for_war_desc:0 "We are, first and foremost, a scientific and economic hub with a military, not a military hub with an economy. By focusing our scientists on developing new weapons and equipment for our soldiers, our army can outshine those of most other wasteland nations."
+
+ riv_better_than_men:0 "Better Than Men"
+ riv_better_than_men_desc:0 "There are more possibilities for warfare than just guys with guns..."
+
+ riv_rivets_rule_the_waves:0 "Rivets Rule the Waves"
+ riv_rivets_rule_the_waves_desc:0 "Being built out of a former aircraft carrier, naturally we should have a strong navy."
+
+ riv_the_open_sky_awaits:0 "The Open Sky Awaits"
+ riv_the_open_sky_awaits_desc:0 "On the other hand, aircraft carriers do carry aircraft on them. That's a natural direction as well."
+
+ riv_caravans_run_on_time:0 "The Caravans Run on Time"
+ riv_caravans_run_on_time_desc:0 "As everyone knows, the most frequent and likely delays for trading caravans in the Capital Wasteland are raiders, feral ghouls, super mutants, and other nasty and aggressive attackers. Our military will protect them however, and THE CARAVANS WILL RUN ON TIME."
+
+ riv_rivet_city_military:0 "Rivet City Military"
+ riv_rivet_city_military_desc:0 "For years our security force has been closer to a small army than a contingent of guards. With the dangers of the wasteland growing ever greater, it is time to toss aside pretence and treat our security force like the military they are."
+
+ riv_scientific_utopia:0 "Scientific Utopia"
+ riv_scientific_utopia_desc:0 "Rivet City is the most powerful and advanced nation in the Capital Wasteland. With our guidance, the wasteland can enter into a new age of progress and prosperity, where trade and research walk hand-in-hand. Our future begins."

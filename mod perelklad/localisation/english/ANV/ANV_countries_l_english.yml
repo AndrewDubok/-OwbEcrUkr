@@ -1,0 +1,45 @@
+﻿l_english:
+
+ANV_RAI_ruler:0 "Блекхолл"
+ANV_RAI_ruler_DEF:0 "Блекхолл"
+ANV_RAI_ruler_ADJ:0 "Блекхолл"
+ANV_RAI_intellectuals:0 "Блекхолл"
+ANV_RAI_intellectuals_DEF:0 "Блекхолл"
+ANV_RAI_intellectuals_ADJ:0 "Блекхолл"
+ANV_RAI_elites:0 "Блекхолл"
+ANV_RAI_elites_DEF:0 "Блекхолл"
+ANV_RAI_elites_ADJ:0 "Блекхолл"
+ANV_RAI_people:0 "Блекхолл"
+ANV_RAI_people_DEF:0 "Блекхолл"
+ANV_RAI_people_ADJ:0 "Блекхолл"
+
+ANV_DIS_ruler:0 "Округ Колумбія"
+ANV_DIS_ruler_DEF:0 "Округ Колумбія"
+ANV_DIS_ruler_ADJ:0 "Округ Колумбія"
+ANV_DIS_intellectuals:0 "Округ Колумбія"
+ANV_DIS_intellectuals_DEF:0 "Округ Колумбія"
+ANV_DIS_intellectuals_ADJ:0 "Округ Колумбія"
+ANV_DIS_elites:0 "Округ Колумбія"
+ANV_DIS_elites_DEF:0 "Округ Колумбія"
+ANV_DIS_elites_ADJ:0 "Округ Колумбія"
+ANV_DIS_people:0 "Округ Колумбія"
+ANV_DIS_people_DEF:0 "Округ Колумбія"
+ANV_DIS_people_ADJ:0 "Округ Колумбія"
+
+ANV_CUL_ruler:0 "Вірні Уґ-Квалтота"
+ANV_CUL_ruler_DEF:0 "Вірні Уґ-Квалтота"
+ANV_CUL_ruler_ADJ:0 "Вірні Уґ-Квалтота"
+ANV_CUL_intellectuals:0 "Вірні Уґ-Квалтота"
+ANV_CUL_intellectuals_DEF:0 "Вірні Уґ-Квалтота"
+ANV_CUL_intellectuals_ADJ:0 "Вірні Уґ-Квалтота"
+ANV_CUL_elites:0 "Вірні Уґ-Квалтота"
+ANV_CUL_elites_DEF:0 "Вірні Уґ-Квалтота"
+
+
+ANV_CUL_elites_ADJ:0 "Вірні Уґ-Квалтота"
+ANV_CUL_people:0 "Вірні Уґ-Квалтота"
+ANV_CUL_people_DEF:0 "Вірні Уґ-Квалтота"
+ANV_CUL_people_ADJ:0 "Вірні Уґ-Квалтота"
+
+###Factions###
+ANV_blackhall_brotherhood_faction:0 "Вірні Уґ-Квалтота"

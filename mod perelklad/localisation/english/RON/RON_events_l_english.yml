@@ -1,0 +1,54 @@
+﻿l_english: 
+  nf_ron.1.t:0 "200 Years of Resistance!"
+  nf_ron.1.d:0 "Ontario was always a hotbed for Canadian resistance after the US occupation, and despite the best efforts of the American government the streets remained unsafe for their soldiers - except in force. Toronto was infested with rebels, using metro tunnels and secret routes to smuggle goods and coordinate attacks in wider Ontario. Even the arrival of the power armour of the US Army wasn't enough to deter these activities.\n\nOn October 12th 2277, less than two weeks before the Great War, the greatest attack yet was staged. Rebel forces attacked the headquarters of the US occupation forces itself, and using a diversion several insurgents made their way deeper into the facility.\n\nWhile a couple of saboteurs installed a virus into the mainframe of the ZAX running the occupation, the rest of the party stole what they could before they had to run for their lives. In the rush, they managed to steal..."
+  nf_ron.1.a:0 "Databanks containing technical data"
+  nf_ron.1.b:0 "A stockpile of advanced weapons"
+  nf_ron.1.c:0 "Supplies, to keep the fight going"
+
+  nf_ron.2.t:0 "Our War Never Ended"
+  nf_ron.2.d:0 "Although the US ended on October 23, 2277, the oppression did not. As the survivors picked themselves up from the wreckage and sought to build anew, the American threat appeared once more - calling themselves the Enclave. Quickly destroying organised resistance to their rule, our freedom fighters had to once again go underground - ghoul resistance veterans bringing back pre-war guerilla tactics.\n\nUnfortunately for the Enclave, they made a crucial mistake. 30 years ago, they activated the ZAX that had been infected with a virus before the war. W.A.S.H.I.N.G.T.O.N..\n\nW.A.S.H.I.N.G.T.O.N. rallied the resistance forces and activated robots used in the occupation, driving the Enclave occupiers from Ronto forevermore. In the cold the Ontario Enclave perished, and not even a single bunker survived. At least, that's what we assume.\n\nUnfortunately, the battle wasn't without casualties. W.A.S.H.I.N.G.T.O.N. had to make snap choices about who to save, and they couldn't all be saved."
+  nf_ron.2.a:0 "He saved his robots"
+  nf_ron.2.b:0 "He saved his people"
+
+  nf_ron.3.t:0 "Rebellion of the Hosers"
+  nf_ron.3.d:0 "Having been relatively peaceable and friendly (well, for the wasteland) for a long time, the Hosers suddenly decided to up and leave. Something to do with us cheating. It's hockey! What do you expect?\n\nRegardless, they weren't very friendly in their leaving and caused plenty of chaos. Unfortunately, their destructive tendencies left us rushing to defend what we could. We had to focus on:"
+  nf_ron.3.a:0 "Stopping them from leaving"
+  nf_ron.3.b:0 "Saving our property"
+
+  nf_ron.4.t:0 "Rally the Hockey Teams"
+  nf_ron.4.d:0 "It's generally known among the population that W.A.S.H.I.N.G.T.O.N. finds Ronto's obsession with hockey strange and frustrating. Probably wasn't coded with such concepts as "levity" or "joyous violence" in mind. Regardless, even W.A.S.H.I.N.G.T.O.N. can admit that it's a damn good way to get people riled up.\n\nW.A.S.H.I.N.G.T.O.N. finally issued a proclamation announcing that hockey would become a new focus of Ronto, and funds would be diverted to improve access to facilities, equipment, and talent. It's a bloody exciting time to be a hockey player in Ronto!"
+  nf_ron.4.a:0 "I'm signing up for a team!"
+
+  nf_ron.5.t:0 "The Ronto Tea Party"
+  nf_ron.5.d:0 "For whatever reason known only to him, W.A.S.H.I.N.G.T.O.N. has demanded that, with the rise of our own breweries, we perform an elaborate ceremony where we throw foreign beer into the lake. It's got some support among brewery owners, but we're not really sure why W.A.S.H.I.N.G.T.O.N. has suggested this of all things.\n\nIt's not really like he'd know if we kept the booze for ourselves, and some of the boys have suggested we keep it and just lie to him. Still, W.A.S.H.I.N.G.T.O.N. seems excited about this - and he's not often excited about anything. What should we do?"
+  nf_ron.5.a:0 "We're not throwing away perfectly good beer"
+  nf_ron.5.b:0 "THROW IT OVERBOARD!"
+
+  nf_ron.6.t:0 "America is Back, Again"
+  nf_ron.6.d:0 "Somehow, the Enclave returned. While they'd been pushed out of the city and harassed into fleeing into the frozen wilderness decades ago, clearly a handful survived despite our best efforts. Clearly we should've been more thorough.\n\nDespite that, their soldiers are few and their power armour, while formidable, is patched and damaged. It should be a simple matter to rout them once and for all, and finish what we started 30 years ago."
+  nf_ron.6.a:0 "American patriots march to their doom"
+
+  nf_ron.7.t:0 "...Mr Roboto"
+  nf_ron.7.d:0 "Ronto is now secure in Ontario, the vile Enclave utterly defeated and the Hosers returned to the fold. Now, W.A.S.H.I.N.G.T.O.N. has to deal with a battle within his mind.\n\nEven with the best efforts, centuries of wear has left W.A.S.H.I.N.G.T.O.N. with deteriorating circuits and databanks. Fortunately the equipment of the Enclave is enough to at least keep him going, but sacrifices will need to be made.\n\nW.A.S.H.I.N.G.T.O.N. is torn between three separate aspects of his personality, stored on separate deteriorating databanks with only the supplies to preserve one of them. Which will he choose?"
+  nf_ron.7.a:0 "His silver tongue and diplomatic prowess"
+  nf_ron.7.b:0 "His will of iron and pragmatic ruthlessness"
+  nf_ron.7.c:0 "The love he feels for his people"
+    ron_unfinished_tt:0 "§RThis is the end of Ronto's story for now, but expect more in future updates!§!"
+
+
+
+
+
+
+
+
+
+  ron_hockey.1.t:0 "The Ronto Hockey League"
+  ron_hockey.1.d:0 "Word from the frozen north, the city-state of Ronto is apparently starting a hockey league and inviting people from across the wasteland to watch or even participate. While we don't have time for this foolishness, citizens have been eagerly travelling to watch and tuning in to radio commentation on the games. Many are already picking their favourite teams, and a veritable hockeymania has begun within our borders.\n\nIt'll blow over soon, but it's sure got everyone excited."
+  ron_hockey.1.a:0 "News from Ronto is so rare these days"
+
+  ron_hockey.2.t:0 "Meeting the Goalkeeper"
+  ron_hockey.2.d:0 "It turns out we're not the only ones in the wasteland with an interest in hockey. Unfortunately, the enthusiast we met is a violent raider.\n\nGoalie Ledoux leads a violent gang of raiders in a sport he calls hockey, but isn't anything like our refined and intelligent sport. Even so, he's willing to get involved with our sport, and join us properly.\n\nOnly problem is, a lot of people aren't very happy with the thought of a raider joining us, even one so enthusiastic about hockey as Goalie."
+  ron_hockey.2.a:0 "Bring him aboard!"
+    ron_goalie_ledoux_tt:0 "§Y$RON_goalie_ledoux_name$§! becomes a Unit Leader.\n§LLevel§!: §Y2§!\n§RAttack Skill§!: §Y3§!\n§GDefense Skill§!: §Y1§!\n§PPlanning Skill§!: §Y1§!\n§MLogistics Skill§!: §Y2§!\n§gTraits§!: §tAgile§!, §tStrong§!\n\n§Y$RON_goalie_ledoux_name$§! also becomes available as a high command advisor, and brings a §YSudden Death Overtime§! division."
+  ron_hockey.2.b:0 "Let's just shoot him"

@@ -1,0 +1,170 @@
+﻿l_english: 
+  RON_two_hundred_years_of_resistance:0 "Two Hundred Years of Resistance"
+  RON_two_hundred_years_of_resistance_desc:0 "Ontarian patriots have been fighting for their freedom for centuries. We always knew we'd come out on top."
+
+  RON_post_war_stooges:0 "Post-War Stooges"
+  RON_post_war_stooges_desc:0 "After the collapse of everything we knew, an enemy we did know appeared to continue our oppression."
+
+  RON_hate_the_player:0 "Hate the player"
+  RON_hate_the_player_desc:0 "While we managed to beat the Ontario Enclave, things haven't been clear sailing since. Some take hockey rivalries too far..."
+
+  RON_washington_bullets:0 "Washington Bullets"
+  RON_washington_bullets_desc:0 "W.A.S.H.I.N.G.T.O.N. still retains some pre-war databanks, especially around maintaining and protecting military installations. This knowledge will help us greatly when it comes to revamping these facilities."
+
+  RON_bring_in_substitutes:0 "Bring in Substitutes"
+  RON_bring_in_substitutes_desc:0 "The substitutes usually sit on the sidelines, but we need every body we can get."
+
+  RON_glorious_and_free:0 "Glorious and Free"
+  RON_glorious_and_free_desc:0 "Our proud Canadian republic accepts no master. We will fight for our right to freedom!"
+
+  RON_revolutionary_munitions:0 "Revolutionary Munitions"
+  RON_revolutionary_munitions_desc:0 "Old pre-war resistance caches were often targets for government raids, when they could find them. The confiscated weapons have been stored in an unknown location, but with a bit of effort W.A.S.H.I.N.G.T.O.N. can find them."
+
+  RON_blood_money_men:0 "Blood Money Men"
+  RON_blood_money_men_desc:0 "Guns and caps are enough for some in the wasteland. While they may be distasteful, they sure know how to kill. W.A.S.H.I.N.G.T.O.N. can scrounge up the caps."
+    ron_blood_money_tt:0 "Spawn §G1§! §YSpec Ops§! division"
+
+  RON_stand_on_guard_for_thee:0 "Stand on Guard for Thee"
+  RON_stand_on_guard_for_thee_desc:0 "Some may call it propaganda, but by inspiring our people with speeches, flags, and pamphlets we can maintain a revolutionary fervour for all time. W.A.S.H.I.N.G.T.O.N. knows exactly how to achieve this."
+
+  RON_red_white_and_blue_blooded_canadians:0 "Red White and Blue Blooded Canadians"
+  RON_red_white_and_blue_blooded_canadians_desc:0 "O Canada! Our home and native land! True patriot love in all of us command. With glowing hearts we see thee rise, The True North strong and free!"
+
+  RON_rally_the_hockey_teams:0 "Rally the Hockey Teams"
+  RON_rally_the_hockey_teams_desc:0 "The hockey teams are also the strongest groups of militants within our society. By formalising the teams and placing them into our command structure, hockey teams can help defend our fine country."
+
+  RON_oldtown_oafs_team:0 "The Oldtown Oafs"
+  RON_oldtown_oafs_team_desc:0 "The Oldtown Oafs operate out of the Oldtown area of Ronto. They may not be the sharpest tools in the shed, but they wear heavy gear and are formidable opponents."
+    ron_oldtown_oafs_tt:0 "This will spawn a division of the §7Oldtown Oafs§!, tough enforcers and one of the strongest defensive lineups."
+
+  RON_north_ronto_nightkin:0 "The North Ronto Nightkin"
+  RON_north_ronto_nightkin_desc:0 "Unsurprisingly hailing out of North Ronto, the North Ronto Nightkin is only a little deceptive of a name. A team of ghouls, some of them even remember hockey before the war. Most of them say hockey's even more fun now."
+    ron_nightkin_tt:0 "This will spawn a division of the §1North Ronto Nightkin§!, grizzled ghouls and the most experienced players in Ronto."
+
+  RON_crescent_cazadores:0 "Crescent Cazadores"
+  RON_crescent_cazadores_desc:0 "The Crescent Cazadores call the Ronto Crescent their home, and just like their namesakes are fast and sting hard. They're nasty fuckers to get on the wrong side of, and they'll hit you before you see them coming."
+    ron_cazadores_tt:0 "This will spawn a division of the §1North Ronto Nightkin§!, dangerous skaters and faster than anyone else on the field."
+
+  RON_encourage_hockey_games:0 "Encourage Hockey Teams"
+  RON_encourage_hockey_games_desc:0 "While the teams largely maintain themselves, by providing state funding for the sport we can allow the teams to expand and secure new equipment, further benefiting us too."
+
+  RON_rebuild_official_stadium:0 "Rebuild the Official Stadium"
+  RON_rebuild_official_stadium_desc:0 "We've played in rubble and ruins long enough, it's time to get things set up properly."
+
+  RON_scout_for_new_talent:0 "Scout for New Talent"
+  RON_scout_for_new_talent_desc:0 "Even if they don't play hockey, there are plenty of people in the wasteland who are very good at hitting things and running."
+
+  RON_referee_authority:0 "Establish a Referee Authority"
+  RON_referee_authority_desc:0 "As violent and dangerous as hockey games can be, training proper referees will make games easier to run."
+    ron_hockey_games_stab_buff_tt:0 "The §YHold a Game of Hockey§! decision will provide an extra §Y1%§! stability.\n\n"
+    ron_unlock_dan_tt:0 "§Y$RON_dan_mccaw_name$§! becomes a Unit Leader.\n§LLevel§!: §Y3§!\n§RAttack Skill§!: §Y3§!\n§GDefense Skill§!: §Y1§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y3§!\n§gTraits§!: §tAgile§!, §tIntelligent§!, §tReckless§!\n\n"
+
+  RON_drum_up_enthusiasm:0 "Drum Up Enthusiasm"
+  RON_drum_up_enthusiasm_desc:0 "We should send letters inviting other like-minded people to participate in our hockey games! Even if they don't want to play, we can gather spectators from across the Wasteland."
+    ron_hockey_games_war_support_buff_tt:0 "The §YHold a Game of Hockey§! decision will provide an extra §Y1%§! war support.\n\n"
+
+  RON_american_transfers:0 "American Transfers"
+  RON_american_transfers_desc:0 "As excellent as our homegrown players are, there are only so many. By scouting out talent from the American wasteland in the south we can expand our teams significantly."
+
+  RON_canadian_recruitment:0 "Canadian Recruitment"
+  RON_canadian_recruitment_desc:0 "There are plenty of future hockey players in Canada, even if they don't know it yet."
+
+  RON_codify_rules:0 "Codify the Rules"
+  RON_codify_rules_desc:0 "With the establishment of a Referee Authority there have been growing calls to actually formalise the rules of hockey. In doing so we can ensure a safer sport fun for the whole family."
+
+  RON_sport_for_the_wasteland:0 "Sport for the Wasteland"
+  RON_sport_for_the_wasteland_desc:0 "The violence and brutality of hockey is an essential element of its appeal for many, and by encouraging these aspects we can build a sport that is dangerous, but fun."
+
+  RON_best_and_brightest:0 "Best and Brightest"
+  RON_best_and_brightest_desc:0 "Hockey players need to be assessed on the basis of quality, not quantity."
+
+  RON_expand_the_teams:0 "Expand the Teams"
+  RON_expand_the_teams_desc:0 "A hockey team needs to be big enough to seriously intimidate your opponents. Teams need to be more than 5-10 players. Could you imagine?"
+
+  RON_crowd_goes_wild:0 "The Crowd Goes Wild!"
+  RON_crowd_goes_wild_desc:0 "While the average Ronto citizen is willing to watch a game of hockey standing on top of a corpse to see over a brawl in the crowd, this isn't so appealing for most people in the wasteland. A proper stadium with developed facilities will really draw in the crowds."
+    ron_stadium_decisions_tt:0 "This will unlock §Ydecisions§! to improve our stadium."
+
+  RON_expand_our_reach:0 "Expand Our Reach"
+  RON_expand_our_reach_desc:0 "Even though hockey survived in Ronto, people from all across the wasteland are excited to participate! All across Ontario, anyway."
+    ron_unlock_more_teams_tt:0 "This will unlock §Ydecisions§! to establish and expand new hockey teams."
+
+  RON_the_greatest_game_the_wastes_have_ever_seen:0 "The Greatest Game the Wastes Have Ever Seen"
+  RON_the_greatest_game_the_wastes_have_ever_seen_desc:0 "There's nothing like hockey, and there's no one to play it like Ronto."
+    ron_more_hockey_decisions_tt:0 "This will unlock §Ydecisions§! to establish and expand even more hockey teams, as well as holding §Ygrand games§! with even better bonuses."
+
+  RON_city_upon_a_hill:0 "City Upon a Hill"
+  RON_city_upon_a_hill_desc:0 "Ronto will be as a shining city upon a hill. The city welcomes the wasteland with open arms, and thrives."
+
+  RON_ronto_arms:0 "Ronto Arms"
+  RON_ronto_arms_desc:0 "Production of more weapons will be vital to the safety of Ronto."
+
+  RON_new_workshops:0 "New Workshops"
+  RON_new_workshops_desc:0 "A true shining city needs its industry and a thriving economy."
+
+  RON_booze_for_the_boys:0 "Booze for the Boys (and the Bots)"
+  RON_booze_for_the_boys_desc:0 "Ronto had dozens of pre-war breweries scattered throughout the metropolitan area. It's time to get the breweries up and running - sure to be an excellent morale boost."
+
+  RON_uncover_resistance_caches:0 "Uncover Resistance Caches"
+  RON_uncover_resistance_caches_desc:0 "Before the war broke out, resistance members across the city hid weapons and equipment caches, usually equipment stolen from the American occupiers. Properly scouring the city for their markers and indicators will provide a wealth of new equipment."
+
+  RON_give_me_your_tired_your_poor:0 "Give Me Your Tired, Your Poor"
+  RON_give_me_your_tired_your_poor_desc:0 "Ronto is a safe haven of the north, in a land of ice, raiders, and horror. We welcome the people fleeing the wasteland with open arms."
+
+  RON_niagara_power:0 "Niagara Power"
+  RON_niagara_power_desc:0 "The United States had grand plans for the utilisation of power from Niagara, and they were never fully realised before the war. Only W.A.S.H.I.N.G.T.O.N. has full access to the blueprints. We'll put it to better use than they ever would have."
+
+  RON_ronto_tea_party:0 "The Ronto Tea Party"
+  RON_ronto_tea_party_desc:0 "W.A.S.H.I.N.G.T.O.N. has an odd request for us..."
+
+  RON_great_lakes_smugglers:0 "Great Lakes Smugglers"
+  RON_great_lakes_smugglers_desc:0 "Not everyone likes working with smugglers, but if we can officially "licence" them we can cut down the problems they cause for us while expanding our export market."
+
+  RON_ronto_living_city:0 "Ronto, Living City"
+  RON_ronto_living_city_desc:0 "Ronto isn't just a powerful centre of trade and strength, it's a living, breathing metropolis. Ronto is the people selling their wares in the streets, and fleeing the depredations of raiders and monsters."
+
+  RON_ronto_centre_of_industry:0 "Ronto, Centre of Industry"
+  RON_ronto_centre_of_industry_desc:0 "Ronto is the centre of a new industrial revolution. The factories are building up and the heat from the forges warms us against the cold of Ontario."
+
+  RON_the_lakers:0 "The Lakers"
+  RON_the_lakers_desc:0 "The lake-goers have started calling themselves the Lakers. Their naval expertise is invaluable to Ronto."
+
+  RON_ronto_heart_of_ontario:0 "Ronto, Heart of Ontario"
+  RON_ronto_heart_of_ontario_desc:0 "Ronto is the beating heart of Ontario. The people don't just survive, they thrive. Ronto represents the best Ontario has to offer."
+
+  RON_lake_trade:0 "The Lake Trade"
+  RON_lake_trade_desc:0 "The Great Lakes provide invaluable trading opportunities (when they're not frozen over). Our goods can be shipped all along their shores, and our economy thrives."
+
+  RON_the_skys_the_limit:0 "The Sky's the Limit"
+  RON_the_skys_the_limit_desc:0 "Nothing is out of reach for Ronto. Once, the skies were the realm of giant passenger planes and vertibirds, soon they will be the realm of W.A.S.H.I.N.G.T.O.N."
+
+  RON_theyre_back:0 "They're Back"
+  RON_theyre_back_desc:0 "What the fuck? Didn't we kill them all 30 years ago?"
+
+  RON_hold_the_line:0 "Hold the Line"
+  RON_hold_the_line_desc:0 "Our forces are undoubtedly superior to the Ontario Enclave's, but we need to simply hold the line before we can prepare to strike back."
+
+  RON_antiarmour_tactics:0 "Anti-Armour Tactics"
+  RON_antiarmour_tactics_desc:0 "It's been a while since our last fight with the Enclave, but we've still got some anti-tank equipment stockpiled somewhere."
+
+  RON_twice_bitten:0 "Twice Bitten"
+  RON_twice_bitten_desc:0 "There's an old saying in Ronto — I know it's in Buffalo, probably in Ronto — that says, bite me once, shame on — shame on you. Bite me — you can't get bitten again."
+    ron_twice_bitten_tt:0 "Spawn §G3§! §YMilitia§! divisions, ready to stand up to American tyranny."
+
+  RON_im_so_bored_of_the_usa:0 "I'm So Bored of the USA"
+  RON_im_so_bored_of_the_usa_desc:0 "We're ready now. The Enclave will only last for a moment longer, their foolishness is their end."
+
+  RON_true_north_strong_and_free:0 "The True North, Strong and Free"
+  RON_true_north_strong_and_free_desc:0 "It's time to end it, this time for good."
+
+  RON_ontario_free_forevermore:0 "Ontario Free Forevermore"
+  RON_ontario_free_forevermore_desc:0 "The vile menace of the American occupation is ended, and the Enclave has been expelled, never to return. After all, there couldn't possibly be any other Enclave groups around right?"
+
+  RON_play_the_greatest_game:0 "Play the Greatest Game"
+  RON_play_the_greatest_game_desc:0 "The Hosers have been asking for it."
+
+  RON_hose_them_down:0 "Hose Them Down"
+  RON_hose_them_down_desc:0 "Those damn Hosers amassed quite the following, but most of their fans are former Ronto citizens. It'll be no problem at all to integrate them back into a functioning society. Hopefully."
+
+  RON_domo_arigato:0 "Domo Arigato..."
+  RON_domo_arigato_desc:0 "What now for W.A.S.H.I.N.G.T.O.N.?"

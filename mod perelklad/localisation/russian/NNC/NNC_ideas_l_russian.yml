@@ -1,0 +1,194 @@
+﻿l_russian:
+
+  NNC_people_party:0 "Рыцарство"
+  NNC_people_party_long:0 "Рыцарский Орден"
+  NNC_elites_party:0 "Блэкгарды"
+  NNC_elites_party_long:0 "Блэкгарды"
+  NNC_intellectuals_party:0 "Крестоносцы"
+  NNC_intellectuals_party_long:0 "Крестоносцы"
+  NNC_ruler_party:0 "Лоялисты"
+  NNC_ruler_party_long:0 "Ланкастерские Лоялисты"
+  
+  ####NNC####
+  nnc_new_roundtable:0 "Новый круглый стол"
+  nnc_new_roundtable_desc:0 "В Новом Нью-Касле великий совет рыцарей собирается для обсуждения вопросов земли. Справедливое учитывание мнений рыцарей порой приводит к спорам, но в целом это способствует миру и порядку."
+
+  nnc_stuck_in_the_past:0 "Застрявшие в прошлом"
+  nnc_stuck_in_the_past_desc:0 "Понятно, что группа парней, бегающих и притворяющихся рыцарями древности, не спешит принимать новые идеи или перемены."
+
+  nnc_stuck_in_the_past2:0 "Почитание прошлого"
+  nnc_stuck_in_the_past2_desc:0 "Хотя можно чтить и представлять путь прошлого, важно сохранять ясность ума в настоящем. Мы можем уважать наследие рыцарей былых времён, не забывая при этом о сегодняшнем дне."
+
+  nnc_veteran_knights:0 "Рыцари-Ветераны"
+  nnc_veteran_knights_desc:0 "Нашествие трогов в 2253 году опустошило рыцарей Нового Нью-Касла, но оставило после себя закалённое и опытное ядро ветеранов. Наследие их опыта передаётся новым рыцарям и по сей день."
+
+  NNC_peasant_levies:0 "Крестьянские повинности"
+  NNC_peasant_levies_desc:0 "Крестьяне уже много лет служат в нашей армии в ограниченном составе, но современные реалии требуют большего их вовлечения. К сожалению, они представляют собой разрозненную массу, однако их очень много."
+
+  nnc_training_dummies_idea:0 "Тренировочные «Мишени»"
+  nnc_training_dummies_idea_desc:0 "Блэкгарды начали тренировки на живых мишенях. Хотя эти мишени — преступники, бандиты и прочие негодяи, для большинства людей это неприятно, и иногда среди них погибают невинные."
+
+  nnc_building_chaos:0 "Растущий Хаос"
+  nnc_building_chaos_desc:0 "Объявление Ланкастера о выходе в отставку привело политический порядок Нового Нью-Касла в хаос. Напряжённость между Блэкгардами, Рыцарями и Крестоносцами всегда существовала, но теперь ситуация становится гораздо, гораздо хуже."
+
+  nnc_knightly_disorder:0 "Рыцарский беспорядок"
+  nnc_knightly_disorder_desc:0 "Хаос в королевстве! Новый Нью-Касл охвачен непрекращающейся гражданской войной, и сэр Катберт наблюдает, как расцвет американского рыцарства погружается в смуту и междоусобицу."
+
+  nnc_knightly_disorder2:0 "Рыцарский беспорядок"
+  nnc_knightly_disorder2_desc:0 "Хаос в королевстве! Новый Нью-Касл охвачен непрекращающейся гражданской войной, и сэр Катберт наблюдает, как расцвет американского рыцарства погружается в смуту и междоусобицу. Теперь народ живёт в страхе, не зная, кто станет следующей жертвой этой смуты."
+
+  nnc_the_peasant_farmers:0 "Крестьяне-фермеры"
+  nnc_the_peasant_farmers_desc:0 ""
+
+  nnc_the_peasant_farmers2:0 "Крестьяне-фермеры"
+  nnc_the_peasant_farmers2_desc:0 ""
+
+  nnc_the_peasant_farmers_blackguard:0 "Наказание крепостного права"
+  nnc_the_peasant_farmers_blackguard_desc:0 ""
+
+  nnc_the_peasant_farmers_blackguard2:0 "Наказание крепостного права"
+  nnc_the_peasant_farmers_blackguard2_desc:0 ""
+
+  nnc_the_peasant_farmers_chivalric:0 "Подъем крестьянства"
+  nnc_the_peasant_farmers_chivalric_desc:0 ""
+
+  nnc_the_peasant_farmers_chivalric2:0 "Подъем крестьянства"
+  nnc_the_peasant_farmers_chivalric2_desc:0 ""
+
+  nnc_artisan_workshops:0 "Ремесленные мастерские"
+  nnc_artisan_workshops_desc:0 ""
+
+  nnc_artisan_workshops_blackguard:0 "Изнурительная работа"
+  nnc_artisan_workshops_blackguard_desc:0 ""
+
+  nnc_artisan_workshops_blackguard2:0 "Изнурительная работа"
+  nnc_artisan_workshops_blackguard2_desc:0 ""
+
+  nnc_artisan_workshops_blackguard3:0 "Изнурительная работа"
+  nnc_artisan_workshops_blackguard3_desc:0 ""
+
+  nnc_artisan_workshops_chivalric:0 "Чартерные города"
+  nnc_artisan_workshops_chivalric_desc:0 ""
+
+  nnc_artisan_workshops_chivalric2:0 "Чартерные города"
+  nnc_artisan_workshops_chivalric2_desc:0 ""
+
+  nnc_artisan_workshops_chivalric3:0 "Чартерные города"
+  nnc_artisan_workshops_chivalric3_desc:0 ""
+
+  nnc_artisan_workshops_crusaders:0 "Чартерные города"
+  nnc_artisan_workshops_crusaders_desc:0 ""
+
+  nnc_artisan_workshops_crusaders2:0 "Ревностные мастера"
+  nnc_artisan_workshops_crusaders2_desc:0 ""
+
+  nnc_artisan_workshops_crusaders3:0 "Ревностные мастера"
+  nnc_artisan_workshops_crusaders3_desc:0 ""
+
+  nnc_castle_elites:0 "Элиты Замка"
+  nnc_castle_elites_desc:0 ""
+
+  nnc_castle_elites_blackguard:0 "Корумпированные Дворяне"
+  nnc_castle_elites_blackguard_desc:0 ""
+
+  nnc_thriving_blackguards:0 "Процветающая Экономика Блэкгардов"
+  nnc_thriving_blackguards_desc:0 ""
+
+  nnc_thriving_chivalrics:0 "Процветающая Экономика Рыцарства"
+  nnc_thriving_chivalrics_desc:0 ""
+
+  nnc_thriving_crusaders:0 "Процветающая Экономика Крестоносцев"
+  nnc_thriving_crusaders_desc:0 ""
+
+  nnc_arming_up:0 "Вооружение"
+  nnc_arming_up_desc:0 ""
+
+  nnc_disciplined_soldiers:0 "Дисциплинированные солдаты"
+  nnc_disciplined_soldiers_desc:0 ""
+
+  nnc_disciplined_soldiers2:0 "Дисциплинированные солдаты"
+  nnc_disciplined_soldiers2_desc:0 ""
+
+  nnc_disciplined_soldiers3:0 "Дисциплинированные солдаты"
+  nnc_disciplined_soldiers3_desc:0 ""
+
+  nnc_disciplined_soldiers2_chivalric:0 "Дисциплинированные солдаты"
+  nnc_disciplined_soldiers2_chivalric_desc:0 ""
+
+  nnc_disciplined_soldiers3_chivalric:0 "Дисциплинированные солдаты"
+  nnc_disciplined_soldiers3_chivalric_desc:0 ""
+
+  nnc_disciplined_soldiers2_crusader:0 "Дисциплинированные солдаты"
+  nnc_disciplined_soldiers2_crusader_desc:0 ""
+
+  nnc_disciplined_soldiers3_crusader:0 "Дисциплинированные солдаты"
+  nnc_disciplined_soldiers3_crusader_desc:0 ""
+
+  nnc_kings_castle:0 "Королевский Замок"
+  nnc_kings_castle_desc:0 ""
+
+  nnc_kings_castle2:0 "Королевский Замок"
+  nnc_kings_castle2_desc:0 ""
+
+  nnc_kings_castle2_blackguard:0 "Королевский Замок"
+  nnc_kings_castle2_blackguard_desc:0 ""
+
+  nnc_kings_castle2_chivalric:0 "Королевский Замок"
+  nnc_kings_castle2_chivalric_desc:0 ""
+
+  nnc_kings_castle2_crusader:0 "Королевский Замок"
+  nnc_kings_castle2_crusader_desc:0 ""
+
+  nnc_kings_castle3_blackguard:0 "Королевский Замок"
+  nnc_kings_castle3_blackguard_desc:0 ""
+
+  nnc_kings_castle3_chivalric:0 "Королевский Замок"
+  nnc_kings_castle3_chivalric_desc:0 ""
+
+  nnc_kings_castle3_crusader:0 "Королевский Замок"
+  nnc_kings_castle3_crusader_desc:0 ""
+
+  NNC_roundtable_abolished:0 "Круглый стол отменен"
+  NNC_roundtable_abolished_desc:0 "С восхождением Блэкгардов и окончанием системы круглого стола необходимо выбрать новый состав элитных советников."
+
+  NNC_corruption:0 "Гноящаяся коррупция"
+  NNC_corruption_desc:0 ""
+
+  NNC_corruption2:0 "Растущая коррупция"
+  NNC_corruption2_desc:0 ""
+
+  NNC_corruption3:0 "Принятая коррупция"
+  NNC_corruption3_desc:0 ""
+
+  NNC_angry_blackguards:0 "Злые Блэкгарды"
+  NNC_angry_blackguards_desc:0 ""
+
+  NNC_angry_chivalrics:0 "Злое Рыцарство"
+  NNC_angry_chivalrics_desc:0 ""
+
+  NNC_angry_crusaders:0 "Злые Крестоносцы"
+  NNC_angry_crusaders_desc:0 ""
+
+  nnc_chivalric_code_idea:0 "Рыцарский Кодекс"
+  nnc_chivalric_code_idea_desc:0 "Наши рыцари должны быть чем-то большим, чем простая шпана пустошей. Они — рыцари, а не рейдеры."
+
+  NNC_hearts_and_minds:0 "Сердца и Умы"
+  NNC_hearts_and_minds_desc:0 "Нельзя завоевать пустошь, если не завоевать их сердца."
+
+  NNC_chivalric_virtues_idea:0 "Рыцарские добродетели"
+  NNC_chivalric_virtues_idea_desc:0 "Чтобы быть настоящим рыцарем, нужно чтить рыцарские добродетели."
+
+  NNC_peoples_stewards:0 "Народные управители"
+  NNC_peoples_stewards_desc:0 "Хотя мы служим людям, нет сомнений в том, что мы знаем, что для них лучше."
+
+  NNC_freedom_of_association:0 "Свобода объединений"
+  NNC_freedom_of_association_desc:0 "Если у людей нет свободы ошибаться, есть ли у них вообще какие-либо свободы?"
+
+  NNC_blessed_militia:0 "Благословенное Ополчение"
+  NNC_blessed_militia_desc:0 "Наши воины сражаются с огнём в сердце и душе."
+
+  NNC_faithful_knights:0 "Верные рыцари"
+  NNC_faithful_knights_desc:0 "Наши воины сражаются с мастерством и неукротимой местью."
+
+  NNC_constance_queendom:0 "Королевство Констанции"
+  NNC_constance_queendom_desc:0 "Нет страны более праведной и чистой, чем Царство Констанции. Это королевство святой ярости, и теперь весь мир узнает, кто мы такие."

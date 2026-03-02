@@ -1,0 +1,33 @@
+﻿l_english:
+
+  nf_frm.1.t:0 "Lynch From the Ashes"
+  nf_frm.1.d:0 "Lynchburg was a small town before the war, and managed to avoid the worst of the destruction. Having avoided nukes entirely, Lynchburg just had to work together at the end of the world. It almost worked.\n\nAs the dust settled, something new grew in the now renamed Lynch. A small town, thriving (as best you can in the wasteland) and building a new life. Although the population had dropped dramatically, Lynch stabilised and began to grow again. A town council was formed, and relative peace existed.\n\nOver this period, Lynch primarily became known as:"
+  nf_frm.1.a:0 "A hub for Virginian scavengers"
+  nf_frm.1.b:0 "A promise of safety in the dangerous wastes"
+  nf_frm.1.c:0 "The centre of Virginia's favourite radio station"
+
+  nf_frm.2.t:0 "The Rising Marshes"
+  nf_frm.2.d:0 "The peace and prosperity of Lynch was not to last. To the east, some experiment created a growing swamp and a savage cult. The Garden of Eden came to power, threatening the unstable peace of Virginia. Despite the new threat, the swamp and the cult grew slowly, but steadily expanded towards Lynch.\n\nAlthough we were safe for a while, concern began to grow among the population and the Council had to come to a decision about the swamp."
+  nf_frm.2.a:0 "We'd figure out where it came from"
+  nf_frm.2.b:0 "We'd focus on holding it back"
+
+  nf_frm.3.t:0 "The Birth of a Flame"
+  nf_frm.3.d:0 "As the swamp steadily expanded and consumed other Virginian settler groups, the situation became more and more dire for Lynch. It became clear that great efforts would be needed to hold back the swamp. The small militia tasked with defending Lynch would be inadequate.\n\nThe Council approved the overhaul and expansion of the small militia, who armed themselves with flamers, dynamite, grenade launchers and anything else that could tenuously hold back the swamp. The Fire Marshalls were born, and began undertaking the controlled burns they've become so well known for. Soon, all functions of government were subsumed to the need to keep the swamp back."
+  nf_frm.3.a:0 "There's a fire in my soul..."
+
+  nf_frm.4.t:0 "Resistance to Conversion"
+  nf_frm.4.d:0 "The cult of the Garden of Eden couldn't expand forever. The arrival of the AtomBaptists and the Apocryphia of Poseidon splintered the Garden and damaged their ability to control the swamps. It became clear that the swamp was stalled, and the Fire Marshalls celebrated.\n\nUntil it became obvious that things were far from stable.\n\nThe Apocryphia and AtomBaptists frequently came to blows, and the Garden of Eden still lurks in the shadows. The arrival of the Known Folk has dangerously destabilised Virginia, and war is imminent. It is under these conditions that we've allied with the AtomBaptists, but this alliance is far from secure. Their efforts to convert our people cause constant tension, and without other threats the alliance could rapidly fall apart."
+  nf_frm.4.a:0 "With friends like these..."
+    frm_bop_warning_tt:0 "Who needs enemies?\n\nThe presence of missionaries is §Rdangerous§!. If they grow too powerful, §Othey may take over our country§!. If resistance to their presence grows too strong, §Othe alliance will fail§!."
+
+  nf_frm.5.t:0 "Preparing to March"
+  nf_frm.5.d:0 "The civilian government of Lynch has long been subject to the Fire Marshalls, but as war with the Apocryphia of Poseidon looms on the horizon civilian concerns are completely sidelined to military preparations.\n\nWhile many bemoan the strength of the Fire Marshalls, they are using their power to properly prepare the nation for war. The survival of the nation must come first. Other issues can wait."
+  nf_frm.5.a:0 "Let's get this done!"
+
+  nf_frm.6.t:0 "A War for Independence"
+  nf_frm.6.d:0 "The AtomBaptists have been building their influence in our nation for too long, and it's clear that they have no intention of leaving us to have our own views. It's time to show them that the Fire Marshalls are not their playthings. This alliance was never stable, but the AtomBaptists have gone too far."
+  nf_frm.6.a:0 "It's time to stop them for good"
+
+  nf_frm.7.t:0 "A Silent Takeover"
+  nf_frm.7.d:0 "The AtomBaptists have quietly increased their influence and power in our government, and it has finally come to a head. Their converts now fill the bureaucracy and the ranks of the military, and our interests are suborned to those of the AtomBaptists. There is no turning back now - we are a nation of AtomBaptists."
+  nf_frm.7.a:0 "I have the sudden urge to pray"

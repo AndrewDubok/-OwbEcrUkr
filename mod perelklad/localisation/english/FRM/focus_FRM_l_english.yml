@@ -1,0 +1,114 @@
+﻿l_english:
+  FRM_the_fall_of_lynchburg:0 "The Fall of Lynchburg"
+  FRM_the_fall_of_lynchburg_desc:0 "Despite the nuclear fire raining down on the world, Lynchburg managed to hang on and survive... for a while."
+
+  FRM_the_encroaching_swamp:0 "The Encroaching Swamp"
+  FRM_the_encroaching_swamp_desc:0 "A peaceful settlement in the wasteland? What a joke..."
+
+  FRM_burn_baby_burn:0 "Burn Baby Burn"
+  FRM_burn_baby_burn_desc:0 "With the growth of the swamps encroaching on our territory, groups in Lynch started performing controlled burns to keep back the vegetation. Over time these volunteers formed an organisation: the Fire Marshalls."
+
+  FRM_allies_of_convenience:0 "Allies of Convenience"
+  FRM_allies_of_convenience_desc:0 "We're not the only ones facing a growing swamp and foreign interlopers. We've not always got along with the AtomBaptists, but they're a good deal better than the alternatives."
+
+  FRM_fire_in_our_hearts:0 "Fire in our Hearts"
+  FRM_fire_in_our_hearts_desc:0 "We keep alive the spirit of the settlers of Virginia. Those not maddened by zealotry or despair. We keep hope alive in the choking swamps."
+
+  FRM_careful_point_thing:0 "Be Careful Where You Point That Thing!"
+  FRM_careful_point_thing_desc:0 "In short, a lot of our equipment is really really dangerous. By having veterans train newer marshalls and implementing their recommendations across the board, maybe we can improve how we handle and use our flamers."
+
+  FRM_twisted_firestarter:0 "Twisted Firestarter"
+  FRM_twisted_firestarter_desc:0 "Surprisingly, after 4 years, a group of Marshalls who set off into the swamp to attempt to locate the source has returned. They didn't finish their mission, but Marshall Ashley and her veterans are now some of the toughest marshalls around."
+    FRM_unlock_ashley_tt:0 "\n\n§Y$FRM_ashley_name$§! becomes a Unit Leader.\n§LLevel§!: §Y3§!\n§RAttack Skill§!: §Y4§!\n§GDefense Skill§!: §Y1§!\n§PPlanning Skill§!: §Y1§!\n§MLogistics Skill§!: §Y2§!\n§gTraits§!: §tPerceptive§!, §tLucky§!, §tBloody Mess§!\n\nAshley will bring her group of highly trained and experienced Fire Marshalls."
+
+  FRM_feel_the_burn:0 "Feel the Burn"
+  FRM_feel_the_burn_desc:0 "By improving our flamers and other support equipment, we'll focus on what we're really good at - burning things."
+
+  FRM_red_hot:0 "Red Hot"
+  FRM_red_hot_desc:0 "Despite the importance of our flamers, it is our guns and axes that most marshalls wield against the terrors of the swamp."
+
+  FRM_flaming_hot:0 "Flaming Hot"
+  FRM_flaming_hot_desc:0 "With new weapons and fiery hearts, the Fire Marshalls are ready to take on the worst of the swamp."
+
+  FRM_drumbeats_of_war:0 "Drumbeats of War"
+  FRM_drumbeats_of_war_desc:0 "Although they do not directly represent the swamp like the Garden of Eden, the Apocryphia of Poseidon are also dangerous zealots that threaten the safety of our borders."
+
+  FRM_control_the_converts:0 "Control the Converts"
+  FRM_control_the_converts_desc:0 "Our alliance with the AtomBaptists might be important for continued security, but it's brought uncomfortable numbers of untrustworthy worshippers to our lands, and some of our people follow these teachings."
+
+  FRM_preparing_the_people:0 "Preparing the People"
+  FRM_preparing_the_people_desc:0 "War is coming to the swamps, and it's only a matter of time. We need to get ready to strike while the iron is hot."
+
+  FRM_arms_length:0 "Arm's Length"
+  FRM_arms_length_desc:0 "Our alliance with the AtomBaptists is anything but friendly. They don't trust us, we don't trust them. We need to make sure that the status quo remains - at least until we're the last ones standing."
+    FRM_control_decisions_tt:0 "This will unlock §YDecisions§! to §Olimit AtomBaptist influence§!."
+
+  FRM_this_fire:0 "This Fire"
+  FRM_this_fire_desc:0 "Tensions are building to an inferno, and soon war will come to Virginia once more. The Known Folk have destabilised things, and we need to be ready to clear the swamps out. For good."
+
+  FRM_ashfall:0 "Ashfall"
+  FRM_ashfall_desc:0 "This is it. The status quo has reached its end point, and the Apocryphia of Poseidon can not be allowed to continue to grow. It's time to bring order to Virginia."
+
+  FRM_fires_of_industry:0 "Fires of Industry"
+  FRM_fires_of_industry_desc:0 "Lynch used to be a thriving and friendly town, before the swamps appeared. There are still workshops around that were abandoned as the population shrank, but if we reoccupy them we can bring them back into order."
+
+  FRM_ignite_the_forges:0 "Ignite the Forges"
+  FRM_ignite_the_forges_desc:0 "As war with the swamp becomes increasingly inevitable, it's also inevitable that we need more weapons and equipment."
+
+  FRM_rebuild_the_universities:0 "Rebuild the Universities"
+  FRM_rebuild_the_universities_desc:0 "Despite its small size, pre-war Lynchburg had several universities or other centres of education. We can't exactly fully staff them, but getting at least the libraries and some of the teaching facilities up and running could do a world of good."
+
+  FRM_kindle_the_ferry_trade:0 "Kindle the Ferry Trade"
+  FRM_kindle_the_ferry_trade_desc:0 "Trade down the now dangerous James River is a dangerous prospect, but it's vital if we want to avoid relying on trade routes through Green Mountain. By promoting trade, we can hopefully interest businesses - especially those with demolitions equipment."
+
+  FRM_burning_bright:0 "Burning Bright"
+  FRM_burning_bright_desc:0 "It's a dangerous world out there, but we can make it better one university at a time."
+
+  FRM_hub_of_the_swamps:0 "The Hub of the Swamps"
+  FRM_hub_of_the_swamps_desc:0 "Lynch is perhaps the only town in Virginia which retains a sense of normalcy. Sure, you can't stray too far from the city and we've got a powerful militia force, but that's pretty typical for most wasteland towns."
+
+  FRM_a_tantalising_flame:0 "A Tantalising Flame"
+  FRM_a_tantalising_flame_desc:0 "The Fire Marshalls have more than proved themselves in destroying the Apocryphia of Poseidon. Maybe we shouldn't hand power back to the civilians at all..."
+
+  FRM_ignite_the_swamp:0 "Ignite the Swamp"
+  FRM_ignite_the_swamp_desc:0 "Now is not the time to rest on our laurels. The Known Folk and the Garden of Eden must be destroyed for Virginia to find peace."
+
+  FRM_consolidate_power:0 "Consolidate Power"
+  FRM_consolidate_power_desc:0 "The Fire Marshalls already de facto rule Lynch. We just need to keep things moving the way we want them to."
+
+  FRM_true_ascendance_of_the_marshalls:0 "True Ascendance of the Marshalls"
+  FRM_true_ascendance_of_the_marshalls_desc:0 "Marshall Bidda is weak, and can't see that civilians can't be trusted to rule themselves. It's time for the Fire Marshalls to maintain order."
+
+  FRM_burn_it_down:0 "Burn it Down"
+  FRM_burn_it_down_desc:0 "People outside our borders do not know true safety. Monsters and mutants lurk in the forests and swamps across the wasteland. Only a concerted effort from a dedicated group can make things truly safe. Only the Fire Marshalls."
+    frm_legion_of_fire:0 "Legion of Fire"
+    frm_legion_of_fire_DEF:0 "the Legion of Fire"
+    frm_legion_of_fire_ADJ:0 "Fire Legionnaire"
+
+  FRM_fires_burning_out:0 "Fires Burning Out"
+  FRM_fires_burning_out_desc:0 "There is no need to continue perpetuating misery in the Virginian swamps. Things are already bad enough. Restoring some form of civilian government will allow Lynch to truly thrive once more."
+
+  FRM_set_down_the_flamers:0 "Set Down the Flamers"
+  FRM_set_down_the_flamers_desc:0 "The Fire Marshalls will remain, but can't dominate the government as they've done for decades. It's time to lay down our flamers, and let the bureaucrats run things again."
+
+  FRM_slow_burn:0 "Slow Burn"
+  FRM_slow_burn_desc:0 "Although our purge of the swamp is not so zealous anymore, that doesn't mean we can afford to stop watching our borders. We need to make sure that the swamp isn't threatened again."
+    FRM_build_bunkers_tt:0 "This will build §Youtposts§! on every border province we have."
+
+  FRM_rebuild_lynch:0 "Rebuild Lynch"
+  FRM_rebuild_lynch_desc:0 "Lynch was enver exactly prosperous, but it's declined significantly since the swamp started growing. Now that we can protect our people, however, it's time for Lynch to grow once more."
+
+  FRM_the_swamps_saved:0 "The Swamps, Saved"
+  FRM_the_swamps_saved_desc:0 "We've done it. We've saved Virginia. No more are we the Fire Marshalls, it's time to turn a new leaf in our story."
+    frm_republic_of_lynch:0 "Republic of Lynch"
+    frm_republic_of_lynch_DEF:0 "the Virginian Republic of Lynch"
+    frm_republic_of_lynch_ADJ:0 "Lynchian"
+
+  FRM_burning_bridges:0 "Burning Bridges"
+  FRM_burning_bridges_desc:0 "We will never be able to trust the AtomBaptists. We may have been allies once, but we were never friends."
+
+  FRM_bond_forged_in_fire:0 "A Bond Forged in Fire"
+  FRM_bond_forged_in_fire_desc:0 "We have had our differences with the AtomBaptists, but that doesn't mean we can't grow and become friends. Proper friends this time, not just friends out of necessity."
+
+  FRM_clear_the_swamp:0 "Clear the Swamp"
+  FRM_clear_the_swamp_desc:0 "The swamp is still a dangerous and terrifying place. We need to clear out the areas that we can safely take control of ourselves."
