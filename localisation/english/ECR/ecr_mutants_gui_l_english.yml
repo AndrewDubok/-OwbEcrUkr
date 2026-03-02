@@ -1,4 +1,4 @@
 ﻿l_english:
 
-  ECR_super_mutants_decision_category:0 "DC Super Mutant Presence"
+  ECR_super_mutants_decision_category:0 "Присутність супермутантів в Столичної пустці"
   super_mutant_threat_tt:0 "Super mutant presence is at [?global.dc_mutant_presence_variable|0]%"

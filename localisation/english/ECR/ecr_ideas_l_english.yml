@@ -1,141 +1,142 @@
 ﻿l_english:
   ####AMM####
-  amm_amish_paradise: "Amish Paradise"
-  amm_amish_paradise_desc: "Even after two centuries since the War, the Amish are still partying like it's 1699."
-  amm_all_equal_in_gods_eyes: "All Equal in God's Eyes"
-  amm_all_equal_in_gods_eyes_desc: "It is forbidden for any of God's children to be treated poorly in the Valley of Amman. As such, it is common to see supermutants and ghouls living peaceably alongside humans."
-  amm_sunflower_trade: "The Sunflower Trade"
-  amm_sunflower_trade_desc: "The Amish Sunflower is only safe to consume if properly grown, which only the people of the people of the Valley of Amman know how to do, making them the only reliable producers of the normally toxic flower's products."
-  amm_rising_fears: "Rising Fears"
-  amm_rising_fears_desc: "Despite the Amish tendency to turn the other cheek, their Raider neighbors might bring an end to this Amish Paradise."
-  amm_no_peeking: "Weird Al"
-  amm_no_peeking_desc: "Yes, that is a reference to 'Weird Al' Yankovic's 'Amish Paradise'. Yes, you are very smart for looking through the files."
+  amm_amish_paradise: "Амішський рай"
+  amm_amish_paradise_desc: "Навіть через два століття після війни аміші все ще веселяться, як у 1699 році."
+  amm_all_equal_in_gods_eyes: "Перед Богом усі рівні"
+  amm_all_equal_in_gods_eyes_desc: "У Долині Аммана заборонено погано ставитися до Божих дітей. Тому тут часто можна зустріти супермутантів і гульів, які мирно співіснують із людьми."
+  amm_sunflower_trade: "Торгівля соняшником"
+  amm_sunflower_trade_desc: "Амішський соняшник безпечний для споживання лише за умови правильного вирощування, що вміють робити тільки жителі Долини Аммана, які є єдиними надійними виробниками продукції з цієї отруйної квітки."
+  amm_rising_fears: "Зростаючі страхи"
+  amm_rising_fears_desc: "Незважаючи на схильність амішів підставляти іншу щоку, їхні сусіди-рейдери можуть покласти край цьому Амішському Раю."
+  amm_no_peeking: "Дивний Ел"
+  amm_no_peeking_desc: "Так, це відсилання до пісні «Weird Al» Yankovic - Amish Paradise. Так, ви дуже розумні, що переглянули файли."
 
   ####ANV####
-  anv_american_pie: "A Slice of American Pie"
-  anv_american_pie_desc: "Andale is the best town in the USA! A little slice of Pre-War life in a Post-War world... with all that entails."
-  anv_meat_mania: "Meat Mania"
-  anv_meat_mania_desc: "There's plenty of meat around in Andale, despite there not being a single Brahmin in sight..."
-  anv_stepford_style: "Stepford Style"
-  anv_stepford_style_desc: "The citizens of Andale believe that their way is best, even if it wouldn't last long under 'fire...'"
-  anv_mysterious_happenings: "Mysterious Happenings"
-  anv_mysterious_happenings_desc: "Do you recall what was revealed the day the music died?"
-  anv_kill: "Sadistic Sustanance"
-  anv_kill_desc: "People are killed and eaten in Andale, but not always in that order..."
-  anv_settle: "Our Way of Life"
-  anv_settle_desc: "Cannibalism doesn't have to be uncivilized. In Andale, wandering travellers are a food source like any other."
+  anv_american_pie: "Шматочок американського пирога"
+  anv_american_pie_desc: "Андейл - найкраще містечко в США! Маленький шматочок довоєнного життя в післявоєнному світі... з усіма наслідками."
+  anv_meat_mania: "М'ясоманія"
+  anv_meat_mania_desc: "В Андейлі повно м'яса, хоча не видно жодного браміна..."
+  anv_stepford_style: "Степфордський стиль"
+  anv_stepford_style_desc: "Мешканці Андейла вірять, що їхній шлях - найкращий, навіть якщо він не протримається довго під «вогнем»..."
+  anv_mysterious_happenings: "Таємничі події"
+  anv_mysterious_happenings_desc: "Чи пам'ятаєте ви, що стало відомо в день смерті музики?"
+  anv_kill: "Садистське харчування"
+  anv_kill_desc: "В Андейлі людей убивають і їдять, але не завжди в такому порядку..."
+  anv_settle: "Наш спосіб життя"
+  anv_settle_desc: "Людожерство не обов'язково має бути нецивілізованим. В Андейлі мандрівні мандрівники є таким самим джерелом їжі, як і будь-яке інше."
 
   ####APP####
-  app_victors_of_the_swamp: "Victors of the Swamp War"
-  app_victors_of_the_swamp_desc: "Our victory over the soothsayers and zealots has caused some ire. Guess that means we know what we're up against."
-  app_the_great_wheel: "The Great Wheel"
-  app_the_great_wheel_desc: "The Great Wheel is a gift from Poseidon, a repository of knowledge from the Old World."
-  app_guardians_of_apocryphia: "Guardians of Apocryphia"
-  app_guardians_of_apocryphia_desc: "Poseidon, God of the Sea, has tasked us, his worshippers, with protecting the City of Knowledge from those who would destroy it, and we shall rise to the task!"
+  app_victors_of_the_swamp: "Переможці Болотяної війни"
+  app_victors_of_the_swamp_desc: "Наша перемога над віщунами та фанатиками викликала невдоволення. Гадаю, це означає, що ми знаємо, з чим маємо справу."
+  app_the_great_wheel: "Велике Колесо"
+  app_the_great_wheel_desc: "Велике Колесо - дар Посейдона, сховище знань зі Старого Світу."
+  app_guardians_of_apocryphia: "Вартові Апокрифів"
+  app_guardians_of_apocryphia_desc: "Посейдон, Бог Моря, доручив нам, своїм послідовникам, захистити Місто Знань від тих, хто хоче його зруйнувати, і ми впораємося з цим завданням!"
 
   ####LOR####
-  LOR_power_of_magnets:0 "The Power of Magnetism"
-  LOR_power_of_magnets_desc:0 "Our control over the forces of magnetism gives us an edge in fighting against our heavily armoured foes."
-  LOR_scientific_tunnelvision_idea:0 "Scientific Tunnelvision"
-  LOR_scientific_tunnelvision_idea_desc:0 "Our entire society revolves around the study of magnetic fields. This focus has enabled us to reach great heights and stay a unified people, but it is not without its drawbacks. For all the power our weapons have, more of our people are interested in refining them than firing them. Should we face a determined foe, we will be in trouble."
+  LOR_power_of_magnets:0 "Сила Магнетизму"
+  LOR_power_of_magnets_desc:0 "Володіння магнетичними силами дає нам перевагу в боротьбі з важкоброньованими противниками."
+  LOR_scientific_tunnelvision_idea:0 "Науковий тунельний зір"
+  LOR_scientific_tunnelvision_idea_desc:0 "Усе наше суспільство обертається навколо вивчення магнітних полів. Ця зосередженість дозволила нам досягти великих висот і зберегти єдність нації, але вона не позбавлена недоліків. Незважаючи на всю міць нашої зброї, більшість наших людей зацікавлені в її вдосконаленні, а не в стрільбі. Якщо ми зіткнемося з рішучим противником, у нас будуть проблеми."
 
   ####ONN####
-  ONN_land_of_lotus:0 "Land of The Lotus Eaters"
-  ONN_land_of_lotus_desc:0 "The poor in West Virginia have long turned to drugs to escape the woes the former country. With deathclaws, raiders, and ghouls, it's clear to see why the residents have by and large elected to live out their days in psychodelic bliss. Their perpetual trip leaves them unable to see the world around them. Eventually these people will meander until they can't stand anymore, then they will sleep until they can't breath. America's attempt at taming this ancient world will fail when the last person in West Virginia dies from their constant paradise. \n\n§RShould Leone die before finding a way to solve the crisis, the country will collapse and it's people will be ravaged.§!"
-  ONN_strained_administration:0 "Strained Administration"
-  ONN_strained_administration_desc:0 "Onionburg is run by a small group of the remaining sentient people. They struggle to run the systems of society needed to keep the people alive and working but their small nature allows for quicker and more efficient implementation of changes."
-  ONN_reliant_on_protectors_idea:0 "Reliant on Protectors"
-  ONN_reliant_on_protectors_idea_desc:0 "Whether it be from The Green Mountain Boys in exchange for food, or the enigmatic protector in the woods, our people tend to rely on others to guard us against dangers. Nearly all of us are more used to holding a scythe than a rifle. This would make us easy pickings for raiders were we not protected by our neighbors."
+  ONN_land_of_lotus:0 "Земля пожирачів Лотоса"
+  ONN_land_of_lotus_desc:0 "Бідняки Західної Вірджинії вже давно вдаються до наркотиків, щоб врятуватися від бід колишньої країни. Кігті смерті, рейдери та гулі – зрозуміло, чому жителі переважно вирішили доживати свої дні в психоделічному блаженстві. Вічна подорож позбавляє їх здатності бачити навколишній світ. Зрештою, ці люди будуть блукати, поки не перестануть рухатися, а потім заснуть, поки не перестануть дихати. Спроба Америки приборкати цей древній світ зазнає невдачі, коли остання людина в Західній Вірджинії помре від їхнього постійного раю. \n\n§RЯкщо Леоне помре, не знайшовши виходу з кризи, країна зруйнується, а її населення буде розорено.§!"
+  ONN_strained_administration:0 "Напружене управління"
+  ONN_strained_administration_desc:0 "Оніонбург керується невеликою групою розумних людей, що залишилися. Вони з труднощами керують суспільними системами, необхідними для підтримання життя та роботи людей, але їхня нечисленність дозволяє швидше та ефективніше здійснювати зміни."
+  ONN_reliant_on_protectors_idea:0 "Залежність від захисників"
+  ONN_reliant_on_protectors_idea_desc:0 "Чи то Ґрін-Маунтін Бойз в обмін на їжу, чи таємничий захисник у лісі, наш народ схильний покладатися на інших, щоб захистити нас від небезпек. Майже всі ми більше звикли тримати косу, ніж гвинтівку. Це зробило б нас легкою здобиччю для рейдерів, якби нас не захищали сусіди."
 
 
   ####MON####
-  MON_the_hills_hide:0 "The Hills Hold Secrets"
-  MON_the_hills_hide_desc:0 "The range of Appalachia has stood for eons, over that time every creature on Earth has, at one time or another, sought refuge in its hills. The rolling slopes bear scars and beneath the untouched dirt lies a foundation of dead. The untold history of this land draws people in to stand guard, like a symbiotic bird those who watch the hills are taken in by them. Anyone who has spent time in the woods of Monongahela finds comfort in the fact that the range itself is alive and when their time comes, it will welcome them in and protect them for as long as there is land on Earth."
+  MON_the_hills_hide:0 "Пагорби зберігають таємниці"
+  MON_the_hills_hide_desc:0 "Хребет Аппалачі існує вже багато століть, і за цей час усі істоти на Землі в той чи інший час шукали притулку на його пагорбах. На схилах пагорбів видно шрами, а під незайманим брудом лежить фундамент із мерців. Нерозказана історія цієї землі притягує людей, і ті, хто спостерігає за пагорбами, стають їхніми вартовими. Кожен, хто провів час у лісах Мононгагели, знаходить розраду в тому, що сам хребет - живий, і коли прийде його час, він прийме його і буде захищати доти, доки існує Земля."
 
   ####COC####
-  COC_the_holy_fusion:0 "The Holy Fusion"
-  COC_the_holy_fusion_desc:0 "The Cult of Cobalt believes that they have found the only true source of transcendence in the Wasteland. Formed by a Children of Atom mission, they found the remains of West Virginia having been nuked not once, but again after the great war. They saw this as a revelation, and have begun to worship the twin aspects of Atom, Fission and Fusion. Fission is death, and Fusion is rebirth. They have remained in West Virginia peacefully until now, but who knows how long that will last?"
-  COC_crisis_among_warriors_idea:0 "Declining Warrior Class"
-  COC_crisis_among_warriors_idea_desc:0 "Our peaceful existence in Appalachia has led to many of our warriors laying down their arms in order to tend to other matters. It will likely remain that way so long as those savages to our north stay away."
+  COC_the_holy_fusion:0 "Святе Злиття"
+  COC_the_holy_fusion_desc:0 "Культ Кобальту вважає, що знайшов єдине істинне джерело трансцендентного в Пустці. Утворившись в результаті місії Дітей Атома, вони виявили рештки Західної Вірджинії, яка зазнала ядерного бомбардування не один раз, а кілька разів після Великої війни. Вони сприйняли це як одкровення і почали поклонятися двом аспектам Атома: Поділу та Злиттю. Поділ - це смерть, а Злиття - відродження. Досі вони мирно живуть у Західній Вірджинії, але хто знає, як довго це триватиме?"
+  COC_crisis_among_warriors_idea:0 "Занепад класу воїнів"
+  COC_crisis_among_warriors_idea_desc:0 "Наше мирне існування в Аппалачах призвело до того, що багато наших воїнів склали зброю, щоб зайнятися іншими справами. І так, ймовірно, буде тривати доти, доки дикуни на північ від нас не вторгаються."
 
   ####OUT####
-  OUT_true_loyalists:0 "True Loyalists"
-  OUT_true_loyalists_desc:0 "The Brotherhood calls us outcasts because they are afraid of the truth - that they are the ones who have really strayed from our ideals."
-  
+  OUT_true_loyalists:0 "Справжні лоялісти"
+  OUT_true_loyalists_desc:0 "Братство називає нас вигнанцями, тому що боїться правди - того, що саме вони відступили від наших ідеалів."
+
   ####HAB####
-  HAB_johnstown_tributes:0 "Johnstown Tributes"
-  HAB_johnstown_tributes_desc:0 "The neighboring settlement of Johnstown has known for years that it is better to pay off the Harrisburg bandits than to risk their wrath."
-  HAB_pitt_trade:0 "Trade with The Pitt"
-  HAB_pitt_trade_desc:0 "The Harrisburg bandits are one of many groups that supply The Pitt with their steady stream of slaves to work their forges. The caps that flow in from selling captives go right back into funding further raids."
+  HAB_johnstown_tributes:0 "Виплати Джонстауна"
+  HAB_johnstown_tributes_desc:0 "У сусідньому поселенні Джонстаун вже давно знають, що краще відкупитися від бандитів з Гаррісбурга, ніж ризикувати зіткнутися з їхнім гнівом."
+  HAB_pitt_trade:0 "Торгівля з Піттом"
+  HAB_pitt_trade_desc:0 "Бандити з Гаррісбурга є однією з багатьох груп, які постачають до Пітта постійний потік рабів для роботи в їхніх кузнях. Кришки, отримані від продажу полонених, ідуть на фінансування подальших рейдів."
 
   ####AFB###
-  AFB_dormant_facility:0 "Dormant Facility"
-  AFB_dormant_facility_desc: "Adams Air Force Base has sat empty for nearly 200 years. Its metal rusts and its automated systems get caught up in the daily drudgery of patrolling the grounds to keep intruders out. It would take something serious to shake the dust off this place."
-  AFB_no_entry:0 "NO ENTRY"
-  AFB_no_entry_desc:0 "Unauthorized persons are not allowed inside the confines of Adams AFB. Those that have tried to enter have been met with lazer fire and that is the way it will stay until the last protectron is destroyed."
+  AFB_dormant_facility:0 "Неактивний об'єкт"
+  AFB_dormant_facility_desc: "Авіабаза Адамс пустує вже майже 200 років. Її метал іржавіє, а автоматизовані системи погрязли в щоденній рутині патрулювання території, щоб не допустити проникнення сторонніх. Щоб зітрусити пил із цього місця, знадобиться щось серйозне."
+  AFB_no_entry:0 "ВХІД ЗАБОРОНЕНО"
+  AFB_no_entry_desc:0 "Стороннім особам заборонено перебувати на території авіабази Адамс. Ті, хто намагався проникнути всередину, були зустрінуті лазерним вогнем, і так буде тривати доти, доки не буде знищено останнього протектрона."
 
   ####HOS####
-  hos_hit_the_ice:0 "Hit the Ice"
-  hos_hit_the_ice_desc:0 "The Hosers, like their parent Ronto, are obssessed with all things ice hockey. In the absence of the "civilised" people of Ronto, the Hosers have instead developed a sport even more brutal than what Ronto has. Casualties are unavoidable once the competition gets this fierce, but that's all just part of the fun. One has to wonder how they and Ronto ever manage to hold matches against one another."
+  hos_hit_the_ice:0 "Удар по льоду"
+  hos_hit_the_ice_desc:0 "Хозери, як і їхній родич Ронто, одержимі хокеєм. Через відсутність «цивілізованих» жителів Ронто, хозери розробили свій вид спорту, ще більш жорстокий, ніж у Ронто. Жертви неминучі за такого жорстокого суперництва, але це лише частина задоволення. Залишається тільки дивуватися, як їм і Ронто взагалі вдається проводити матчі один проти одного."
 
-  hos_team_mentality:0 "Team Mentality"
-  hos_team_mentality_desc:0 "The teams of the Hosers are exclusive clubs, and foster a sense of camaraderie and team building practically unseen in bands of raiders before. Their players foster close friendships, and their fans are the same. Like any exclusive club, however, the price of membership is high."
+  hos_team_mentality:0 "Командний менталітет"
+  hos_team_mentality_desc:0 "Команди Хозерів - це закриті клуби, в яких панує почуття товариськості та згуртованості, практично небачене раніше в рейдерських угрупованнях. Гравці підтримують тісні дружні стосунки, і вболівальники теж. Однак, як і в будь-якому закритому клубі, ціна членства в ньому висока."
 
   ####JON####
-  JON_hab_tribute:0 "Harrisburg Tribute"
-  JON_hab_tribute_desc:0 "As the Harrisburg bandits started raiding Johnstown farms and proved too much for the town milita to fend off, Mayor Bauer made an offer to the bandits. In exchange for 10% of the harvest, the bandits leave the town and its people alone. Sadly, as the bandits have grown in strength so too have their demands grown. As it stands now the people give 20% of their havest, give the bandits free access to roads for their slave caravans and the second daughter of a family is married off to one of the bandits when they come of age. Still, it's better than being pillaged every few weeks... right?"
-  JON_road_wardens:0 "Road Wardens"
-  JON_road_wardens_desc:0 "Every day caravans pass through Johnstown on their way to The Pitt to sell slaves the Harrisburg bandits have captured or bought from other raider gangs. Occasionally those caravans are ambushed by unknown vigilantes known as The Road Wardens. Made up of Johnstown farmers sick of turning a blind eye to the suffering of those the bandits sell, they carefully coordinate strikes when they can to free the slaves and strike back at their oppresors. However, when an attack goes wrong and someone is caught, it is usually their familes on the next caravan."
+  JON_hab_tribute:0 "Виплати Гаррісбургу"
+  JON_hab_tribute_desc:0 "Коли гаррісбурзькі бандити почали здійснювати рейди на ферми Джонстауна, і міська міліція виявилася не в змозі протистояти їм, мер Бауер зробив бандитам пропозицію. В обмін на 10% врожаю бандити залишать місто та його жителів у спокої. На жаль, зі зростанням сили бандитів зростали і їхні вимоги. Наразі жителі віддають 20% свого врожаю, надають бандитам вільний доступ до доріг для караванів з рабами, а другу дочку в сім'ї по досягненню повноліття видають заміж за одного з бандитів. Але все ж це краще, ніж піддаватися грабункам кожні кілька тижнів... чи не так?"
+  JON_road_wardens:0 "Дорожні наглядачі"
+  JON_road_wardens_desc:0 "Щодня через Джонстаун проходять каравани, що прямують до Пітта для продажу рабів, захоплених гаррісбурзькими бандитами або куплених в інших банд рейдерів. Час від часу каравани потрапляють у засідку, влаштовану невідомими дружинниками, відомими як «Дорожні наглядачі». Складаючись із фермерів Джонстауна, яким набридло заплющувати очі на страждання тих, кого продають бандити, вони ретельно координують удари, коли це можливо, щоб звільнити рабів і завдати удару у відповідь своїм кривдникам. Однак якщо напад не вдається, і когось ловлять, то, як правило, його сім'я потрапляє до наступного каравану."
 
   ####KWF####
-  kwf_horrors_of_the_open_ocean:0 "Horrors Of the Open Ocean"
-  kwf_horrors_of_the_open_ocean_desc:0 "Remnants of the American fleet laid drifting the currents of the Atlantic for centuries, the people on board trapped in an endless purgatory. The survivors having recently found land with just a few of their ships left floating and no desire to relive their time out at sea. The Known Folk begin to shun their sailing heritage and the knowledge that comes with it."
+  kwf_horrors_of_the_open_ocean:0 "Жахи відкритого океану"
+  kwf_horrors_of_the_open_ocean_desc:0 "Рештки американського флоту століттями дрейфували за течіями Атлантики, а люди на борту були замкнені в нескінченному заточенні. Ті, хто вижив, нещодавно знайшли сушу, на якій залишилося лише кілька кораблів, і вони не мають бажання знову переживати час, проведений у морі. Відомий Народ починає цуратися своєї морської спадщини та знань, які їй супутні."
 
   ####BFI####
-  BFI_pirate_problems:0 "Pirate Problems"
-  BFI_pirate_problems_desc:0 "The Bay Island Fisheries have maintained a relatively calm and uneventful existence for more than 50 years. If you leave the crazy robots alone, they'll leave you alone, and if you're poor no one bothers to raid you. Until recently, that is. The Dover Traders are now reorganised under a single, expansionist leader, and their vicious mercantilist policies threaten to cut off our ability to trade with anyone else.\n\nThose policies, and the pirates they've hired, of course."
+  BFI_pirate_problems:0 "Проблема піратів"
+  BFI_pirate_problems_desc:0 "Рибальські господарства Затоки вже понад 50 років ведуть відносно спокійне та безтурботне існування. Якщо не чіпати божевільних роботів, то вони залишать у спокої і вас, а якщо ви бідні, то ніхто не влаштовуватиме на вас набіги. До недавнього часу. Дуврські торговці тепер реорганізовані під керівництвом єдиного експансіоністського лідера, і їхня підступна меркантилістська політика загрожує відрізати нас від можливості торгувати з кимось іншим.\n\nЗрозуміло, це стосується і політики, і найнятих ними піратів."
 
   ####DOT####
-  DOT_on_sea_or_land:0 "On Sea or Land"
-  DOT_on_sea_or_land_desc:0 "There's a slogan catching on among the Bay Island Fisheries that has spread to the Dover Traders, §Y"Wherever you go, on sea or land, you can't ever hide, from Governor 'Land!"§!\n\nIt's true. Governor Holand's reach, and the reach of the traders as a whole, has been stretching out ever further. Commercial power is no longer enough."
-  DOT_trading_force_to_be_reckoned_with:0 "Trading Force to be Reckoned With"
-  DOT_trading_force_to_be_reckoned_with_desc:0 "The Dover Traders have always been highly mercantilist and proficient, and have long benefitted from their powerful trading position."
+  DOT_on_sea_or_land:0 "На морі чи на суші"
+  DOT_on_sea_or_land_desc:0 "Серед рибалок Затоки з'явилося гасло, яке поширилося і на дуврських торговців: §Y«Куди б ти не пішов, на морі чи на суші, від губернатора Голланда не сховаєшся!»§!\n\nЦе правда. Сфера впливу губернатора Голланда, та й усіх торговців загалом, простягається все далі. Торгової слави йому вже недостатньо."
+  DOT_trading_force_to_be_reckoned_with:0 "Торгова сила, з якою слід рахуватися"
+  DOT_trading_force_to_be_reckoned_with_desc:0 "Торговці Дувра завжди відрізнялися високим рівнем меркантилізму і давно отримують вигоду зі свого потужного торгового становища."
 
   ####GEL####
-  GEL_the_ordnung:0 "The §OOrdnung§!"
-  GEL_the_ordnung_desc:0 "Do not mistake the Amish of Gelassenheit for those of the Valley of Amman. In Gelassenheit, the §OOrdnung§! is supreme. The way of life and code of conduct that dictates how the citizens must live has supreme power, and is followed to the letter. Visitors are often struck by the silence, as every man, woman and child knows exactly what they must do, and words are never wasted. Some claim that Gelassenheit must be some sort of hivemind, but that is not true of course.\n\nIt is only §Othe Ordnung.§!"
+  GEL_the_ordnung:0 "§OОрднунг§!"
+  GEL_the_ordnung_desc:0 "Не плутайте амішів Ґелассенгайту з амішами Долини Амман. У Ґелассенгайті верховенствує §OОрднунг§!. Спосіб життя та кодекс поведінки, що приписує громадянам правила життя і має найвищу законодавчу силу. Приїжджих часто вражає тиша, адже кожен чоловік, жінка і дитина точно знає, що він повинен робити, і слова не пропадають даремно. Дехто стверджує, що Гелассенгейт - це свого роду вулик, але це, звичайно, не так.\n\nЦе всього лише §OОрднунг.§!"
 
   ####BKR####
-  BKR_ice_breakers:0 "Ice Breakers"
-  BKR_ice_breakers_desc:0 "The Breakers have a long history of dealing with whatever the frozen north throws at them. Nothing can stop their ships from sailing to their destination, not ice, snow, or their enemies."
+  BKR_ice_breakers:0 "Криголами"
+  BKR_ice_breakers_desc:0 "За плечима у Руйнівників довга історія боротьби з усім, що їм суне крижана північ. Ні лід, ні сніг, ні вороги - ніщо не може завадити їхнім кораблям доплисти до місця призначення."
   ###WDW###
-  WDW_centuries_of_hate:0 "Centuries of Fast"
-  WDW_centuries_of_hate_desc:0 "We do not remember our ancestor's fight for freedom, or their stand against the imperialist military crossing the bridge from Detroit. All we remember is that ever since the bombs fell, we have gone across that bridge, hit fast and hit hard. Even if we don't remember why we started this, 200 years of conflict has given us plenty of reason to continue."
-  WDW_motor_capital_of_canada:0 "Motor Capital of Canada"
-  WDW_motor_capital_of_canada_desc:0 "Windsor was the beating heart of Canada's automotive industry for nearly a century before the bombs fell. Though many factories have been silent and fallen to disrepair, the lights remain on in a few of the old workshops."
-  
-  ###USF###
-  USF_federation_politics_idea:0 "Federation Politics"
-  USF_federation_politics_idea_desc:0 "'What's good for Etewa may not be good for NeUtica' is a common expression in The Upstate Federation. It represents how the diverse needs of the various settlements in the federation often leads to disjointed policy and bickering. These differences have not torn the federation apart, but it has hardly made it easy to progress anything."
-  USF_route_90_idea:0 "Route 90 Trade"
-  USF_route_90_idea_desc:0 "A relatively well maintained pre-war highway runs right through almost all the major settlements in The Upstate Federation. This single artery is well traveled and makes moving supplies easy. But, the federation's greatest strength could be it's greatest weakness. If this road was ever cut, the consequences would be dire."
-
-  ###HSY###
-  HSY_valued_goods_idea:0 "Valued Goods"
-  HSY_valued_goods_idea_desc:0 "Chocolate is not the only thing The Chocolateers make. These amish craftsmen make all kinds of quality goods that draw traders from across the wasteland."
-  HSY_peaceful_nature_idea:0 "Peaceful Nature"
-  HSY_peaceful_nature_idea_desc:0 "Conflict just ain't in the nature of The Chocolateers. Their home is a paradise by wasteland standards and their walls can keep out most threats."
+  WDW_centuries_of_hate:0 "Століття ненависті"
+  WDW_centuries_of_hate_desc:0 "Ми не пам'ятаємо боротьбу наших предків за свободу або їхній опір імперіалістичній армії, що перетинала міст із Детройта. Ми пам'ятаємо лише, що з тих пір, як впали бомби, ми перейшли цей міст, завдаючи швидких і потужних ударів. Навіть якщо ми не пам'ятаємо, чому ми це почали, 200 років конфлікту дали нам достатньо причин продовжувати."
+  WDW_motor_capital_of_canada:0 "Автомобільна столиця Канади"
+  WDW_motor_capital_of_canada_desc:0 "Віндзор був центром канадської автомобільної промисловості майже століття, до того як впали бомби. Хоча багато фабрик затихли і занепали, у кількох старих цехах, як і раніше, горить світло."
+ 
+ ###USF###
+  USF_federation_politics_idea:0 "Федеративна політика"
+  USF_federation_politics_idea_desc:0 "«Що добре для Етеви, може бути погано для НеЮтіки» — поширений вислів у Федерації Північних Штатів. Він відображає, як різні потреби різних поселень у федерації часто призводять до розрізненої політики та суперечок. Ці відмінності не розкололи федерацію, але навряд чи сприяли прогресу."
+  USF_route_90_idea:0 "Торгівля за маршрутом 90"
+  USF_route_90_idea_desc:0 "Відносно добре збережена довоєнна автомагістраль проходить майже через усі великі населені пункти Федерації Північних Штатів. Ця єдина транспортна артерія добре прохідна і полегшує доставку вантажів. Однак головна сила Федерації може стати її головною слабкістю. Якщо цю дорогу буде перекрито, наслідки будуть катастрофічними."
+ 
+ ###HSY###
+  HSY_valued_goods_idea:0 "Цінні товари"
+  HSY_valued_goods_idea_desc:0 "Шоколад - не єдине, що виробляють Кондитери. Ці майстри-аміші виготовляють різноманітні якісні товари, які приваблюють торговців з усієї пустки."
+  HSY_peaceful_nature_idea:0 "Мирна натура"
+  HSY_peaceful_nature_idea_desc:0 "Конфлікти не в природі Кондитерів. Їхній дім - рай за мірками пусток, а його стіни здатні вберегти від більшості загроз."
   
   ###OSH###
-  OSH_open_port_idea:0 "Open Port"
-  OSH_open_port_idea_desc:0 "Our port is open to any ship that seeks harbor and trade. With those caps does often come trouble"
-  OSH_respect_the_lakes_idea:0 "Respect The Lakes"
-  OSH_respect_the_lakes_idea_desc:0 "Our captains know better than to underestimate the lakes. They respect its power and do not take unnecessary risks. That is why so many of them make it home from their voyages."  
-
+  OSH_open_port_idea:0 "Відкритий порт"
+  OSH_open_port_idea_desc:0 "Наш порт відкритий для будь-якого судна, яке шукає гавань і торгівлю. Хоча з кришками часто трапляються неприємності."
+  OSH_respect_the_lakes_idea:0 "Повага до озер"
+  OSH_respect_the_lakes_idea_desc:0 "Наші капітани знають, що не варто недооцінювати озера. Вони поважають їхню міць і не йдуть на невиправданий ризик. Саме тому багато хто з них повертається додому зі своїх подорожей."
+  
   ####General####
-  vir_scourge_swamp:0 "Swamp Scourge"
-  vir_scourge_swamp_desc:0 "The swamp is more than just some land. It is a living thing. You respect it, or it will swallow you up into the murky depths. Hell, even if you respect it it may do that anyway."
-  ECR_112_research_idea:0 "Braun's Mind"
-  ECR_112_research_idea_desc:0 "In exchange for allowing Dr. Stanislaus Braun to keep his playthings and providing some support to keep the vault running, we receive his help on the occasional research task. Lets hope this boon is worth damming those poor people to an eternity of torture."
-  ECR_map_paint_idea:0 "The Eastern Power"
-  ECR_map_paint_idea_desc:0 "We are the most powerful nation in The East, and so we will be turning our attention to the West. Lets hope there isnt a mailman or something there that just tells us to fuck off back East"
+  vir_scourge_swamp:0 "Болотяна напасть"
+  vir_scourge_swamp_desc:0 "Болото - це не просто земля. Це жива істота. Ви повинні поважати його, інакше воно поглине вас у своїх каламутних глибинах. Чорт, навіть якщо ви будете поважати його, воно все одно може це зробити."
+  ECR_112_research_idea:0 "Розум Брауна"
+  ECR_112_research_idea_desc:0 "В обмін на те, що ми дозволяємо доктору Станісласу Брауну зберігати його іграшки і надаємо деяку підтримку в роботі притулку, ми іноді отримуємо його допомогу в дослідженнях. Будемо сподіватися, що ця угода варта того, щоб приректи цих бідних людей на вічні муки."
+  ECR_map_paint_idea:0 "Сила Сходу"
+  ECR_map_paint_idea_desc:0 "Ми - наймогутніша нація на Сході, і тому ми звернемо свою увагу на Захід. Будемо сподіватися, що там не виявиться листоноші, який просто скаже нам забиратися геть на Схід."
+  
