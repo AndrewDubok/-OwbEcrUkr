@@ -1,105 +1,87 @@
 ﻿l_english:
- 
- RIV_not_max_caravans_tt:0 "The number of §Ycaravans§! currently formed must be §Gless§! than the maximum number of caravans"
+RIV_not_max_caravans_tt:0 "Кількість сформованих §Yкараванів§! зараз має бути §Gменшою§!, ніж максимальна кількість караванів"
+  RIV_increase_caravan_maximum_tt:0 "§GМаксимальна кількість§! §Yторгових караванів§!, яку ми можемо мати, збільшиться."
+  RIV_train_new_caravan_tt:0 "Буде сформовано §Gновий торговий караван§!!"
+  RIV_caravans_not_on_mission_tt:0 "Ми повинні мати принаймні один §Yкараван§!, який зараз не перебуває у §Oторговій місії§!"
+  RIV_caravan_sent_out_tt:0 "Один із наших §Yкараванів§! буде відправлений у §Gторгову місію§!"
+  RIV_caravan_success_chance_tt:0 "Шанси §Yкаравану§! на §Gуспіх§! значною мірою залежатимуть від рівня §Oрізноманітних загроз§!"
+  RIV_lost_a_caravan_tt:0 "§YКараван§! було §Rвтрачено§!, але принаймні частина торговців вижила"
+  RIV_caravan_returned_tt:0 "Незалежно від того, чи була торгова місія успішною, §Yкараван§! повернувся"
+  RIV_making_trade_safer_tt:0 "Цей патруль §Gтрохи послабить§! одну з головних загроз для наших §Yторгових караванів§!"
+  riv_end_trade_decisions_tt:0 "§OЦе припинить нашу можливість відправляти каравани — принаймні тимчасово.§!"
+  riv_restore_trade_tt:0 "§GТоргівля стала безпечнішою, і наші каравани знову зможуть перетинати Пустку.§!"
 
- RIV_increase_caravan_maximum_tt:0 "The §Gmaximum number§! of §Ytrade caravans§! we can have will increase."
+  RIV_unlock_trade_to_megaton_tt:0 "Завершення цього фокусу дозволить нам відправляти торгові каравани до §YМегатонни§!."
+  RIV_unlock_trade_to_big_town_tt:0 "Завершення цього фокусу дозволить нам відправляти торгові каравани до §YБіг-Тауна§!."
+  RIV_unlock_trade_to_underworld_tt:0 "Завершення цього фокусу дозволить нам відправляти торгові каравани до §YПідземелля§!."
+  RIV_unlock_trade_to_canterbury_commons_tt:0 "Завершення цього фокусу дозволить нам відправляти торгові каравани до §YКентербері-Коммонс§!."
+  RIV_unlock_trade_to_tenpenny_tt:0 "Завершення цього фокусу дозволить нам відправляти торгові каравани до §YТенпенні-Тауер§!."
+  RIV_unlock_trade_to_point_lookout_tt:0 "Завершення цього фокусу дозволить нам відправляти торгові каравани до §YПойнт-Лукаут§!."
+  RIV_unlock_trade_to_evergreen_mills_tt:0 "Завершення цього фокусу дозволить нам відправляти торгові каравани до §YЕвергрін-Міллс§!."
+  RIV_unlock_trade_beyond_the_capital_tt:0 "Завершення цього фокусу дозволить нам відправляти торгові каравани за межі §YСтоличної Пустки§!."
+  RIV_unlock_trade_to_arefu_tt:0 "Завершення цього фокусу дозволить нам відправляти торгові каравани до §YАрефу§!."
+  RIV_unlock_trade_to_dave_tt:0 "Завершення цього фокусу дозволить нам відправляти торгові каравани до §YРеспубліки Дейва§!."
 
- RIV_train_new_caravan_tt:0 "A §Gnew trading caravan§! will be formed!"
+  riv_unlock_cps_expeditions_tt:0 "Завершення цього фокусу §Yвідкриє рішення§!, що дозволять нам відправляти експедиції за §Gдовоєнними американськими артефактами§!."
 
- RIV_caravans_not_on_mission_tt:0 "We must have a §Ycaravan§! that isn't out on a §Otrading mission§!"
+  riv_more_profitable_caravans_tt:0 "Наші майбутні торгові каравани будуть §Gприбутковішими!§!\n"
+  riv_caravans_less_profitable_tt:0 "Наші майбутні торгові каравани будуть §Rменш прибутковіми!§!\n"
 
- RIV_caravan_sent_out_tt:0 "One of our §Ycaravans§! will be sent on a §Gtrading mission§!"
+  riv_bunkers_on_the_borders_tt:0 "§GОдин рівень§! §Yаванпосту§! на кожному нашому кордоні"
 
- RIV_caravan_success_chance_tt:0 "The §Ycaravan's§Y chances of §Gsuccess§! will be greatly dependent on the level of the §Ovarious threats§!"
+  riv_project_purity_explanation_tt:0 "Ми можемо почати підготовку до §CПроєкту «Чистота»§!, обираючи наукові фокуси, але ми не зможемо розпочати його безпосередньо, доки Джеймс не повернеться."
+  riv_james_has_returned_tt:0 "Джеймс повернувся до Рівет-Сіті, і наші вчені готові завершити §CПроєкт «Чистота»§!"
 
- RIV_lost_a_caravan_tt:0 "The §Ycaravan§! has been §Rlost§!, but at least some of the merchants survived"
+  riv_caravans_give_water_tt:0 "§YКаравани§! тепер доставлятимуть воду і приноситимуть нам більше кришок"
 
- RIV_caravan_returned_tt:0 "Whether or not the trading mission was successful, the §Ycaravan§! has returned"
+  riv_end_enclave_threat_tt:0 "Завершення цього фокусу не дозволить залишкам §BАнклаву§! загрожувати нашим §Yкараванам§!"
 
- RIV_making_trade_safer_tt:0 "This patrol will §Gslightly weaken§! one of the main threats to our §Ytrade caravans§!"
+  riv_begin_integrating_settlements_tt:0 "Ми почнемо використовувати наш §Gвплив§! на поселення Столичної Пустки, щоб асимілювати їх. Відправляючи §Yкаравани§! з водою з §CПроєкту «Чистота»§!, ми посилимо наш §Gвплив§! на ці поселення. Це оновить категорію рішень §Y«Торгові каравани Рівет-Сіті»§!."
 
- riv_end_trade_decisions_tt:0 "§OThis will end our ability to send caravans - temporarily at least.§!"
- riv_restore_trade_tt:0 "§GTrade is safer, and our caravans will be able to traverse the Wasteland once more.§!"
+  RIV_increase_all_influence_tt:0 "Це §Gзбільшить§! наш §Gвплив§! у всіх доступних поселеннях"
+  RIV_decrease_all_influence_tt:0 "Це §Rзменшить§! наш §Gвплив§! у всіх доступних поселеннях"
 
- RIV_unlock_trade_to_megaton_tt:0 "Completing this focus will allow us to send trading caravans to §YMegaton§!."
- RIV_unlock_trade_to_big_town_tt:0 "Completing this focus will allow us to send trading caravans to §YBig Town§!."
- RIV_unlock_trade_to_underworld_tt:0 "Completing this focus will allow us to send trading caravans to the §YUnderworld§!."
- RIV_unlock_trade_to_canterbury_commons_tt:0 "Completing this focus will allow us to send trading caravans to §YCanterbury Commons§!."
- RIV_unlock_trade_to_tenpenny_tt:0 "Completing this focus will allow us to send trading caravans to §YTenpenny Tower§!."
- RIV_unlock_trade_to_point_lookout_tt:0 "Completing this focus will allow us to send trading caravans to §YPoint Lookout§!."
- RIV_unlock_trade_to_evergreen_mills_tt:0 "Completing this focus will allow us to send trading caravans to §YEvergreen Mills§!."
- RIV_unlock_trade_beyond_the_capital_tt:0 "Completing this focus will allow us to send trading caravans beyond the §YCapital Wasteland§!."
- RIV_unlock_trade_to_arefu_tt:0 "Completing this focus will allow us to send trading caravans to §YArefu§!."
- RIV_unlock_trade_to_dave_tt:0 "Completing this focus will allow us to send trading caravans to the §YRepublic of Dave§!."
+  riv_council_voting_explanatory_tt:0 "Для успішного голосування всі члени Ради мають погодитися на певний план дій. Результат кожного голосування залежатиме від того, хто саме засідає в Раді, §Oта чи надамо ми їм якісь... переконливі аргументи§!."
+  riv_council_voting_explanatory_emergency_tt:0 "На відміну від інших голосувань, це проводиться як §Oнадзвичайне§!. Звичайна вимога одностайної згоди скасовується — такі рішення занадто критичні, щоб дозволити нерішучості гальмувати розвиток міста. §YПроте час для переговорів ще є§!."
 
- riv_unlock_cps_expeditions_tt:0 "Completing this focus will §Yunlock decisions§! allowing us to send expeditions for §Gpre-war American artifacts§!."
+  riv_weaken_supermutants_tt:0 "Завершення цього фокусу §Gзначно послабить§! присутність супермутантів у окрузі Колумбія!"
+  riv_weaken_raiders_tt:0 "Завершення цього фокусу §Gзначно послабить§! рейдерів, які загрожують нашим §Yторговим караванам§!!"
+  riv_weaken_ferals_tt:0 "Завершення цього фокусу §Gзначно послабить§! диких гулів, які загрожують нашим §Yторговим караванам§!!"
 
- riv_more_profitable_caravans_tt:0 "Our future trading caravans will be §Gmore profitable!§!\n"
- riv_caravans_less_profitable_tt:0 "Our future trading caravans will be §Rless profitable!§!\n"
+  riv_chose_to_fight_the_enclave_tt:0 "Рада мала погодитися на війну проти §BАнклаву§!."
+  riv_chose_to_stay_neutral_tt:0 "Голосування за війну проти §BАнклаву§! мало провалитися."
 
- riv_bunkers_on_the_borders_tt:0 "§GOne Level§! of §YOutpost§! on every border we have"
+  riv_puppet_the_brotherhood_tt:0 "Якщо ми в союзі з §gБратством§!, вони стануть нашими маріонетками. Якщо ні — ми натомість отримаємо §Oпривід для війни§!.\n"
+  riv_risk_of_assimilation_tt:0 "§OЯкщо ми погодимося на цю угоду, нас можуть змусити до підкорення пізніше!§!"
+  riv_enemy_of_rivet_city_tt:0 "§OОбравши цей шлях, ми можемо зазнати нападу з боку §CРівет-Сіті§! у майбутньому!§!"
 
- riv_project_purity_explanation_tt:0 "We can begin preparing for §CProject Purity§! by taking science focuses, but we won't be able to start until James returns."
- riv_james_has_returned_tt:0 "James has returned to Rivet City, and our scientists are ready to complete §CProject Purity§!"
+  riv_weapons_contribution_tt:0 "Щомісяця ми §Gотримуватимемо§! певну кількість §Yзброї низької якості§!."
 
- riv_caravans_give_water_tt:0 "§YCaravans§! will deliver water now, and bring us more caps"
+  riv_victory_autocomplete_tt:0 "Цей фокус завершиться автоматично залежно від того, хто переможе в битві за §CПроєкт «Чистота»§!!"
+  riv_vassalise_bln_tt:0 "Ми вимагатимемо від Братства підкоритися нашій владі. Якщо вони погодяться, то стануть нашою маріонеткою; якщо відмовляться — ми отримаємо привід для війни."
 
- riv_end_enclave_threat_tt:0 "Completing this focus will stop the remnants of the §BEnclave§! from threatening our §Ycaravans§!"
+  riv_madison_flees_tt:0 "Медісон Лі втекла на схід, до Співдружності та таємничого §CІнституту§!."
 
- riv_begin_integrating_settlements_tt:0 "We will begin leveraging our §Ginfluence§! over the settlements of the Capital Wasteland to assimilate them. By sending §Ycaravans§! with water from §CProject Purity§! we will increase our §Ginfluence§! over the settlements. This will update the §YRivet City Trade Caravans§! decision category."
+  riv_enclave_refusal_tt:0 "Ми запропонуємо підкоритися §BАнклаву§!. Якщо вони відмовляться, ми автоматично завершимо фокус «§YСидіти тихо§!»"
 
- RIV_increase_all_influence_tt:0 "This will §Gincrease§! our §Ginfluence§! in all available settlements"
- RIV_decrease_all_influence_tt:0 "This will §Rdecrease§! our §Ginfluence§! in all available settlements"
+  riv_anger_the_institute_tt:0 "§RЦе розлютить §CІнститут§!. Хто знає, якими можуть бути наслідки?§!"
 
+  riv_harkness_leaves_danvers_leader_tt:0 "§YГаркнесс піде, зробивши Денверс новим представником служби безпеки в Раді Рівет-Сіті.§!"
+  riv_seagrave_leader_tt:0 "§YБеннона виженуть із Ради Рівет-Сіті, а Сігрейв Голмс стане новим представником цивільних.§!"
 
- riv_council_voting_explanatory_tt:0 "For a vote to succeed, all members need to agree on a course of action. The way that each vote goes will be determined by who, exactly, sits on the Council, §Oand whether we give them any... persuasive arguments§!."
- riv_council_voting_explanatory_emergency_tt:0 "Unlike other votes, this vote is being put forward as an §Oemergency vote§!. The usual convention of unanimous agreement is done away with - decisions like this are too crucial to allow indecision to stall the City. §YThere is, however, still time for negotiation§!."
+  riv_the_replicated_man_begins_tt:0 "Відправляючи §Yкаравани§! до поселень, ми зможемо знайти голозаписи про Репліканта"
 
+  riv_influence_increased_megaton_tt:0 "Наш вплив у Мегатонні §Gзбільшиться§! на 1"
+  riv_influence_increased_underworld_tt:0 "Наш вплив у Підземеллі §Gзбільшиться§! на 1"
+  riv_influence_increased_canterbury_tt:0 "Наш вплив у Кентербері-Коммонс §Gзбільшиться§! на 1"
+  riv_influence_increased_tenpenny_tt:0 "Наш вплив у Тенпенні-Тауер §Gзбільшиться§! на 1"
+  riv_influence_increased_arefu_tt:0 "Наш вплив в Арефу §Gзбільшиться§! на 1"
+  riv_influence_increased_dave_tt:0 "Наш вплив у Республіці Дейва §Gзбільшиться§! на 1"
 
- riv_weaken_supermutants_tt:0 "Completing this focus will §Gsignificantly weaken§! the super mutant presence in DC!"
- riv_weaken_raiders_tt:0 "Completing this focus will §Gsignificantly weaken§! the raiders threatening our §Ytrade caravans§!!"
- riv_weaken_ferals_tt:0 "Completing this focus will §Gsignificantly weaken§! the feral ghouls threatening our §Ytrade caravans§!!"
+  riv_lower_influence_in_state_tt:0 "Вплив Рівет-Сіті в цьому регіоні §Rзменшиться§! на 1"
+  riv_increase_influence_in_state_tt:0 "Вплив Рівет-Сіті в цьому регіоні §Gзбільшиться§! на 1"
 
- riv_chose_to_fight_the_enclave_tt:0 "The Council must have agreed to fight §Bthe Enclave§!."
- riv_chose_to_stay_neutral_tt:0 "The vote to fight §Bthe Enclave§! must have failed."
+  riv_tie_closer_to_the_brotherhood:0 "Рівет-Сіті тісніше зв’яжеться з §gБратством Сталі§!"
+  riv_split_further_from_the_brotherhood:0 "Рівет-Сіті буде змушене торувати незалежний шлях"
 
- riv_puppet_the_brotherhood_tt:0 "If we are allied with §gthe Brotherhood§!, they will become our puppets. If we are not, we will gain a §Owargoal§! instead.\n"
- riv_risk_of_assimilation_tt:0 "§OIf we accept this deal, we may be forced into servitude later on!§!"
- riv_enemy_of_rivet_city_tt:0 "§OBy choosing this path, we may be attacked by §CRivet City§! in the future!§!"
-
- riv_weapons_contribution_tt:0 "Every month we will §Ggain§! some §Ylower tier weapons§!."
-
-
- riv_victory_autocomplete_tt:0 "This focus will autocomplete depending on who wins the battle for §CProject Purity§!!"
- riv_vassalise_bln_tt:0 "We will ask the Brotherhood to submit to our authority. If they accept we will puppet them, if they refuse we will gain a wargoal."
-
-
- riv_madison_flees_tt:0 "Madison Li has fled eastwards, towards the Commonwealth and the mysterious §CInstitute§!."
-
-
- riv_enclave_refusal_tt:0 "We will offer to submit to §Bthe Enclave§!. If they refuse, we will automatically complete the focus "§YSit Tight§!""
-
- riv_anger_the_institute_tt:0 "§RThis will anger §Cthe Institute§!. Who knows what the consequences may be?§!"
-
- riv_harkness_leaves_danvers_leader_tt:0 "§YHarkness will leave, making Danvers the new security representative on the Rivet City Council.§!"
- riv_seagrave_leader_tt:0 "§YBannon will be kicked off the Rivet City council, making Seagrave Holmes the new civilian representative.§!"
-
-
- riv_the_replicated_man_begins_tt:0 "By sending out §Ycaravans§! to settlements, we can find holotapes about the Replicated Man"
-
-
- riv_influence_increased_megaton_tt:0 "Our influence in Megaton will §Gincrease§! by 1"
- riv_influence_increased_underworld_tt:0 "Our influence in the Underworld will §Gincrease§! by 1"
- riv_influence_increased_canterbury_tt:0 "Our influence in Canterbury Commons will §Gincrease§! by 1"
- riv_influence_increased_tenpenny_tt:0 "Our influence in Tenpenny Tower will §Gincrease§! by 1"
- riv_influence_increased_arefu_tt:0 "Our influence in Arefu will §Gincrease§! by 1"
- riv_influence_increased_dave_tt:0 "Our influence in the Republic of Dave will §Gincrease§! by 1"
-
- riv_lower_influence_in_state_tt:0 "Rivet City's influence in this state will §Rdecrease§! by 1"
- riv_increase_influence_in_state_tt:0 "Rivet City's influence in this state will §Gincrease§! by 1"
-
-
- riv_tie_closer_to_the_brotherhood:0 "Rivet City will tie itself closer to §gthe Brotherhood§!"
- riv_split_further_from_the_brotherhood:0 "Rivet City will be forced to carve an independent path"
-
- the_dc_alliance:0 "The DC Alliance"
+  the_dc_alliance:0 "Альянс округу Колумбія"

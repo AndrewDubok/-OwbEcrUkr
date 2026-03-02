@@ -1,54 +1,46 @@
 ﻿l_english: 
-  nf_ron.1.t:0 "200 Years of Resistance!"
-  nf_ron.1.d:0 "Ontario was always a hotbed for Canadian resistance after the US occupation, and despite the best efforts of the American government the streets remained unsafe for their soldiers - except in force. Toronto was infested with rebels, using metro tunnels and secret routes to smuggle goods and coordinate attacks in wider Ontario. Even the arrival of the power armour of the US Army wasn't enough to deter these activities.\n\nOn October 12th 2277, less than two weeks before the Great War, the greatest attack yet was staged. Rebel forces attacked the headquarters of the US occupation forces itself, and using a diversion several insurgents made their way deeper into the facility.\n\nWhile a couple of saboteurs installed a virus into the mainframe of the ZAX running the occupation, the rest of the party stole what they could before they had to run for their lives. In the rush, they managed to steal..."
-  nf_ron.1.a:0 "Databanks containing technical data"
-  nf_ron.1.b:0 "A stockpile of advanced weapons"
-  nf_ron.1.c:0 "Supplies, to keep the fight going"
+nf_ron.1.t:0 "200 років спротиву!"
+  nf_ron.1.d:0 "Онтаріо завжди було осередком канадського спротиву після окупації США, і попри всі зусилля американського уряду, вулиці залишалися небезпечними для їхніх солдатів — хіба що вони пересувалися великими силами. Торонто кишіло повстанцями, які використовували тунелі метро та секретні маршрути для контрабанди товарів і координації атак по всьому Онтаріо. Навіть прибуття силової броні армії США не змогло зупинити цю діяльність.\n\n12 жовтня 2277 року, менш ніж за два тижні до Великої війни, було здійснено наймасштабнішу атаку. Сили повстанців напали на штаб-квартиру окупаційних військ США, і, скориставшись відволікаючим маневром, кілька інсургентів пробралися вглиб об'єкта.\n\nПоки пара диверсантів впроваджувала вірус у мейнфрейм ZAX, що керував окупацією, решта групи викрадала все, що могла, перш ніж довелося рятуватися втечею. У поспіху їм вдалося поцупити..."
+  nf_ron.1.a:0 "Банки даних з технічною інформацією"
+  nf_ron.1.b:0 "Запас передової зброї"
+  nf_ron.1.c:0 "Припаси, щоб продовжувати боротьбу"
 
-  nf_ron.2.t:0 "Our War Never Ended"
-  nf_ron.2.d:0 "Although the US ended on October 23, 2277, the oppression did not. As the survivors picked themselves up from the wreckage and sought to build anew, the American threat appeared once more - calling themselves the Enclave. Quickly destroying organised resistance to their rule, our freedom fighters had to once again go underground - ghoul resistance veterans bringing back pre-war guerilla tactics.\n\nUnfortunately for the Enclave, they made a crucial mistake. 30 years ago, they activated the ZAX that had been infected with a virus before the war. W.A.S.H.I.N.G.T.O.N..\n\nW.A.S.H.I.N.G.T.O.N. rallied the resistance forces and activated robots used in the occupation, driving the Enclave occupiers from Ronto forevermore. In the cold the Ontario Enclave perished, and not even a single bunker survived. At least, that's what we assume.\n\nUnfortunately, the battle wasn't without casualties. W.A.S.H.I.N.G.T.O.N. had to make snap choices about who to save, and they couldn't all be saved."
-  nf_ron.2.a:0 "He saved his robots"
-  nf_ron.2.b:0 "He saved his people"
+  nf_ron.2.t:0 "Наша війна ніколи не закінчувалася"
+  nf_ron.2.d:0 "Хоча історія США закінчилася 23 жовтня 2277 року, гноблення нікуди не зникло. Поки вцілілі піднімалися з руїн і намагалися побудувати щось нове, американська загроза з’явилася знову — тепер вони називали себе Анклавом. Швидко знищивши організований опір своєму правлінню, наші борці за свободу знову були змушені піти в підпілля — ветерани-гулі відродили довоєнну тактику партизанської війни.\n\nНа нещастя для Анклаву, вони припустилися фатальної помилки. 30 років тому вони активували ZAX, який був заражений вірусом ще до війни. В.А.Ш.И.Н.Г.Т.О.Н..\n\nВ.А.Ш.И.Н.Г.Т.О.Н. згуртував сили спротиву та активував роботів, що використовувалися під час окупації, назавжди вигнавши загарбників Анклаву з Ронто. В холодах Онтаріо Анклав загинув, і жоден їхній бункер не вцілів. Принаймні, ми так вважаємо.\n\nНа жаль, битва не минула без втрат. В.А.Ш.И.Н.Г.Т.О.Н. мусив приймати миттєві рішення про те, кого рятувати, і врятувати всіх було неможливо."
+  nf_ron.2.a:0 "Він врятував своїх роботів"
+  nf_ron.2.b:0 "Він врятував своїх людей"
 
-  nf_ron.3.t:0 "Rebellion of the Hosers"
-  nf_ron.3.d:0 "Having been relatively peaceable and friendly (well, for the wasteland) for a long time, the Hosers suddenly decided to up and leave. Something to do with us cheating. It's hockey! What do you expect?\n\nRegardless, they weren't very friendly in their leaving and caused plenty of chaos. Unfortunately, their destructive tendencies left us rushing to defend what we could. We had to focus on:"
-  nf_ron.3.a:0 "Stopping them from leaving"
-  nf_ron.3.b:0 "Saving our property"
+  nf_ron.3.t:0 "Повстання Хозерів"
+  nf_ron.3.d:0 "Тривалий час Хозери були відносно мирними та дружніми (ну, як для Пустки), але раптом вирішили зібратися і піти. Щось там про те, що ми шахраювали. Це ж хокей! Чого ви очікували?\n\nЯк би там не було, їхній відхід не був приязним і спричинив чимало хаосу. На жаль, через їхню деструктивну поведінку нам довелося поспіхом захищати все, що можливо. Нам довелося зосередитися на:"
+  nf_ron.3.a:0 "Перешкоджанні їхньому відходу"
+  nf_ron.3.b:0 "Порятунку нашого майна"
 
-  nf_ron.4.t:0 "Rally the Hockey Teams"
-  nf_ron.4.d:0 "It's generally known among the population that W.A.S.H.I.N.G.T.O.N. finds Ronto's obsession with hockey strange and frustrating. Probably wasn't coded with such concepts as "levity" or "joyous violence" in mind. Regardless, even W.A.S.H.I.N.G.T.O.N. can admit that it's a damn good way to get people riled up.\n\nW.A.S.H.I.N.G.T.O.N. finally issued a proclamation announcing that hockey would become a new focus of Ronto, and funds would be diverted to improve access to facilities, equipment, and talent. It's a bloody exciting time to be a hockey player in Ronto!"
-  nf_ron.4.a:0 "I'm signing up for a team!"
+  nf_ron.4.t:0 "Згуртувати хокейні команди"
+  nf_ron.4.d:0 "Серед населення загальновідомо, що В.А.Ш.И.Н.Г.Т.О.Н. вважає одержимість Ронто хокеєм дивною та дражливою. Ймовірно, його не програмували на такі поняття, як «легковажність» або «радісне насильство». Менше з тим, навіть В.А.Ш.И.Н.Г.Т.О.Н. визнає, що це бісовий гарний спосіб розпалити народ.\n\nНарешті В.А.Ш.И.Н.Г.Т.О.Н. видав прокламацію, де оголосив хокей новим пріоритетом Ронто. Кошти будуть спрямовані на покращення доступу до стадіонів, спорядження та пошук талантів. Це бісово захопливий час, щоб бути хокеїстом у Ронто!"
+  nf_ron.4.a:0 "Я записуюся в команду!"
 
-  nf_ron.5.t:0 "The Ronto Tea Party"
-  nf_ron.5.d:0 "For whatever reason known only to him, W.A.S.H.I.N.G.T.O.N. has demanded that, with the rise of our own breweries, we perform an elaborate ceremony where we throw foreign beer into the lake. It's got some support among brewery owners, but we're not really sure why W.A.S.H.I.N.G.T.O.N. has suggested this of all things.\n\nIt's not really like he'd know if we kept the booze for ourselves, and some of the boys have suggested we keep it and just lie to him. Still, W.A.S.H.I.N.G.T.O.N. seems excited about this - and he's not often excited about anything. What should we do?"
-  nf_ron.5.a:0 "We're not throwing away perfectly good beer"
-  nf_ron.5.b:0 "THROW IT OVERBOARD!"
+  nf_ron.5.t:0 "Чаювання в Ронто"
+  nf_ron.5.d:0 "З якихось причин, відомих лише йому самому, В.А.Ш.И.Н.Г.Т.О.Н. зажадав, щоб у зв'язку з розквітом наших власних пивоварень ми провели урочисту церемонію викидання іноземного пива в озеро. Власники пивоварень це підтримали, хоча ми й не зовсім розуміємо, чому В.А.Ш.И.Н.Г.Т.О.Н. запропонував саме це.\n\nНавряд чи він дізнається, якщо ми залишимо випивку собі, і дехто з хлопців пропонує просто збрехати йому. Проте В.А.Ш.И.Н.Г.Т.О.Н. виглядає натхненним — а він рідко коли надихається чимось. Що робитимемо?"
+  nf_ron.5.a:0 "Ми не будемо викидати цілком придатне пиво"
+  nf_ron.5.b:0 "ВИКИДАЙТЕ ЙОГО ЗА БОРТ!"
 
-  nf_ron.6.t:0 "America is Back, Again"
-  nf_ron.6.d:0 "Somehow, the Enclave returned. While they'd been pushed out of the city and harassed into fleeing into the frozen wilderness decades ago, clearly a handful survived despite our best efforts. Clearly we should've been more thorough.\n\nDespite that, their soldiers are few and their power armour, while formidable, is patched and damaged. It should be a simple matter to rout them once and for all, and finish what we started 30 years ago."
-  nf_ron.6.a:0 "American patriots march to their doom"
+  nf_ron.6.t:0 "Америка повернулася, знову"
+  nf_ron.6.d:0 "Якимось чином Анклав повернувся. Хоча десятиліття тому їх витіснили з міста та змусили тікати у замерзлу глухомань, очевидно, жменька вижила попри всі наші зусилля. Схоже, нам варто було бути ретельнішими.\n\nПопри це, їхніх солдатів мало, а їхня силова броня, хоч і грізна, вся в латках і пошкодженнях. Розбити їх раз і назавжди та закінчити те, що ми почали 30 років тому, має бути простою справою."
+  nf_ron.6.a:0 "Американські патріоти марширують на свою погибель"
 
-  nf_ron.7.t:0 "...Mr Roboto"
-  nf_ron.7.d:0 "Ronto is now secure in Ontario, the vile Enclave utterly defeated and the Hosers returned to the fold. Now, W.A.S.H.I.N.G.T.O.N. has to deal with a battle within his mind.\n\nEven with the best efforts, centuries of wear has left W.A.S.H.I.N.G.T.O.N. with deteriorating circuits and databanks. Fortunately the equipment of the Enclave is enough to at least keep him going, but sacrifices will need to be made.\n\nW.A.S.H.I.N.G.T.O.N. is torn between three separate aspects of his personality, stored on separate deteriorating databanks with only the supplies to preserve one of them. Which will he choose?"
-  nf_ron.7.a:0 "His silver tongue and diplomatic prowess"
-  nf_ron.7.b:0 "His will of iron and pragmatic ruthlessness"
-  nf_ron.7.c:0 "The love he feels for his people"
-    ron_unfinished_tt:0 "§RThis is the end of Ronto's story for now, but expect more in future updates!§!"
+  nf_ron.7.t:0 "...Містер Робот"
+  nf_ron.7.d:0 "Тепер безпеці Ронто в Онтаріо ніщо не загрожує: мерзенний Анклав вщент розбитий, а Хозери повернулися до лав. Тепер В.А.Ш.И.Н.Г.Т.О.Н. мусить впоратися з битвою всередині свого розуму.\n\nПопри всі зусилля, століття експлуатації призвели до деградації схем і баз даних В.А.Ш.И.Н.Г.Т.О.Н.а. На щастя, обладнання Анклаву достатньо, щоб підтримувати його роботу, але доведеться піти на жертви.\n\nВ.А.Ш.И.Н.Г.Т.О.Н. розривається між трьома різними аспектами своєї особистості, що зберігаються на окремих пошкоджених накопичувачах, а ресурсів вистачить лише на один. Що він обере?"
+  nf_ron.7.a:0 "Свій красномовний язик і дипломатичну майстерність"
+  nf_ron.7.b:0 "Свою залізну волю та прагматичну безжальність"
+  nf_ron.7.c:0 "Любов, яку він відчуває до свого народу"
+  ron_unfinished_tt:0 "§RНа цьому історія Ронто поки що закінчується, але чекайте на продовження у майбутніх оновленнях!§!"
 
+  ron_hockey.1.t:0 "Хокейна ліга Ронто"
+  ron_hockey.1.d:0 "Зі замерзлої півночі прийшли новини: місто-держава Ронто засновує хокейну лігу та запрошує мешканців Пустки подивитися або навіть взяти участь. Хоча у нас немає часу на ці дурниці, наші громадяни охоче подорожують, щоб подивитися ігри, або слухають радіотрансляції з коментарями. Багато хто вже обирає улюблені команди, і в межах наших кордонів почалася справжня хокеєманія.\n\nЦе скоро мине, але зараз усі неабияк збуджені."
+  ron_hockey.1.a:0 "Новини з Ронто нині така рідкість"
 
-
-
-
-
-
-
-
-  ron_hockey.1.t:0 "The Ronto Hockey League"
-  ron_hockey.1.d:0 "Word from the frozen north, the city-state of Ronto is apparently starting a hockey league and inviting people from across the wasteland to watch or even participate. While we don't have time for this foolishness, citizens have been eagerly travelling to watch and tuning in to radio commentation on the games. Many are already picking their favourite teams, and a veritable hockeymania has begun within our borders.\n\nIt'll blow over soon, but it's sure got everyone excited."
-  ron_hockey.1.a:0 "News from Ronto is so rare these days"
-
-  ron_hockey.2.t:0 "Meeting the Goalkeeper"
-  ron_hockey.2.d:0 "It turns out we're not the only ones in the wasteland with an interest in hockey. Unfortunately, the enthusiast we met is a violent raider.\n\nGoalie Ledoux leads a violent gang of raiders in a sport he calls hockey, but isn't anything like our refined and intelligent sport. Even so, he's willing to get involved with our sport, and join us properly.\n\nOnly problem is, a lot of people aren't very happy with the thought of a raider joining us, even one so enthusiastic about hockey as Goalie."
-  ron_hockey.2.a:0 "Bring him aboard!"
-    ron_goalie_ledoux_tt:0 "§Y$RON_goalie_ledoux_name$§! becomes a Unit Leader.\n§LLevel§!: §Y2§!\n§RAttack Skill§!: §Y3§!\n§GDefense Skill§!: §Y1§!\n§PPlanning Skill§!: §Y1§!\n§MLogistics Skill§!: §Y2§!\n§gTraits§!: §tAgile§!, §tStrong§!\n\n§Y$RON_goalie_ledoux_name$§! also becomes available as a high command advisor, and brings a §YSudden Death Overtime§! division."
-  ron_hockey.2.b:0 "Let's just shoot him"
+  ron_hockey.2.t:0 "Зустріч із Воротарем"
+  ron_hockey.2.d:0 "Виявилося, що ми не єдині на Пустці, хто цікавиться хокеєм. На жаль, ентузіаст, якого ми зустріли — жорстокий рейдер.\n\nВоротар Леду очолює банду рейдерів, які грають у щось, що він називає хокеєм, але це зовсім не схоже на наш витончений та інтелектуальний спорт. Менше з тим, він готовий долучитися до нашої справи та приєднатися до нас належним чином.\n\nЄдина проблема: багато хто не в захваті від думки про рейдера в наших лавах, навіть такого палкого фаната хокею, як Воротар."
+  ron_hockey.2.a:0 "Прийняти його до нас!"
+  ron_goalie_ledoux_tt:0 "§Y$RON_goalie_ledoux_name$§! стає командиром підрозділу.\n§LРівень§!: §Y2§!\n§RАтака§!: §Y3§!\n§GОборона§!: §Y1§!\n§PПланування§!: §Y1§!\n§MЛогістика§!: §Y2§!\n§gРиси§!: §tСпритний§!, §tСильний§!\n\n§Y$RON_goalie_ledoux_name$§! також стає доступним як радник вищого командування та приводить із собою дивізію §Y«Раптової смерті в овертаймі»§!."
+  ron_hockey.2.b:0 "Давайте просто застрелимо його"

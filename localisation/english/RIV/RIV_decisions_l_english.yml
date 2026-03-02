@@ -1,212 +1,152 @@
 ﻿l_english:
- RIV_council_decision_category:0 "Rivet City Council"
- RIV_council_decision_category_desc:0 "\n                                  §YTHE RIVET CITY COUNCIL§! \n\n\n\n\n\n\n\n\n\n   [RIV_council_security_representative_picture]      [RIV_council_civilian_representative_picture]      [RIV_council_science_representative_picture]\n\n\n\n\n\n\n\n\n\n [RIV_council_security_representative_name]      [RIV_council_civilian_representative_name]       [RIV_council_science_representative_name]\n           §OSecurity§!                       §GCivilian§!                        §CScience§!\n\nRivet City is ruled by a Council of three members, each representing the three most important groups of individuals; a §Osecurity representative§!, a §Gcivilian representative§!, and a §Cscience representative§!. These three work together to discuss and decide matters of policy in Rivet City, and have the authority to control taxes, allocate funding, and begin citywide programs. Each member brings their own perspective, and may be replaced through a vote by members of the sector they belong to.[RIV_current_decision]"
+RIV_council_decision_category:0 "Рада Рівет-Сіті"
+ RIV_council_decision_category_desc:0 "\n                                  §YРАДА РІВЕТ-СІТІ§! \n\n\n\n\n\n\n\n\n\n   [RIV_council_security_representative_picture]      [RIV_council_civilian_representative_picture]      [RIV_council_science_representative_picture]\n\n\n\n\n\n\n\n\n\n [RIV_council_security_representative_name]      [RIV_council_civilian_representative_name]       [RIV_council_science_representative_name]\n            §OБезпека§!                        §GЦивільні§!                         §CНаука§!\n\nРівет-Сіті керується Радою з трьох членів, кожен з яких представляє одну з трьох найважливіших груп населення: §Oпредставник служби безпеки§!, §Gпредставник цивільних§! та §Cпредставник науковців§!. Ця трійка спільно обговорює та вирішує питання політики Рівет-Сіті, має повноваження контролювати податки, розподіляти фінансування та запускати загальноміські програми. Кожен член ради привносить власну перспективу і може бути замінений шляхом голосування членів того сектору, до якого він належить.[RIV_current_decision]"
  
- RIV_harkness_leader_picture:0 "£GFX_RIV_Harkness"
+ RIV_harkness_leader_name:0 "          Гаркнесс        "
+ RIV_danvers_leader_name:0 "       Лана Денверс    "
+ RIV_bannon_leader_name:0 "          Беннон        "
+ RIV_seagrave_leader_name:0 "    Сігрейв Голмс   "
+ RIV_li_leader_name:0 "        Медісон Лі"
+ RIV_pinkerton_leader_name:0 "   Горацій Пінкертон"
+ RIV_lily_leader_name:0 "    Ліліан Грейнджер"
 
- RIV_danvers_leader_picture:0 "£GFX_RIV_Danvers"
+ RIV_enclave_decision:0 "\n\n\nРішення, яке зараз стоїть перед Радою, має потенціал стати найважливішим за останні десятиліття: питання втручання в конфлікт, що назріває між §YБратством Сталі§! та §BАнклавом§!. Ми не знаємо, що кожна зі сторін планує щодо нас, але нам відомо, що §BАнклав§! нападає на наші каравани та погрожує нашим громадянам. З двох варіантів здається, що §YБратство§! має кращі наміри щодо нас, проте це не означає, що ми повинні втручатися на їхньому боці. Наша Рада залишається розділеною у цьому питанні.\n\n§OПредставник безпеки§! [RIV_security_representative_view_enclave]\n§GПредставник цивільних§! [RIV_civilian_representative_view_enclave]\n§CПредставник науки§! [RIV_science_representative_view_enclave]"
 
- RIV_bannon_leader_picture:0 "£GFX_RIV_Bannon"
+ RIV_refugee_decision:0 "\n\n\nХоча ми вирішили дотримуватися політики невтручання у війну між Братством та Анклавом, війна не оминула нас стороною. Політичне розбрат у регіоні призвів до того, що сотні, а то й тисячі біженців шукають безпечного притулку. Тепер Рада має вирішити, як вчинити з цими людьми.\n\n§OПредставник безпеки§! [RIV_security_representative_view_refugees]\n§GПредставник цивільних§! [RIV_civilian_representative_view_refugees]\n§CПредставник науки§! [RIV_science_representative_view_refugees]"
 
- RIV_seagrave_leader_picture:0 "£GFX_RIV_Seagrave"
+ riv_vote_on_the_enclave:0 "Крайній термін голосування щодо §BАнклаву§!"
 
- RIV_li_leader_picture:0 "£GFX_RIV_Li"
+ RIV_harkness_not_voting_yet_enclave:0 "Гаркнесс голосує §Rпроти§! втручання, але його можна переконати"
+ RIV_harkness_voting_enclave:0 "Гаркнесс голосує §Gза§! втручання"
+ RIV_danvers_not_voting_yet_enclave:0 "Лана Денверс голосує §Rпроти§! втручання, але її можна переконати"
+ RIV_danvers_voting_enclave:0 "Лана Денверс голосує §Gза§! втручання"
+ RIV_bannon_not_voting_yet_enclave:0 "Беннон голосує §Rпроти§! втручання, але його можна переконати"
+ RIV_bannon_voting_enclave:0 "Беннон голосує §Gза§! втручання"
+ RIV_seagrave_voting_enclave:0 "Сігрейв Голмс голосує §Gза§! втручання"
+ RIV_li_not_voting_enclave:0 "Медісон Лі голосує §Rпроти§! втручання, і §Rвона не змінить своєї думки§!"
+ RIV_pinkerton_not_voting_yet_enclave:0 "Горацій Пінкертон голосує §Rпроти§! втручання, але його можна переконати"
+ RIV_pinkerton_voting_enclave:0 "Горацій Пінкертон голосує §Gза§! втручання"
 
- RIV_pinkerton_leader_picture:0 "£GFX_RIV_Pinkerton"
+ RIV_convince_danvers_easy_decision:0 "Переконати §OЛану Денверс§!"
+ RIV_convince_danvers_easy_decision_desc:0 "Лана Денверс наразі неохоче підтримує поточну пропозицію Ради, але просто послабивши заходи з мобілізації, ми зможемо переконати її, що наші люди у безпеці."
+ RIV_convince_danvers_normal_decision:0 "Переконати §OЛану Денверс§!"
+ RIV_convince_danvers_normal_decision_desc:0 "Лана Денверс наразі дуже неохоче підтримує поточну пропозицію Ради, але значно послабивши заходи з мобілізації, ми зможемо переконати її, що наші люди у безпеці."
 
- RIV_lily_leader_picture:0 "£GFX_RIV_Lily"
+ RIV_convince_harkness_easy_decision:0 "Переконати §OГаркнесса§!"
+ RIV_convince_harkness_easy_decision_desc:0 "Гаркнесс не дуже в захваті від нашої поточної пропозиції, але пообіцявши дотримуватися менш агресивної позиції в майбутньому, ми зможемо забезпечити його підтримку."
+ RIV_convince_harkness_normal_decision:0 "Переконати §OГаркнесса§!"
+ RIV_convince_harkness_normal_decision_desc:0 "Гаркнесс занепокоєний нашою поточною пропозицією, але пообіцявши дотримуватися значно менш агресивної позиції в майбутньому, ми зможемо забезпечити його підтримку."
 
- RIV_harkness_leader_name:0 "          Harkness       "
+ RIV_convince_seagrave_easy_decision:0 "Переконати §GСігрейва Голмса§!"
+ RIV_convince_seagrave_easy_decision_desc:0 "Сігрейв хвилюється, як наша пропозиція вплине на Рівет-Сіті, але додаткові інвестиції в обслуговування та ремонт мають довести йому наші добрі наміри."
+ RIV_convince_seagrave_normal_decision:0 "Переконати §GСігрейва Голмса§!"
+ RIV_convince_seagrave_normal_decision_desc:0 "Сігрейв дуже хвилюється, як наша пропозиція вплине на Рівет-Сіті, але суттєві інвестиції в обслуговування та ремонт мають довести йому наші добрі наміри."
 
- RIV_danvers_leader_name:0 "       Lana Danvers    "
+ RIV_convince_bannon_easy_decision:0 "Переконати §GБеннона§!"
+ RIV_convince_bannon_easy_decision_desc:0 "Беннон стверджує, що поточна пропозиція недостатньо враховує його інтереси. Невеликий хабар (на який він, ймовірно, і розраховує) має показати йому всі переваги."
+ RIV_convince_bannon_normal_decision:0 "Переконати §GБеннона§!"
+ RIV_convince_bannon_normal_decision_desc:0 "Беннон стверджує, що поточна пропозиція суперечить його інтересам. Солідний хабар (на який він, ймовірно, і розраховує) має показати йому всі переваги."
 
- RIV_bannon_leader_name:0 "         Bannon        "
+ RIV_convince_pinkerton_easy_decision:0 "Переконати §CГорація Пінкертона§!"
+ RIV_convince_pinkerton_easy_decision_desc:0 "Пінкертон занепокоєний наслідками нашої пропозиції, але виказавши підтримку його власним цілям, ми покажемо, що ми на його боці."
+ RIV_convince_pinkerton_normal_decision:0 "Переконати §CГорація Пінкертона§!"
+ RIV_convince_pinkerton_normal_decision_desc:0 "Пінкертон серйозно занепокоєний наслідками нашої пропозиції, але виказавши значну підтримку його власним цілям, ми покажемо, що ми на його боці."
 
- RIV_seagrave_leader_name:0 "   Seagrave Holmes   "
+ RIV_convince_li_easy_decision:0 "Переконати §CМедісон Лі§!"
+ RIV_convince_li_easy_decision_desc:0 "Медісон Лі не впевнена у правильності напрямку нашої пропозиції, але спрямувавши трохи більше фінансування на її наукові проєкти, ми зможемо отримати її підтримку."
+ RIV_convince_li_normal_decision:0 "Переконати §CМедісон Лі§!"
+ RIV_convince_li_normal_decision_desc:0 "Медісон Лі занепокоєна напрямком нашої пропозиції, але спрямувавши значне фінансування на її наукові проєкти, ми зможемо отримати її підтримку."
 
- RIV_li_leader_name:0 "       Madison Li"
-
- RIV_pinkerton_leader_name:0 "  Horace Pinkerton"
-
- RIV_lily_leader_name:0 "    Lillian Granger"
-
-
- RIV_enclave_decision:0 "\n\n\nThe Decision currently on the table for the Council has the potential to be the greatest decision they've had to make in decades: the matter of intervention in the growing conflict between §YThe Brotherhood of Steel§! and §BThe Enclave§!. We cannot know what each nation has planned for us, but we do know that §Bthe Enclave§! have been harrassing our caravans and threatening our citizens. Between the two options, it seems §YThe Brotherhood§! have better intentions towards us, but that doesn't mean we should intervene on their side. Our council remains divided on the issue.\n\n§OSecurity representative§! [RIV_security_representative_view_enclave]\n§GCivilian representative§! [RIV_civilian_representative_view_enclave]\n§CScience representative§! [RIV_science_representative_view_enclave]"
-
- RIV_refugee_decision:0 "\n\n\nWhile we have decided on a policy of non-intervention in the war between the Brotherhood and the Enclave, the war has not left us untouched. The political turmoil in the area has meant that hudreds if not thousands of refugees are travelling and looking for somewhere safe. Now the Council must decide how to deal with these refugees.\n\n§OSecurity representative§! [RIV_security_representative_view_refugees]\n§GCivilian representative§! [RIV_civilian_representative_view_refugees]\n§CScience representative§! [RIV_science_representative_view_refugees]"
-
- RIV_no_decision:0 ""
-
-
-
- riv_vote_on_the_enclave:0 "Deadline for the Vote on the §BEnclave§!"
-
-
- RIV_harkness_not_voting_yet_enclave:0 "Harkness is voting §Ragainst§! intervention, but can be persuaded"
-
- RIV_harkness_voting_enclave:0 "Harkness is voting §Gfor§! intervention"
-
- RIV_danvers_not_voting_yet_enclave:0 "Lana Danvers is voting §Ragainst§! intervention, but can be persuaded"
-
- RIV_danvers_voting_enclave:0 "Lana Danvers is voting §Gfor§! intervention"
-
- RIV_bannon_not_voting_yet_enclave:0 "Bannon is voting §Ragainst§! intervention, but can be persuaded"
-
- RIV_bannon_voting_enclave:0 "Bannon is voting §Gfor§! intervention"
-
- RIV_seagrave_voting_enclave:0 "Seagrave Holmes is voting §Gfor§! intervention"
-
- RIV_li_not_voting_enclave:0 "Madison Li is voting §Ragainst§! intervention, §Rand will not change her mind§!"
-
- RIV_pinkerton_not_voting_yet_enclave:0 "Horace Pinkerton is voting §Ragainst§! intervention, but can be persuaded"
-
- RIV_pinkerton_voting_enclave:0 "Horace Pinkerton is voting §Gfor§! intervention"
-
-
- RIV_convince_danvers_easy_decision:0 "Convince §OLana Danvers§!"
- RIV_convince_danvers_easy_decision_desc:0 "Lana Danvers is currently reluctant to support the proposal facing the Council right now, but by simply dialing back conscription efforts we can convince her that our people are safe."
- RIV_convince_danvers_normal_decision:0 "Convince §OLana Danvers§!"
- RIV_convince_danvers_normal_decision_desc:0 "Lana Danvers is currently very reluctant to support the proposal facing the Council right now, but by dialing back conscription efforts a fair bit we can convince her that our people are safe."
-
- RIV_convince_harkness_easy_decision:0 "Convince §OHarkness§!"
- RIV_convince_harkness_easy_decision_desc:0 "Harkness isn't very enthusiastic about our current proposal, but by promising to take a less aggressive stance in the future we can ensure we have his support."
- RIV_convince_harkness_normal_decision:0 "Convince §OHarkness§!"
- RIV_convince_harkness_normal_decision_desc:0 "Harkness is concerned about our current proposal, but by promising to take a much less aggressive stance in the future we can ensure we have his support."
-
- RIV_convince_seagrave_easy_decision:0 "Convince §GSeagrave Holmes§!"
- RIV_convince_seagrave_easy_decision_desc:0 "Seagrave is worried about how our proposal will affect Rivet City, but by investing further into maintenance and repair we should be able to show our intentions are good."
- RIV_convince_seagrave_normal_decision:0 "Convince §GSeagrave Holmes§!"
- RIV_convince_seagrave_normal_decision_desc:0 "Seagrave is very worried about how our proposal will affect Rivet City, but by significantly investing further into maintenance and repair we should be able to show our intentions are good."
-
- RIV_convince_bannon_easy_decision:0 "Convince §GBannon§!"
- RIV_convince_bannon_easy_decision_desc:0 "Bannon claims that the current proposal doesn't sufficiently support his interests. A small bribe (that he's probably angling for anyway) ought to show him the benefits."
- RIV_convince_bannon_normal_decision:0 "Convince §GBannon§!"
- RIV_convince_bannon_normal_decision_desc:0 "Bannon claims that the current proposal works against his interests. A large bribe (that he's probably angling for anyway) ought to show him the benefits."
-
- RIV_convince_pinkerton_easy_decision:0 "Convince §CHorace Pinkerton§!"
- RIV_convince_pinkerton_easy_decision_desc:0 "Pinkerton is concerned about the effect of our current proposal, but by showing a bit of support for his goals we can show him that we're on his side."
- RIV_convince_pinkerton_normal_decision:0 "Convince §CHorace Pinkerton§!"
- RIV_convince_pinkerton_normal_decision_desc:0 "Pinkerton is rather concerned about the effect of our current proposal, but by showing plenty of support for his goals we can show him that we're on his side."
-
- RIV_convince_li_easy_decision:0 "Convince §CMadison Li§!"
- RIV_convince_li_easy_decision_desc:0 "Madison Li is uncertain about the direction that our current proposal takes us, but by sending a bit more funding towards her scientific endeavours we can gain her support"
- RIV_convince_li_normal_decision:0 "Convince §CMadison Li§!"
- RIV_convince_li_normal_decision_desc:0 "Madison Li is worried about the direction that our current proposal takes us, but by sending more funding towards her scientific endeavours we can gain her support"
-
- RIV_convince_lily_easy_decision:0 "Convince §CLillian Granger§!"
- RIV_convince_lily_easy_decision_desc:0 "Lillian is uncertain about our current proposal, by sending her a bit more equipment to carry out her medical studies we can ensure her support."
- RIV_convince_lily_normal_decision:0 "Convince §CLillian Granger§!"
- RIV_convince_lily_normal_decision_desc:0 "Lillian doesn't like our current proposal, but by sending her more equipment to carry out her medical studies we can ensure her support."
-
-
- riv_vote_on_the_enclave:0 "Vote on the Enclave"
- riv_vote_on_people_over_profit:0 "Vote on the People over Profit motion"
- riv_vote_on_raising_prices:0 "Vote on Raising Food Prices"
- riv_vote_on_improving_defences:0 "Vote on Improving the City's Defences"
- riv_vote_on_outside_scientists:0 "Vote on Allowing Outside Scientists"
- riv_vote_on_maintenance_priority:0 "Vote on Prioritising Maintenance"
- riv_vote_on_bridge_tax:0 "Vote on Implementing a Bridge Tax"
- riv_vote_on_risks_of_progress:0 "Vote on Permitting the Risks of Progress"
- riv_vote_on_radaway_production:0 "Vote on Expanding RadAway Production"
- riv_vote_on_harbouring_railroad:0 "Vote on Harbouring the Commonwealth Railroad"
- riv_vote_on_asylum_seekers:0 "Vote on Allowing Asylum Seekers"
- riv_vote_on_priority_treatment:0 "Vote on Prioritising Support for Hangar Deck Citizens"
- riv_vote_on_weapons_licensing:0 "Vote on Weapon Licenses"
- riv_vote_on_closing_sections:0 "Vote on Closing Dangerous Sections"
- riv_vote_on_equal_treatment:0 "Vote on Equal Support for All Citizens"
- riv_vote_on_the_enclave_winning:0 "Vote on How to Deal with the Enclave's Victory"
- riv_vote_on_the_brotherhood_winning:0 "Vote on How to Deal with the Brotherhood's Victory"
-
-
-
-
-
- RIV_trade_caravans_decision_category:0 "Rivet City Trade Caravans"
- RIV_trade_caravans_decision_category_desc:0 "Rivet City is not just any city, it's the greatest city in the Capitol Wasteland. And, like any great city, it is built off the back of extensive trade with the surrounding area. Rivet City produces §Gfresh fruit and vegetables§!, perhaps the only source in the Capitol Wasteland, and this produce is exported to the wider wasteland for a relatively low cost, bringing not just caps but goodwill and friendship. \n\nHowever, these caravans must contend with several dangers; §Ysuper mutants§!, §Yraiders§!, §Yferal ghouls§! and §Yslavers§! to name a few[RIV_Enclave_existence]. With some effort these threats could be removed, or at the very least weakened, and our caravans will be more likely to make it to their destination.\n\nCurrently, [?RIV_despatched_caravans] caravans have been sent out, [?RIV_waiting_caravans] are at home, and we can have a maximum of [?RIV_caravan_maximum] caravans.\n\n§YRaider threat level:§! [RIV_Raider_threat_level]\n§YSuper Mutant threat level:§! [RIV_Super_Mutant_threat_level]\n§YFeral Ghoul threat level:§! [RIV_Feral_threat_level]\n§BEnclave§! §Ythreat level:§! [RIV_Enclave_threat_level][RIV_trade_dependency][RIV_replicated_man_active_desc]"
+ RIV_convince_lily_easy_decision:0 "Переконати §CЛіліан Грейнджер§!"
+ RIV_convince_lily_easy_decision_desc:0 "Ліліан не впевнена щодо нашої поточної пропозиції; надавши їй трохи більше обладнання для медичних досліджень, ми забезпечимо її підтримку."
+ RIV_convince_lily_normal_decision:0 "Переконати §CЛіліан Грейнджер§!"
+ RIV_convince_lily_normal_decision_desc:0 "Ліліан не подобається наша поточна пропозиція, але надавши їй більше обладнання для медичних досліджень, ми забезпечимо її підтримку."
  
- RIV_the_enclave_is_a_threat:0 ", not to mention the depredations of the vicious Enclave"
+ riv_vote_on_the_enclave:0 "Голосування щодо Анклаву"
+ riv_vote_on_people_over_profit:0 "Голосування щодо ініціативи «Люди важливіші за прибуток»"
+ riv_vote_on_raising_prices:0 "Голосування щодо підвищення цін на їжу"
+ riv_vote_on_improving_defences:0 "Голосування щодо покращення оборони міста"
+ riv_vote_on_outside_scientists:0 "Голосування щодо допуску сторонніх вчених"
+ riv_vote_on_maintenance_priority:0 "Голосування щодо пріоритетного обслуговування"
+ riv_vote_on_bridge_tax:0 "Голосування щодо введення податку на міст"
+ riv_vote_on_risks_of_progress:0 "Голосування щодо допустимих ризиків прогресу"
+ riv_vote_on_radaway_production:0 "Голосування щодо розширення виробництва Рад-Екс"
+ riv_vote_on_harbouring_railroad:0 "Голосування щодо переховування Підпілля Співдружності"
+ riv_vote_on_asylum_seekers:0 "Голосування щодо прийому шукачів притулку"
+ riv_vote_on_priority_treatment:0 "Голосування щодо пріоритетної підтримки мешканців ангарної палуби"
+ riv_vote_on_weapons_licensing:0 "Голосування щодо ліцензування зброї"
+ riv_vote_on_closing_sections:0 "Голосування щодо закриття небезпечних секцій"
+ riv_vote_on_equal_treatment:0 "Голосування щодо рівної підтримки всіх громадян"
+ riv_vote_on_the_enclave_winning:0 "Голосування щодо дій у разі перемоги Анклаву"
+ riv_vote_on_the_brotherhood_winning:0 "Голосування щодо дій у разі перемоги Братства"
 
- RIV_integrating_settlements_loc:0 "\n\n\n\nNow that we've completed §CProject Purity§!, these trade missions will also pull these settlements further to us. If we can gain enough influence in a settlement, we may be able to integrate them peacefully.\n\n§OIf we should fail to integrate any of these settlements peacefully, we may be forced to take more drastic action.§!\n\n\nOur influence in §gMegaton§! is: [RIV_megaton_influence]\n\n§YBig Town§! will follow the lead of their larger neighbour, §gMegaton§!\n\n[RIV_underworld_influence]\n\nOur influence in §GCanterbury Commons§! is: [RIV_canterbury_commons_influence]\n\nOur influence in §8Tenpenny Tower§! is: [RIV_tenpenny_tower_influence]\n\n§RPoint§! §WLookout§! is, for all intents and purposes, §Runcontrollable§!\n\n[RIV_arefu_influence]\n\n[RIV_dave_influence]\n"
+ RIV_trade_caravans_decision_category:0 "Торгові каравани Рівет-Сіті"
+ RIV_trade_caravans_decision_category_desc:0 "Рівет-Сіті — це не просто місто, це найвеличніше місто на всій Столичній Пустці. І, як будь-яке велике місто, воно тримається на розгалуженій торгівлі з навколишніми землями. Рівет-Сіті виробляє §Gсвіжі фрукти та овочі§! — чи не єдине джерело на всю Пустку. Ця продукція експортується за відносно низьку ціну, приносячи не лише кришки, а й прихильність та дружбу.\n\nОднак каравани мусять протистояти багатьом загрозам: §Yсупермутантам§!, §Yрейдерам§!, §Yдиким гулям§! та §Yработорговцям§!, і це лише деякі з них[RIV_Enclave_existence]. Доклавши зусиль, ці загрози можна усунути або бодай послабити, щоб наші каравани мали більше шансів дістатися цілі.\n\nНаразі відправлено [?RIV_despatched_caravans] караванів, [?RIV_waiting_caravans] перебувають у місті. Максимальна кількість караванів: [?RIV_caravan_maximum].\n\n§YРівень загрози рейдерів:§! [RIV_Raider_threat_level]\n§YРівень загрози супермутантів:§! [RIV_Super_Mutant_threat_level]\n§YРівень загрози диких гулів:§! [RIV_Feral_threat_level]\n§BАнклав§!, §Yрівень загрози:§! [RIV_Enclave_threat_level][RIV_trade_dependency][RIV_replicated_man_active_desc]"
+ 
+ RIV_the_enclave_is_a_threat:0 ", не кажучи вже про напади жорстокого Анклаву"
 
- RIV_form_trade_caravan:0 "Form a new caravan"  
+ RIV_integrating_settlements_loc:0 "\n\n\n\nТепер, коли ми завершили §CПроєкт «Чистота»§!, ці торгові місії також будуть сильніше прив'язувати поселення до нас. Якщо ми здобудемо достатньо впливу, ми зможемо інтегрувати їх мирним шляхом.\n\n§OЯкщо нам не вдасться інтегрувати ці поселення мирно, ми можемо бути змушені вдатися до рішучіших дій.§!\n\n\nНаш вплив у §gМегатонні§!: [RIV_megaton_influence]\n\n§YБіг-Таун§! піде за своїм великим сусідом, §gМегатонною§!\n\n[RIV_underworld_influence]\n\nНаш вплив у §GКентербері-Коммонс§!: [RIV_canterbury_commons_influence]\n\nНаш вплив у §8Тенпенні-Тауер§!: [RIV_tenpenny_tower_influence]\n\n§RПойнт§!-§WЛукаут§!, фактично, є §Rнепідконтрольним§!\n\n[RIV_arefu_influence]\n\n[RIV_dave_influence]\n"
 
- RIV_general_trade_mission:0 "General trade mission"
- RIV_megaton_trade_mission:0 "Megaton trade mission"
- RIV_big_town_trade_mission:0 "Big Town trade mission"
- RIV_underworld_trade_mission:0 "Underworld trade mission"
- RIV_canterbury_commons_trade_mission:0 "Canterbury Commons trade mission"
- RIV_tenpenny_trade_mission:0 "Tenpenny Tower trade mission"
- RIV_point_lookout_trade_mission:0 "Point Lookout trade mission"
- RIV_arefu_trade_mission:0 "Arefu trade mission"
- RIV_republic_of_dave_trade_mission:0 "Republic of Dave trade mission"
- RIV_evergreen_mills_trade_mission:0 "Evergreen Mills trade mission"
- RIV_delmarva_trade_mission:0 "Delmarva States trade mission"
+ RIV_form_trade_caravan:0 "Сформувати новий караван"  
 
+ RIV_general_trade_mission:0 "Загальна торгова місія"
+ RIV_megaton_trade_mission:0 "Торгова місія до Мегатонни"
+ RIV_big_town_trade_mission:0 "Торгова місія до Біг-Тауна"
+ RIV_underworld_trade_mission:0 "Торгова місія до Підземелля"
+ RIV_canterbury_commons_trade_mission:0 "Торгова місія до Кентербері-Коммонс"
+ RIV_tenpenny_trade_mission:0 "Торгова місія до Тенпенні-Тауер"
+ RIV_point_lookout_trade_mission:0 "Торгова місія до Пойнт-Лукаут"
+ RIV_arefu_trade_mission:0 "Торгова місія до Арефу"
+ RIV_republic_of_dave_trade_mission:0 "Торгова місія до Республіки Дейва"
+ RIV_evergreen_mills_trade_mission:0 "Торгова місія до Евергрін-Міллс"
+ RIV_delmarva_trade_mission:0 "Торгова місія до штатів Делмарва"
 
- RIV_patrol_trade_routes:0 "Patrol trade routes"
- RIV_hire_reillys_rangers:0 "Hire §GReilly's Rangers§!"
- RIV_hire_reillys_rangers_desc:0 "Reilly's Rangers might be an expensive mercenary outfit, but they've got a good reputation and are generally well liked in Rivet City."
- RIV_hire_talon_company:0 "Hire §bTalon Company§!"
- RIV_hire_talon_company_desc:0 "Talon Company will always get the job done, but they're surrounded by rumours and our people simply don't trust them."
+ RIV_patrol_trade_routes:0 "Патрулювати торгові шляхи"
+ RIV_hire_reillys_rangers:0 "Найняти §GРейнджерів Райлі§!"
+ RIV_hire_reillys_rangers_desc:0 "Рейнджери Райлі — дорогий загін найманців, але вони мають гарну репутацію, і в Рівет-Сіті їх загалом поважають."
+ RIV_hire_talon_company:0 "Найняти компанію §b«Кіготь»§!"
+ RIV_hire_talon_company_desc:0 "Компанія «Кіготь» завжди виконує роботу, але вони оповиті чутками, і наші люди просто не довіряють їм."
 
+ RIV_threat_text_nonexistent:0 "§GВідсутня§!"
+ RIV_threat_text_very_low:0 "§GНадзвичайно низька§!"
+ RIV_threat_text_low:0 "§7Низька§!"
+ RIV_threat_text_normal:0 "§YПомірна§!"
+ RIV_threat_text_high:0 "§OВисока§!"
+ RIV_threat_text_very_high:0 "§RЕкстремальна§!"
 
- RIV_threat_text_nonexistent:0 "§GNon-Existent§!"
- RIV_threat_text_very_low:0 "§GExtremely low§!"
- RIV_threat_text_low:0 "§7Low§!"
- RIV_threat_text_normal:0 "§YModerate§!"
- RIV_threat_text_high:0 "§OHigh§!"
- RIV_threat_text_very_high:0 "§RExtreme§!"
+ RIV_underworld_unclaimable:0 "§LПідземелля§! знаходиться занадто глибоко на території Братства, воно §Rнедоступне для інтеграції§!"
+ RIV_arefu_unclaimable:0 "Торговці Рівет-Сіті ще не проклали маршрути до §tАрефу§!, воно §Oтимчасово недоступне§!"
+ RIV_dave_unclaimable:0 "Торговці Рівет-Сіті ще не проклали маршрути до §BРеспубліки Дейва§!, вона §Oтимчасово недоступна§!"
 
- RIV_underworld_unclaimable:0 "The §LUnderworld§! is too deep in Brotherhood territory, it is §Runclaimable§!"
- RIV_arefu_unclaimable:0 "Rivet City traders have not mapped out routes to §tArefu§!, it is §Otemporarily unclaimable§!"
- RIV_dave_unclaimable:0 "Rivet City traders have not mapped out routes to the §BRepublic of Dave§!, it is §Otemporarily unclaimable§!"
-
-
- RIV_influence_integrated:0 "§BIntegrated§!"
- RIV_cant_influence:0 "§RUnavailable§!"
-
+ RIV_influence_integrated:0 "§BІнтегровано§!"
+ RIV_cant_influence:0 "§RНедоступно§!"
 
  RIV_megaton_influence_ongoing:0 "[?RIV.RIV_megaton_influence_variable]/10"
- RIV_underworld_influence_ongoing:0 "Our influence in §LUnderworld§! is: [?RIV.RIV_underworld_influence_variable]/10"
+ RIV_underworld_influence_ongoing:0 "Наш вплив у §LПідземеллі§!: [?RIV.RIV_underworld_influence_variable]/10"
  RIV_canterbury_commons_influence_ongoing:0 "[?RIV.RIV_canterbury_commons_influence_variable]/10"
  RIV_tenpenny_influence_ongoing:0 "[?RIV.RIV_tenpenny_influence_variable]/10"
- RIV_arefu_influence_ongoing:0 "Our influence in §tArefu§! is: [?RIV.RIV_arefu_influence_variable]/10"
- RIV_dave_influence_ongoing:0 "Our influence in §Bthe Republic of Dave§! is: [?RIV.RIV_dave_influence_variable]/10"
+ RIV_arefu_influence_ongoing:0 "Наш вплив у §tАрефу§!: [?RIV.RIV_arefu_influence_variable]/10"
+ RIV_dave_influence_ongoing:0 "Наш вплив у §BРеспубліці Дейва§!: [?RIV.RIV_dave_influence_variable]/10"
 
- RIV_replicated_man_desc:0 "\n\nClues to finding §CThe Replicated Man§!: [?RIV_replicated_man_clues]/4"
+ RIV_replicated_man_desc:0 "\n\nДокази для пошуку §CШтучної людини§!: [?RIV_replicated_man_clues]/4"
 
+ RIV_outsider_influence_decision_category:0 "Вплив Рівет-Сіті"
+ RIV_outsider_influence_decision_category_desc:0 "Рівет-Сіті завершило Проєкт «Чистота» і прагне об'єднати решту округу Колумбія під своїм прапором. Вони роблять це хитро: дарують воду Пустці та переконують поселенців у своїх добрих намірах. Незалежно від їхніх справжніх цілей, це працює, і мешканці поселень по всьому округу прагнуть до тіснішої співпраці та навіть інтеграції з Рівет-Сіті. Ми повинні зупинити цей вплив. Хоча припинення постачання води може зашкодити нашим громадянам, ми маємо захистити наш суверенітет.\n\n§OНавіть так, це може бути лише початком. Якщо Рівет-Сіті зазнає невдачі, на горизонті може постати війна.§!\n\n\nВплив Рівет-Сіті у §gМегатонні§!: [RIV_megaton_influence]\n\n§YБіг-Таун§! піде за своїм великим сусідом, §gМегатонною§!.\n\n[RIV_underworld_influence]\n\nВплив Рівет-Сіті у §GКентербері-Коммонс§!: [RIV_canterbury_commons_influence]\n\nВплив Рівет-Сіті у §8Тенпенні-Тауер§!: [RIV_tenpenny_tower_influence]\n\n[RIV_arefu_influence]\n\n[RIV_dave_influence]"
 
+ riv_political_machinations:0 "Політичні махінації в [FROM.GetName]"
+ riv_water_payments:0 "Виплати за воду для [FROM.GetName]"
+ riv_purifiers_constructed:0 "Маломасштабне очищення в [FROM.GetName]"
+ riv_political_entrenchment:0 "Політичне закріплення в [FROM.GetName]"
 
+ RIV_CPS_decision_category:0 "Товариство збереження Капітолію"
 
- RIV_outsider_influence_decision_category:0 "Rivet City's Influence"
- RIV_outsider_influence_decision_category_desc:0 "Rivet City has now completed Project Purity, and seeks to unite the rest of DC behind their influence. They do this subtly: bringing gifts of water to the wastes and convincing settlers of their good intentions. Regardless of their actual intentions, it is working, and people in settlements across DC seek greater cooperation and even integration with Rivet City. It is up to us to stop their influence. While cutting off their water may harm our citizens, we must protect our sovereignty.\n\n§OEven then, this may just be the beginning. If Rivet City fails, then war may be on the horizon.§!\n\n\nRivet Citys's influence in §gMegaton§! is: [RIV_megaton_influence]\n\n§YBig Town§! will follow the lead of their larger neighbour, §gMegaton§!.\n\n[RIV_underworld_influence]\n\nRivet City's influence in §GCanterbury Commons§! is: [RIV_canterbury_commons_influence]\n\nRivet City's influence in §8Tenpenny Tower§! is: [RIV_tenpenny_tower_influence]\n\n[RIV_arefu_influence]\n\n[RIV_dave_influence]"
+ riv_bill_of_rights_tt:0 "§YБілль про права США§!\n\nБілль про права — це документ, що містить перші 10 поправок до Конституції США, ратифікованих у 1791 році. Він також містить інші статті, не всі з яких були прийняті так швидко.\n\nФактор політичної влади: §G+10%§!\nПрава громадянина: §G+25%§!"
+ riv_constitution_tt:0 "§YКонституція Сполучених Штатів§!\n\nКонституція США визначила основні та фундаментальні закони Сполучених Штатів Америки і стала основою їхньої правової та державної системи. Ратифікована у 1789 році.\n\nПоріг капітуляції: §G+20%§!\nСтабільність: §G+1%§!\nАргументи у Верховному суді: §R+25%§!"
+ riv_declaration_of_independence_tt:0 "§YДекларація незалежності США§!\n\nДекларація незалежності США була написана для проголошення незалежності 13 американських колоній від британського правління; прийнята 4 липня 1776 року.\n\nАтака на нац. території: §G+2.5%§!\nОборона на нац. території: §G+2.5%§!\nБританський вплив: §G-75%§!"
+ riv_magna_carta_tt:0 "§YВелика хартія вольностей§!\n\nВелика хартія вольностей — це набір обмежень влади англійського короля, підписаний у 1215 році. Стала основою британської, а згодом і американської правових систем.\n\nСтабільність: §G+2.5%§!\nВлада короля: §G-50%§!"
+ riv_monroe_doctrine_tt:0 "§YДоктрина Монро§!\n\nПредставлена у 1823 році президентом Джеймсом Монро як попередження європейським державам не втручатися у справи Америки. Це закріпило вплив США у регіоні на століття.\n\nДрейф ідеології «Народ»: §G+0.02§!\nФактор торгової думки: §Y+5%§!\nЄвропейське втручання: §G-50%§!"
+ riv_war_dec_on_china_tt:0 "§YОголошення війни Китаю§!\n\nОголошення війни Китаю було видане через вторгнення Китаю на Аляску у 2066 році, що призвело до Американо-китайської війни, яка закінчилася Великою війною.\n\nПідтримка війни: §G+5%§!\nКомунізм на американській землі: §G-90%§!"
+ riv_war_dec_on_germany_tt:0 "§YОголошення війни Німеччині§!\n\nУ 1941 році Конгрес США оголосив війну нацистській Німеччині, що ознаменувало вступ США у Другу світову війну на європейському театрі дій.\n\nФактор призову: §G+2%§!\nТривалість існування нацистської Німеччини: §G-90%§!"
+ riv_gettysburg_address_tt:0 "§YГеттісберзька промова§!\n\nПромова Авраама Лінкольна 1863 року, виголошена за кілька місяців після вирішальної битви під Геттісбергом на честь загиблих у битві та війні загалом.\n\nСтабільність: §G+1%§!\nПідтримка війни: §G+1%§!\nПромови, вкрадені у Лінкольна: §G+300%§!"
 
-
- riv_political_machinations:0 "Political machinations in [FROM.GetName]"
- riv_water_payments:0 "Water payments to [FROM.GetName]"
- riv_purifiers_constructed:0 "Small scale purification in [FROM.GetName]"
- riv_political_entrenchment:0 "Political entrenchment in [FROM.GetName]"
-
-
-
-
-
-
-
-
-
-
-
-
- RIV_CPS_decision_category:0 "The Capitol Preservation Society"
-
- riv_bill_of_rights_tt:0 "§YThe United States Bill of Rights§!\n\nThe Bill of Rights is a document containing the first 10 amendments to the United States Constitution, ratified in 1791. It also contains several other articles, however, not all of which were ratified so quickly.\n\nPolitical Power Factor: §G+10%§!\nRights of the Citizen: §G+25%§!"
- riv_constitution_tt:0 "§YThe Constitution of the United States§!\n\nThe Constitution of the United States defined the basic and fundamental laws behind the United States of America, and acted as foundation for its legal and governmental system. It was ratified in 1789 and was amended several times.\n\nSurrender Limit: §G+20%§!\nStability: §G+1%§!\nSupreme Court Arguments: §R+25%§!"
- riv_declaration_of_independence_tt:0 "§YThe United States Declaration of Independence§!\n\nThe United States Declaration of Independence was written to announce the independence of the newly united 13 American colonies from British rule, adopted on the 4th of July 1776 during the American Revolutionary War.\n\nAttack on Core States: §G+2.5%§!\nDefence on Core States: §G+2.5%§!\nBritish Influence: §G-75%§!"
- riv_magna_carta_tt:0 "§YThe Magna Carta§!\n\nThe Magna Carta was a set of limitations on the power of the King of England signed in 1215, mostly to protect the rebel barons of the time. However, it became foundational to the British, then the American, legal systems.\n\nStability: §G+2.5%§!\nPower of the King: §G-50%§!"
- riv_monroe_doctrine_tt:0 "§YThe Monroe Doctrine§!\n\nThe Monroe Doctrine was presented in 1823 by President James Monroe warning the European powers not to interfere in the Americas. This put the Americas under the USA's sphere of influence and affected foreign policy for centuries.\n\nPeople Drift: §G+0.02§!\nTrade Opinion Factor: §Y+5%§!\nEuropean Interference: §G-50%§!"
- riv_war_dec_on_china_tt:0 "§YThe United States Declaration of War Against China§!\n\nThe United States Declaration of War on China was created due to China's invasion of Alaska in 2066, leading to the Sino-American War that ended in the Great War. It was the last notable document passed by the United States Congress before it's end.\n\nWar Support: §G+5%§!\nCommunism on American Soil: §G-90%§!"
- riv_war_dec_on_germany_tt:0 "§YThe United States Declaration of War Against Germany§!\n\nIn 1941, the United States Congress declared war on Nazi Germany with the encouragement of President Franklin D. Roosevelt. This marked the entrance of the United States into the European Theatre of World War Two.\n\nConscription Factor: §G+2%§!\nNazi Germany Lifespan: §G-90%§!"
- riv_gettysburg_address_tt:0 "§YThe Gettysburg Address§!\n\nThe Gettysburg Address was a speech spoken by Abraham Lincoln in 1863, a few months after the decisive Battle of Gettysburg. The speech was spoken in memory of those who had died in the battle, and the war as a whole.\n\nStability: §G+1%§!\nWar Support: §G+1%§!\nSpeeches stealing from Lincoln: §G+300%§!"
-
- riv_hunting_for_artifacts:0 "Search for Pre-War artifacts"
+ riv_hunting_for_artifacts:0 "Пошук довоєнних артефактів"
