@@ -113,7 +113,7 @@
   FOCUS_FILTER_ECR_WASTELANDER:0 "Співчутливе Братство"
 
   ###BOP###
-   BLN_loyalty_struggle:0 "Розкол у нашому Братстві"
+  BLN_loyalty_struggle:0 "Розкол у нашому Братстві"
   BLN_loyalist_influence:0 "Прихильність Кодексу"
   BLN_wastelander_influence:0 "Підтримка мешканців Пустки"
   BLN_loyalty_category:0 "Рішення про лояльність"
