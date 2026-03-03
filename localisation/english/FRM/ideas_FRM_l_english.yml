@@ -1,27 +1,27 @@
 ﻿l_english:
-  FRM_sidelined_civilian_government:0 "Sidelined Civilian Government"
-  FRM_sidelined_civilian_government_desc:0 "The Fire Marshalls do have a civilian government... but looking at them, you'd hardly know they exist."
+  FRM_sidelined_civilian_government:0 "Цивільний уряд відсунуто на задвірки"
+  FRM_sidelined_civilian_government_desc:0 "У Маршалів Вогню справді є цивільний уряд... але, дивлячись на них, навряд чи можна здогадатися, що він існує."
 
-  FRM_fires_in_the_swamp:0 "§OFires in the Swamp§!"
-  FRM_fires_in_the_swamp_desc:0 "To keep the swamp from engulfing their territory, the Fire Marshalls have become masters of the flamer, and constantly undertake controlled burns. Their mastery of fire has become truly admirable, but one must wonder.\n\nWill they keep to their noble goal, or will they instead choose to §Rwatch the world burn§!?"
+  FRM_fires_in_the_swamp:0 "§OВогні в болоті§!"
+  FRM_fires_in_the_swamp_desc:0 "Щоб болото не поглинуло їхню територію, Маршали Вогню стали майстрами вогнеметів і постійно проводять контрольовані підпали. Їхня майстерність володіння вогнем справді гідна захоплення, але не можна не замислитися.\n\nЧи залишаться вони вірними своїй благородній меті, чи вирішать §Rспостерігати, як горить світ§!?"
 
-  FRM_fire_marshalls:0 "§RThe Fire Marshalls§!"
-  FRM_fire_marshalls_desc:0 "Our §RMarshalls§! have cut their teeth against an unending foe for decades. They are elites in their usage of engineering and flamers, allowing them to quickly take and hold any position. Their tenacity serves them as they are often left surrounded by their enemy, fighting by the light of their flamers alone."
+  FRM_fire_marshalls:0 "§RМаршали Вогню§!"
+  FRM_fire_marshalls_desc:0 "Наші §RМаршали§! десятиліттями відточували свою майстерність у боротьбі з невпинним ворогом. Вони є елітою у використанні інженерних засобів та вогнеметів, що дозволяє їм швидко захоплювати та утримувати будь-які позиції. Їхня стійкість стає їм у пригоді, коли вони, оточені ворогом, б'ються при світлі лише своїх вогнеметів."
 
-  frm_rebuilt_universities:0 "Rebuilt Universities"
-  frm_rebuilt_universities_desc:0 ""
+  frm_rebuilt_universities:0 "Відбудовані університети"
+  frm_rebuilt_universities_desc:0 "З відновленням університетів Лінча, знання та освіта знову поширюються серед нашого народу, виховуючи нове покоління мислителів та інженерів."
 
-  frm_swamp_hub:0 "Swamp Hub"
-  frm_swamp_hub_desc:0 "Despite its location, Lynch is actually a nice place!"
+  frm_swamp_hub:0 "Болотяний осередок"
+  frm_swamp_hub_desc:0 "Незважаючи на своє розташування, Лінч насправді є приємним місцем! Торгівля, ремісництво та відносна безпека залучають сюди людей з усієї Вірджинії."
 
-  frm_swamp_research:0 "Swamp Research"
-  frm_swamp_research_desc:0 ""
+  frm_swamp_research:0 "Дослідження болота"
+  frm_swamp_research_desc:0 "Наші вчені та маршали ретельно вивчають болото, його флору, фауну та дивні аномалії, щоб краще зрозуміти цього ворога і знайти ще ефективніші способи боротьби з ним."
 
-  frm_swamp_destruction:0 "Swamp Destruction"
-  frm_swamp_destruction_desc:0 ""
+  frm_swamp_destruction:0 "Знищення болота"
+  frm_swamp_destruction_desc:0 "За допомогою систематичних підпалів, вирубки та осушення ми не просто стримуємо болото — ми знищуємо саму його суть, повертаючи землю для людей."
 
-  frm_watch_the_world_burn:0 "Watch the World Burn"
-  frm_watch_the_world_burn_desc:0 "This world has known enough despair and death. What's a little more despair and death, if on the other side there is peace?"
+  frm_watch_the_world_burn:0 "Спостерігати, як горить світ"
+  frm_watch_the_world_burn_desc:0 "Цей світ уже бачив достатньо розпачу та смерті. Що означає трохи більше розпачу та смерті, якщо по той бік на нас чекає мир?"
 
-  frm_virginias_salvation:0 "Virginia's Salvation"
-  frm_virginias_salvation_desc:0 "Virginia is saved, and the people prosper. Peace and plenty are the new rulers of Virginia."
+  frm_virginias_salvation:0 "Порятунок Вірджинії"
+  frm_virginias_salvation_desc:0 "Вірджинію врятовано, і люди процвітають. Мир і достаток — ось нові правителі Вірджинії."

@@ -1,194 +1,194 @@
 ﻿l_english:
 
-  NNC_people_party:0 "Chivalrics"
-  NNC_people_party_long:0 "The Chivalric Order"
-  NNC_elites_party:0 "Blackguards"
-  NNC_elites_party_long:0 "The Blackguards"
-  NNC_intellectuals_party:0 "Crusaders"
-  NNC_intellectuals_party_long:0 "The Crusaders"
-  NNC_ruler_party:0 "Loyalists"
-  NNC_ruler_party_long:0 "The Lancastrian Loyalists"
+  NNC_people_party:0 "Лицарство"
+  NNC_people_party_long:0 "Лицарський Орден"
+  NNC_elites_party:0 "Чорні Гвардійці"
+  NNC_elites_party_long:0 "Чорні Гвардійці"
+  NNC_intellectuals_party:0 "Хрестоносці"
+  NNC_intellectuals_party_long:0 "Хрестоносці"
+  NNC_ruler_party:0 "Лоялісти"
+  NNC_ruler_party_long:0 "Ланкастерські Лоялісти"
   
   ####NNC####
-  nnc_new_roundtable:0 "New Roundtable"
-  nnc_new_roundtable_desc:0 "In New New Castle, a great council of knights gather to discuss issues of the land. The equitable treatment of the voices of the knights does occasionally lead to squabbling, but overall it brings peace and order."
+  nnc_new_roundtable:0 "Новий Круглий Стіл"
+  nnc_new_roundtable_desc:0 "У Новому Нью-Каслі велика рада лицарів збирається для обговорення питань землі. Справедливе врахування думок лицарів іноді призводить до суперечок, але загалом це сприяє миру та порядку."
 
-  nnc_stuck_in_the_past:0 "Stuck in the Past"
-  nnc_stuck_in_the_past_desc:0 "Understandably, a group of guys running around pretending they are knights of old are not exactly quick to embrace new ideas or change."
+  nnc_stuck_in_the_past:0 "Застряглі в минулому"
+  nnc_stuck_in_the_past_desc:0 "Зрозуміло, що група хлопців, які бігають і вдають із себе лицарів давнини, не надто поспішають приймати нові ідеї чи зміни."
 
-  nnc_stuck_in_the_past2:0 "Honouring the Past"
-  nnc_stuck_in_the_past2_desc:0 "While one can honour and represent the path, keeping your head in the present is important. We can honour the legacy of knights of yore, while not neglecting the here and now."
+  nnc_stuck_in_the_past2:0 "Шанування минулого"
+  nnc_stuck_in_the_past2_desc:0 "Хоча можна шанувати та представляти шлях минулого, важливо зберігати ясність розуму в сьогоденні. Ми можемо поважати спадщину лицарів минулих часів, не забуваючи при цьому про сьогодення."
 
-  nnc_veteran_knights:0 "Veteran Knights"
-  nnc_veteran_knights_desc:0 "The Trog incursion of 2253 devastated the knights of New New Castle, but left behind a hardened and skilled core of veteran knights. The legacy of their experiences has carried to newer knights even to this day."
+  nnc_veteran_knights:0 "Лицарі-Ветерани"
+  nnc_veteran_knights_desc:0 "Вторгнення трогів у 2253 році спустошило лицарів Нового Нью-Касла, але залишило після себе загартоване та досвідчене ядро ветеранів. Спадок їхнього досвіду передається новим лицарям і донині."
 
-  NNC_peasant_levies:0 "Peasant Levies"
-  NNC_peasant_levies_desc:0 "Peasants have served in our army in a limited capacity for years, but the necessities of the modern day require more of them to enter the army. Unfortunately they're a disorganised rabble, but there are plenty of them."
+  NNC_peasant_levies:0 "Селянські повинності"
+  NNC_peasant_levies_desc:0 "Селяни вже багато років служать у нашій армії в обмеженому складі, але сучасні реалії вимагають більшого їх залучення. На жаль, вони являють собою розрізнену масу, проте їх дуже багато."
 
-  nnc_training_dummies_idea:0 "Training "Dummies""
-  nnc_training_dummies_idea_desc:0 "The Blackguards have begun training against live targets. While these targets are outlaws, criminals, and worse, it's still unpleasant to most people and there are the occasional innocents killed as well."
+  nnc_training_dummies_idea:0 "Тренувальні «Мішені»"
+  nnc_training_dummies_idea_desc:0 "Чорні Гвардійці почали тренування на живих мішенях. Хоча ці мішені — злочинці, бандити та інші негідники, для більшості людей це неприємно, і іноді серед них гинуть невинні."
 
-  nnc_building_chaos:0 "Rising Chaos"
-  nnc_building_chaos_desc:0 "Lancaster's announcement of retirement has set the political order of New New Castle into disarray. Tensions between the Blackguards, Chivalrics, and Crusaders have always existed, but things are getting much, much worse."
+  nnc_building_chaos:0 "Зростаючий Хаос"
+  nnc_building_chaos_desc:0 "Оголошення Ланкастера про вихід у відставку призвело політичний порядок Нового Нью-Касла до безладу. Напруженість між Чорними Гвардійцями, Лицарством і Хрестоносцями завжди існувала, але тепер ситуація стає набагато, набагато гіршою."
 
-  nnc_knightly_disorder:0 "Knightly Disorder"
-  nnc_knightly_disorder_desc:0 "Chaos in the Kingdom! New New Castle is now gripped by constant civil war, and Sir Cuthbert watches the flower of American chivalry fall into turmoil and civil war."
+  nnc_knightly_disorder:0 "Лицарський безлад"
+  nnc_knightly_disorder_desc:0 "Хаос у королівстві! Новий Нью-Касл охоплений безперервною громадянською війною, і сер Катберт спостерігає, як цвіт американського лицарства занурюється в смуту та міжусобицю."
 
-  nnc_knightly_disorder2:0 "Knightly Disorder"
-  nnc_knightly_disorder2_desc:0 "Chaos in the Kingdom! New New Castle is now gripped by constant civil war, and Sir Cuthbert watches the flower of American chivalry fall into turmoil and civil war. Now the people live in fear, wondering if they'll be next to fall in the turmoil."
+  nnc_knightly_disorder2:0 "Лицарський безлад"
+  nnc_knightly_disorder2_desc:0 "Хаос у королівстві! Новий Нью-Касл охоплений безперервною громадянською війною, і сер Катберт спостерігає, як цвіт американського лицарства занурюється в смуту та міжусобицю. Тепер народ живе в страху, не знаючи, хто стане наступною жертвою цієї смути."
 
-  nnc_the_peasant_farmers:0 "The Peasant Farmers"
-  nnc_the_peasant_farmers_desc:0 ""
+  nnc_the_peasant_farmers:0 "Селяни-фермери"
+  nnc_the_peasant_farmers_desc:0 "Селяни-фермери є основою нашого продовольчого забезпечення. Їхня важка праця годує все королівство."
 
-  nnc_the_peasant_farmers2:0 "The Peasant Farmers"
-  nnc_the_peasant_farmers2_desc:0 ""
+  nnc_the_peasant_farmers2:0 "Селяни-фермери"
+  nnc_the_peasant_farmers2_desc:0 "Селяни-фермери є основою нашого продовольчого забезпечення. Їхня важка праця годує все королівство."
 
-  nnc_the_peasant_farmers_blackguard:0 "Punishing Serfdom"
-  nnc_the_peasant_farmers_blackguard_desc:0 ""
+  nnc_the_peasant_farmers_blackguard:0 "Каторжне кріпацтво"
+  nnc_the_peasant_farmers_blackguard_desc:0 "Селяни — не більше ніж власність. Вони працюватимуть, тому що ми так сказали."
 
-  nnc_the_peasant_farmers_blackguard2:0 "Punishing Serfdom"
-  nnc_the_peasant_farmers_blackguard2_desc:0 ""
+  nnc_the_peasant_farmers_blackguard2:0 "Каторжне кріпацтво"
+  nnc_the_peasant_farmers_blackguard2_desc:0 "Селяни — не більше ніж власність. Вони працюватимуть, тому що ми так сказали."
 
-  nnc_the_peasant_farmers_chivalric:0 "Uplifting the Peasantry"
-  nnc_the_peasant_farmers_chivalric_desc:0 ""
+  nnc_the_peasant_farmers_chivalric:0 "Піднесення селянства"
+  nnc_the_peasant_farmers_chivalric_desc:0 "Обов'язок лицаря — піклуватися про тих, хто нижче. Кращі умови для селян означають сильніше королівство для всіх."
 
-  nnc_the_peasant_farmers_chivalric2:0 "Uplifting the Peasantry"
-  nnc_the_peasant_farmers_chivalric2_desc:0 ""
+  nnc_the_peasant_farmers_chivalric2:0 "Піднесення селянства"
+  nnc_the_peasant_farmers_chivalric2_desc:0 "Обов'язок лицаря — піклуватися про тих, хто нижче. Кращі умови для селян означають сильніше королівство для всіх."
 
-  nnc_artisan_workshops:0 "Artisan Workshops"
-  nnc_artisan_workshops_desc:0 ""
+  nnc_artisan_workshops:0 "Ремісничі майстерні"
+  nnc_artisan_workshops_desc:0 "Майстерні наших міст виробляють товари, необхідні для повсякденного життя та війни."
 
-  nnc_artisan_workshops_blackguard:0 "Backbreaking Work"
-  nnc_artisan_workshops_blackguard_desc:0 ""
+  nnc_artisan_workshops_blackguard:0 "Виснажлива праця"
+  nnc_artisan_workshops_blackguard_desc:0 "Ремісники працюватимуть довше й важче. Їхні скарги — не наш клопіт."
 
-  nnc_artisan_workshops_blackguard2:0 "Backbreaking Work"
-  nnc_artisan_workshops_blackguard2_desc:0 ""
+  nnc_artisan_workshops_blackguard2:0 "Виснажлива праця"
+  nnc_artisan_workshops_blackguard2_desc:0 "Ремісники працюватимуть довше й важче. Їхні скарги — не наш клопіт."
 
-  nnc_artisan_workshops_blackguard3:0 "Backbreaking Work"
-  nnc_artisan_workshops_blackguard3_desc:0 ""
+  nnc_artisan_workshops_blackguard3:0 "Виснажлива праця"
+  nnc_artisan_workshops_blackguard3_desc:0 "Ремісники працюватимуть довше й важче. Їхні скарги — не наш клопіт."
 
-  nnc_artisan_workshops_chivalric:0 "Chartered Towns"
-  nnc_artisan_workshops_chivalric_desc:0 ""
+  nnc_artisan_workshops_chivalric:0 "Міста з хартіями"
+  nnc_artisan_workshops_chivalric_desc:0 "Надання містам прав і привілеїв заохочує торгівлю та ремесла, приносячи користь усім."
 
-  nnc_artisan_workshops_chivalric2:0 "Chartered Towns"
-  nnc_artisan_workshops_chivalric2_desc:0 ""
+  nnc_artisan_workshops_chivalric2:0 "Міста з хартіями"
+  nnc_artisan_workshops_chivalric2_desc:0 "Надання містам прав і привілеїв заохочує торгівлю та ремесла, приносячи користь усім."
 
-  nnc_artisan_workshops_chivalric3:0 "Chartered Towns"
-  nnc_artisan_workshops_chivalric3_desc:0 ""
+  nnc_artisan_workshops_chivalric3:0 "Міста з хартіями"
+  nnc_artisan_workshops_chivalric3_desc:0 "Надання містам прав і привілеїв заохочує торгівлю та ремесла, приносячи користь усім."
 
-  nnc_artisan_workshops_crusaders:0 "Zealous Craftsmen"
-  nnc_artisan_workshops_crusaders_desc:0 ""
+  nnc_artisan_workshops_crusaders:0 "Завзяті майстри"
+  nnc_artisan_workshops_crusaders_desc:0 "Наші ремісники працюють не за страх, а за віру. Кожен виріб — це внесок у священну справу."
 
-  nnc_artisan_workshops_crusaders2:0 "Zealous Craftsmen"
-  nnc_artisan_workshops_crusaders2_desc:0 ""
+  nnc_artisan_workshops_crusaders2:0 "Завзяті майстри"
+  nnc_artisan_workshops_crusaders2_desc:0 "Наші ремісники працюють не за страх, а за віру. Кожен виріб — це внесок у священну справу."
 
-  nnc_artisan_workshops_crusaders3:0 "Zealous Craftsmen"
-  nnc_artisan_workshops_crusaders3_desc:0 ""
+  nnc_artisan_workshops_crusaders3:0 "Завзяті майстри"
+  nnc_artisan_workshops_crusaders3_desc:0 "Наші ремісники працюють не за страх, а за віру. Кожен виріб — це внесок у священну справу."
 
-  nnc_castle_elites:0 "Castle Elites"
-  nnc_castle_elites_desc:0 ""
+  nnc_castle_elites:0 "Еліта Замку"
+  nnc_castle_elites_desc:0 "Дворяни, чиновники та служителі — опора трону. Їхня підтримка життєво важлива."
 
-  nnc_castle_elites_blackguard:0 "Corrupt Nobles"
-  nnc_castle_elites_blackguard_desc:0 ""
+  nnc_castle_elites_blackguard:0 "Корумпована знать"
+  nnc_castle_elites_blackguard_desc:0 "Відданість можна купити. І ми знаємо ціну."
 
-  nnc_thriving_blackguards:0 "Thriving Blackguard Economy"
-  nnc_thriving_blackguards_desc:0 ""
+  nnc_thriving_blackguards:0 "Процвітаюча Економіка Чорних Гвардійців"
+  nnc_thriving_blackguards_desc:0 "Наша економіка, побудована на експлуатації, приносить плоди тим, хто нагорі."
 
-  nnc_thriving_chivalrics:0 "Thriving Chivalric Economy"
-  nnc_thriving_chivalrics_desc:0 ""
+  nnc_thriving_chivalrics:0 "Процвітаюча Економіка Лицарства"
+  nnc_thriving_chivalrics_desc:0 "Завдяки турботі про народ, наша економіка міцна, як ніколи."
 
-  nnc_thriving_crusaders:0 "Thriving Crusader Economy"
-  nnc_thriving_crusaders_desc:0 ""
+  nnc_thriving_crusaders:0 "Процвітаюча Економіка Хрестоносців"
+  nnc_thriving_crusaders_desc:0 "Ресурси королівства мобілізовані для великої мети — і це працює."
 
-  nnc_arming_up:0 "Arming Up"
-  nnc_arming_up_desc:0 ""
+  nnc_arming_up:0 "Озброєння"
+  nnc_arming_up_desc:0 "Кожен лицар має бути готовий до битви. Ми забезпечуємо їх найкращим."
 
-  nnc_disciplined_soldiers:0 "Disciplined Soldiers"
-  nnc_disciplined_soldiers_desc:0 ""
+  nnc_disciplined_soldiers:0 "Дисципліновані солдати"
+  nnc_disciplined_soldiers_desc:0 "Дисципліна — основа боєздатної армії."
 
-  nnc_disciplined_soldiers2:0 "Disciplined Soldiers"
-  nnc_disciplined_soldiers2_desc:0 ""
+  nnc_disciplined_soldiers2:0 "Дисципліновані солдати"
+  nnc_disciplined_soldiers2_desc:0 "Дисципліна — основа боєздатної армії."
 
-  nnc_disciplined_soldiers3:0 "Disciplined Soldiers"
-  nnc_disciplined_soldiers3_desc:0 ""
+  nnc_disciplined_soldiers3:0 "Дисципліновані солдати"
+  nnc_disciplined_soldiers3_desc:0 "Дисципліна — основа боєздатної армії."
 
-  nnc_disciplined_soldiers2_chivalric:0 "Disciplined Soldiers"
-  nnc_disciplined_soldiers2_chivalric_desc:0 ""
+  nnc_disciplined_soldiers2_chivalric:0 "Дисципліновані солдати"
+  nnc_disciplined_soldiers2_chivalric_desc:0 "Честь і порядок роблять наших солдатів непереможними."
 
-  nnc_disciplined_soldiers3_chivalric:0 "Disciplined Soldiers"
-  nnc_disciplined_soldiers3_chivalric_desc:0 ""
+  nnc_disciplined_soldiers3_chivalric:0 "Дисципліновані солдати"
+  nnc_disciplined_soldiers3_chivalric_desc:0 "Честь і порядок роблять наших солдатів непереможними."
 
-  nnc_disciplined_soldiers2_crusader:0 "Disciplined Soldiers"
-  nnc_disciplined_soldiers2_crusader_desc:0 ""
+  nnc_disciplined_soldiers2_crusader:0 "Дисципліновані солдати"
+  nnc_disciplined_soldiers2_crusader_desc:0 "Віра та дисципліна ведуть наших воїнів до перемоги."
 
-  nnc_disciplined_soldiers3_crusader:0 "Disciplined Soldiers"
-  nnc_disciplined_soldiers3_crusader_desc:0 ""
+  nnc_disciplined_soldiers3_crusader:0 "Дисципліновані солдати"
+  nnc_disciplined_soldiers3_crusader_desc:0 "Віра та дисципліна ведуть наших воїнів до перемоги."
 
-  nnc_kings_castle:0 "The King's Castles"
-  nnc_kings_castle_desc:0 ""
+  nnc_kings_castle:0 "Королівські Замки"
+  nnc_kings_castle_desc:0 "Наші замки — символи нашої могутності та оплот безпеки."
 
-  nnc_kings_castle2:0 "The King's Castles"
-  nnc_kings_castle2_desc:0 ""
+  nnc_kings_castle2:0 "Королівські Замки"
+  nnc_kings_castle2_desc:0 "Наші замки — символи нашої могутності та оплот безпеки."
 
-  nnc_kings_castle2_blackguard:0 "The King's Castles"
-  nnc_kings_castle2_blackguard_desc:0 ""
+  nnc_kings_castle2_blackguard:0 "Королівські Замки"
+  nnc_kings_castle2_blackguard_desc:0 "Замки — це не просто оборонні споруди, це центри нашої влади."
 
-  nnc_kings_castle2_chivalric:0 "The King's Castles"
-  nnc_kings_castle2_chivalric_desc:0 ""
+  nnc_kings_castle2_chivalric:0 "Королівські Замки"
+  nnc_kings_castle2_chivalric_desc:0 "Замки захищають народ, якому ми служимо."
 
-  nnc_kings_castle2_crusader:0 "The King's Castles"
-  nnc_kings_castle2_crusader_desc:0 ""
+  nnc_kings_castle2_crusader:0 "Королівські Замки"
+  nnc_kings_castle2_crusader_desc:0 "Ці твердині стануть опорними пунктами нашої священної війни."
 
-  nnc_kings_castle3_blackguard:0 "The King's Castles"
-  nnc_kings_castle3_blackguard_desc:0 ""
+  nnc_kings_castle3_blackguard:0 "Королівські Замки"
+  nnc_kings_castle3_blackguard_desc:0 "Наша влада непохитна, як стіни наших замків."
 
-  nnc_kings_castle3_chivalric:0 "The King's Castles"
-  nnc_kings_castle3_chivalric_desc:0 ""
+  nnc_kings_castle3_chivalric:0 "Королівські Замки"
+  nnc_kings_castle3_chivalric_desc:0 "Велич наших замків відображає велич наших ідеалів."
 
-  nnc_kings_castle3_crusader:0 "The King's Castles"
-  nnc_kings_castle3_crusader_desc:0 ""
+  nnc_kings_castle3_crusader:0 "Королівські Замки"
+  nnc_kings_castle3_crusader_desc:0 "Замки是我们的 крепости на шляху до перемоги."
 
-  NNC_roundtable_abolished:0 "The Roundtable Abolished"
-  NNC_roundtable_abolished_desc:0 "With the ascension of the Blackguards and the end of the roundtable system, a new cadre of elite advisors must be chosen."
+  NNC_roundtable_abolished:0 "Круглий Стіл скасовано"
+  NNC_roundtable_abolished_desc:0 "Зі сходженням Чорних Гвардійців і завершенням системи круглого столу необхідно обрати новий склад елітних радників."
 
-  NNC_corruption:0 "Festering Corruption"
-  NNC_corruption_desc:0 ""
+  NNC_corruption:0 "Гниюча корупція"
+  NNC_corruption_desc:0 "Хабарництво стало звичним явищем, роз'їдаючи основи держави."
 
-  NNC_corruption2:0 "Growing Corruption"
-  NNC_corruption2_desc:0 ""
+  NNC_corruption2:0 "Зростаюча корупція"
+  NNC_corruption2_desc:0 "Корупція поширюється, наче ракова пухлина, вражаючи всі сфери життя."
 
-  NNC_corruption3:0 "Accepted Corruption"
-  NNC_corruption3_desc:0 ""
+  NNC_corruption3:0 "Прийнята корупція"
+  NNC_corruption3_desc:0 "Корупція більше не викликає обурення — це просто спосіб ведення справ."
 
-  NNC_angry_blackguards:0 "Angry Blackguards"
-  NNC_angry_blackguards_desc:0 ""
+  NNC_angry_blackguards:0 "Розлючені Чорні Гвардійці"
+  NNC_angry_blackguards_desc:0 "Чорні Гвардійці незадоволені новим порядком і готові це показати."
 
-  NNC_angry_chivalrics:0 "Angry Chivalrics"
-  NNC_angry_chivalrics_desc:0 ""
+  NNC_angry_chivalrics:0 "Розлючене Лицарство"
+  NNC_angry_chivalrics_desc:0 "Лицарство обурене тим, як із ними поводяться."
 
-  NNC_angry_crusaders:0 "Angry Crusaders"
-  NNC_angry_crusaders_desc:0 ""
+  NNC_angry_crusaders:0 "Розлючені Хрестоносці"
+  NNC_angry_crusaders_desc:0 "Хрестоносці сповнені гніву та прагнуть відновити справедливість."
 
-  nnc_chivalric_code_idea:0 "Chivalric Code"
-  nnc_chivalric_code_idea_desc:0 "Our knights need to be more than the common rabble of the wasteland. They are knights, not raiders."
+  nnc_chivalric_code_idea:0 "Лицарський Кодекс"
+  nnc_chivalric_code_idea_desc:0 "Наші лицарі повинні бути чимось більшим, ніж просто зграя з пусток. Вони — лицарі, а не рейдери."
 
-  NNC_hearts_and_minds:0 "Hearts and Minds"
-  NNC_hearts_and_minds_desc:0 "You can not win the wasteland if you can not win their hearts."
+  NNC_hearts_and_minds:0 "Серця та Уми"
+  NNC_hearts_and_minds_desc:0 "Не можна завоювати пустку, якщо не завоювати серця її мешканців."
 
-  NNC_chivalric_virtues_idea:0 "Chivalric Virtues"
-  NNC_chivalric_virtues_idea_desc:0 "One must honour the chivalric virtues if they are to be a true knight."
+  NNC_chivalric_virtues_idea:0 "Лицарські чесноти"
+  NNC_chivalric_virtues_idea_desc:0 "Щоб бути справжнім лицарем, треба шанувати лицарські чесноти."
 
-  NNC_peoples_stewards:0 "The People's Stewards"
-  NNC_peoples_stewards_desc:0 "Although we serve the people, there is no doubt that we know what is best for them."
+  NNC_peoples_stewards:0 "Народні опікуни"
+  NNC_peoples_stewards_desc:0 "Хоча ми служимо народу, немає сумнівів у тому, що ми знаємо, що для нього краще."
 
-  NNC_freedom_of_association:0 "Freedom of Association"
-  NNC_freedom_of_association_desc:0 "If the people do not have the freedom to be wrong, do they have any freedoms at all?"
+  NNC_freedom_of_association:0 "Свобода об'єднань"
+  NNC_freedom_of_association_desc:0 "Якщо в людей немає свободи помилятися, чи є в них взагалі якісь свободи?"
 
-  NNC_blessed_militia:0 "Blessed Militia"
-  NNC_blessed_militia_desc:0 "Our soldiers fight with fire in their hearts and soul."
+  NNC_blessed_militia:0 "Благословенне Ополчення"
+  NNC_blessed_militia_desc:0 "Наші воїни б'ються з вогнем у серці та душі."
 
-  NNC_faithful_knights:0 "Faithful Knights"
-  NNC_faithful_knights_desc:0 "Our soldiers fight with skill and wrathful vengeance."
+  NNC_faithful_knights:0 "Вірні лицарі"
+  NNC_faithful_knights_desc:0 "Наші воїни б'ються з майстерністю та нестримною жагою помсти."
 
-  NNC_constance_queendom:0 "Constance's Queendom"
-  NNC_constance_queendom_desc:0 "There is no country more righteous or pure than Constance's Realm. This is a queendom of holy fury, and the world will now who we are."
+  NNC_constance_queendom:0 "Королівство Констанс"
+  NNC_constance_queendom_desc:0 "Немає країни більш праведної та чистої, ніж Царство Констанс. Це королівство священної люті, і тепер увесь світ дізнається, хто ми такі."
