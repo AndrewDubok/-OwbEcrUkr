@@ -1,5 +1,4 @@
 version="0.1"
-picture="thumbnail.png"
 tags={
 	"Translation"
 	"Alternative History"
